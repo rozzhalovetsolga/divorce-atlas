@@ -362,12 +362,11 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
 .icons figcaption{display:grid;gap:4px;font-size:14px;line-height:1.45;color:var(--ink2)}
 .icons figcaption b{font:500 22px/1.2 var(--mono);color:var(--accent)}
 .icons figcaption a{font-size:13px}
-.survival{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
-.sv{display:grid;gap:10px;align-content:start}
-.sv .icongrid{gap:4px;max-width:none}
-.sv .icongrid i{border-width:1.5px}
-.sv b{font:500 20px/1.2 var(--mono);color:var(--accent)}
-.sv span{font-size:13px;color:var(--ink2)}
+.survival{display:grid;gap:12px}
+.sv{display:grid;grid-template-columns:7.5em minmax(0,1fr) 8.5em;gap:12px;align-items:center;font-size:14px;color:var(--ink2)}
+.sv-track{height:16px;background:var(--rule);border-radius:9999px;overflow:hidden}
+.sv-fill{display:block;height:100%;background:var(--accent);border-radius:9999px}
+.sv b{font:500 16px var(--mono);color:var(--accent)}
 .myths{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:10px}
 .myth{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:16px 18px;display:grid;gap:8px;align-content:start}
 .myth s{color:var(--muted);font-size:15px}
@@ -389,7 +388,6 @@ input[type=range]:focus-visible{outline:1px solid var(--accent);outline-offset:4
 #bymap .country.sel{stroke:var(--ink);stroke-width:2.2}
 @media (max-width:820px){
   .hero-grid,.two{grid-template-columns:minmax(0,1fr)}
-  .survival{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 @media (max-width:760px){
   .chain-row{flex-direction:column}
@@ -843,8 +841,7 @@ document.getElementById('chains').innerHTML = CHAINS.map(chain => {
   };
   document.getElementById('survival').innerHTML = [5, 10, 20, 30].map(years => {
     const together = togetherAfter(years);
-    const rings = Array.from({length: 100}, (_, index) => `<i class="${index < together ? 'on' : ''}"></i>`).join('');
-    return `<div class="sv"><div class="icongrid" role="img" aria-label="${together} из 100 вместе через ${years} лет">${rings}</div><b>${together} из 100</b><span>вместе через ${years} лет</span></div>`;
+    return `<div class="sv"><span>через ${years} ${yearsRu(years)}</span><div class="sv-track" role="img" aria-label="${together} из 100 вместе через ${years} лет"><span class="sv-fill" style="width:${together}%"></span></div><span><b>${together}</b> из 100 вместе</span></div>`;
   }).join('');
   document.getElementById('survival-src').innerHTML = `Наш расчёт по ${link('Eurostat', 'https://ec.europa.eu/eurostat/databrowser/view/demo_ndivdur/default/table')}: медианный риск развода на каждом году брака в ${durRows.length} странах Европы; без учёта смертности`;
   const under5 = sortedPoints(bySeries('divorces_under_5y_share'));
