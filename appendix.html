@@ -485,6 +485,11 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
       .src-details summary::after{content:"+";font:500 1rem var(--mono);color:var(--accent)}
       .src-details[open] summary::after{content:"\2212"}
       .src-details .sources{margin-top:12px}
+      .toggle{height:32px;padding:0 14px;border:1px solid var(--accent);border-radius:9999px;background:var(--desk);color:var(--accent);font:500 12px var(--mono);cursor:pointer;align-self:center}
+      .toggle:hover{background:var(--accent-tint)}
+      .toggle[aria-expanded="true"]{background:var(--accent);color:var(--on-accent)}
+      .sheet-body{display:grid;gap:20px}
+      .doc-body{display:grid;gap:18px}
       .more{margin-top:16px}
       .more summary h3{font-size:1rem}
       .more > div{margin-top:14px}
@@ -2365,6 +2370,59 @@ function renderChains() {
   }).join('');
 }
 renderChains();
+
+/* accordion: every section except the world map opens on demand */
+(function accordion() {
+  const toggles = [];
+  function makeToggle(container, head, body, open) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'toggle';
+    const set = state => {
+      body.hidden = !state;
+      button.setAttribute('aria-expanded', String(state));
+      button.textContent = state ? 'Свернуть' : 'Показать раздел';
+    };
+    button.addEventListener('click', () => set(body.hidden));
+    head.appendChild(button);
+    set(open);
+    toggles.push({container, open: () => set(true)});
+  }
+  for (const sheet of document.querySelectorAll('.page > article.sheet:not([hidden])')) {
+    const frame = sheet.querySelector('.frame');
+    const head = frame.querySelector('.sheet-head');
+    const body = document.createElement('div');
+    body.className = 'sheet-body';
+    while (head.nextSibling) body.appendChild(head.nextSibling);
+    frame.appendChild(body);
+    makeToggle(sheet, head, body, sheet.querySelector('#sheet-title') != null);
+  }
+  const tableSection = document.getElementById('tbl-h')?.closest('section');
+  if (tableSection) {
+    const head = tableSection.firstElementChild;
+    const body = document.createElement('div');
+    body.className = 'doc-body';
+    while (head.nextSibling) body.appendChild(head.nextSibling);
+    tableSection.appendChild(body);
+    makeToggle(tableSection, head, body, false);
+  }
+  function openFor(id) {
+    const target = id && document.getElementById(id);
+    if (!target) return;
+    for (const toggle of toggles) {
+      if (toggle.container.contains(target)) toggle.open();
+    }
+    target.scrollIntoView({block: 'start'});
+  }
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => anchor.addEventListener('click', event => {
+    const id = anchor.getAttribute('href').slice(1);
+    if (!document.getElementById(id)) return;
+    event.preventDefault();
+    history.replaceState(null, '', '#' + id);
+    openFor(id);
+  }));
+  if (location.hash) openFor(decodeURIComponent(location.hash.slice(1)));
+})();
 </script>
 
 </body>
