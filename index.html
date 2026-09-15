@@ -382,6 +382,19 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
 .stage-card{display:grid;gap:14px}
 .stage-card label{font:600 16px var(--sans);color:var(--ink)}
 .stage-card label b{font:500 16px var(--mono);color:var(--accent)}
+.stage-ticks{display:flex;justify-content:space-between;font:400 11px var(--mono);color:var(--muted);margin-top:-8px}
+.stage-answer{display:grid;gap:4px}
+.stage-answer b{font:500 30px/1.15 var(--mono);color:var(--accent)}
+.stage-answer span{font-size:16px;color:var(--ink)}
+.stage-answer em{font-style:normal;font-size:14px;color:var(--ink2)}
+#stage-curve svg{width:100%;height:auto;display:block}
+.sc-band{fill:var(--accent-tint)}
+.sc-bandlab{font:400 10px var(--mono);fill:var(--accent-deep)}
+.sc-area{fill:var(--rule2)}
+.sc-line{fill:none;stroke:var(--ink2);stroke-width:1.6}
+.sc-dot{fill:var(--accent);stroke:var(--sheet);stroke-width:2}
+.sc-lab{font:500 11px var(--mono);fill:var(--accent);stroke:var(--sheet);stroke-width:3px;paint-order:stroke}
+.sc-tk{font:400 10px var(--mono);fill:var(--muted)}
 input[type=range]{width:100%;accent-color:var(--accent);cursor:pointer}
 input[type=range]:focus{outline:none}
 input[type=range]:focus-visible{outline:1px solid var(--accent);outline-offset:4px;border-radius:4px}
@@ -465,10 +478,12 @@ input[type=range]:focus-visible{outline:1px solid var(--accent);outline-offset:4
       <div class="src" id="survival-src" style="margin-top:12px"></div>
     </div>
     <div class="card stage-card">
-      <label for="stage">Ваш стаж брака: <b id="stage-out"></b></label>
-      <input type="range" id="stage" min="0" max="29" step="1" value="3">
-      <div class="nums" id="stage-nums"></div>
-      <div class="src">Средняя пара в Европе, не прогноз для конкретной семьи</div>
+      <label for="stage">Сколько лет вы в браке? <b id="stage-out"></b></label>
+      <input type="range" id="stage" min="0" max="29" step="1" value="0">
+      <div class="stage-ticks" aria-hidden="true"><span>0</span><span>15 лет</span><span>29</span></div>
+      <div class="stage-answer" id="stage-answer" aria-live="polite"></div>
+      <div id="stage-curve"></div>
+      <div class="src">Средняя пара в Европе по данным Eurostat — ориентир, а не прогноз для конкретной семьи</div>
     </div>
     <div class="hero-facts" id="when-nums"></div>
   </section>
@@ -858,17 +873,31 @@ document.getElementById('chains').innerHTML = CHAINS.map(chain => {
     return share;
   };
   const stage = document.getElementById('stage');
+  const peakLo = quantile(peaks, 0.1), peakHi = quantile(peaks, 0.9);
+  const curveTarget = document.getElementById('stage-curve');
+  const W = chartWidth(curveTarget), H = 130, m = {l: 10, r: 10, t: 22, b: 18};
+  const x = d3.scaleLinear().domain([0, 29]).range([m.l, W - m.r]);
+  const y = d3.scaleLinear().domain([0, d3.max(hazard)]).range([H - m.b, m.t]);
+  const svg = d3.select(curveTarget).append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Риск развода по стажу брака');
+  svg.append('rect').attr('class', 'sc-band').attr('x', x(peakLo)).attr('y', m.t - 10).attr('width', x(peakHi) - x(peakLo)).attr('height', H - m.b - m.t + 10);
+  svg.append('text').attr('class', 'sc-bandlab').attr('x', (x(peakLo) + x(peakHi)) / 2).attr('y', H - m.b - 6).attr('text-anchor', 'middle').text('самые рискованные годы');
+  svg.append('path').attr('class', 'sc-area').attr('d', d3.area().x((value, index) => x(index)).y0(y(0)).y1(value => y(value)).curve(d3.curveMonotoneX)(hazard));
+  svg.append('path').attr('class', 'sc-line').attr('d', d3.line().x((value, index) => x(index)).y(value => y(value)).curve(d3.curveMonotoneX)(hazard));
+  for (const tick of [0, 5, 10, 15, 20, 25, 29]) {
+    svg.append('text').attr('class', 'sc-tk').attr('x', x(tick)).attr('y', H - 4).attr('text-anchor', 'middle').text(tick);
+  }
+  const dot = svg.append('circle').attr('class', 'sc-dot').attr('r', 6);
+  const dotLabel = svg.append('text').attr('class', 'sc-lab').attr('text-anchor', 'middle').text('вы здесь');
   function renderStage() {
     const t = Number(stage.value);
-    document.getElementById('stage-out').textContent = `${t} ${yearsRu(t)}`;
-    const nextFive = (1 - survivalTo(t + 5) / survivalTo(t)) * 100;
-    const phase = t < peakD ? 'риск ещё растёт' : t === peakD ? 'сейчас пик риска' : 'риск уже снижается';
-    document.getElementById('stage-nums').innerHTML = [
-      [`${fmt1(hazard[t])} из 1000`, 'пар с таким стажем разводятся за год'],
-      [`${fmt0(nextFive)} из 100`, 'разведутся в ближайшие 5 лет'],
-      [phase, `самый рискованный стаж — ${peakD} ${yearsRu(peakD)}`],
-      [`${fmt0(survivalTo(t) * 100)} из 100`, 'пар доживают до такого стажа'],
-    ].map(factCard).join('');
+    document.getElementById('stage-out').textContent = t === 0 ? 'только поженились' : `${t} ${yearsRu(t)}`;
+    const nextFive = Math.round((1 - survivalTo(t + 5) / survivalTo(t)) * 100);
+    const phase = t < peakLo
+      ? `Самые рискованные годы (${peakLo}–${peakHi}-й) ещё впереди.`
+      : t <= peakHi ? 'Вы сейчас в самых рискованных годах брака.' : 'Самые рискованные годы позади — дальше риск снижается.';
+    document.getElementById('stage-answer').innerHTML = `<b>${nextFive} из 100</b><span>пар с таким стажем разведутся в ближайшие 5 лет.</span><em>${phase}</em>`;
+    dot.attr('cx', x(t)).attr('cy', y(hazard[t]));
+    dotLabel.attr('x', Math.min(Math.max(x(t), 32), W - 32)).attr('y', y(hazard[t]) - 12);
   }
   stage.addEventListener('input', renderStage);
   renderStage();
