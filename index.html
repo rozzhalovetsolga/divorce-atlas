@@ -334,21 +334,27 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
 .src a{color:var(--muted)}
 .src a:hover{color:var(--accent)}
 .chains{display:grid;gap:10px}
-.chain{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:16px 18px;display:grid;gap:12px}
-.chain h3{font-size:16px}
-.chain-row{display:flex;align-items:stretch}
-.cnode{flex:1 1 0;min-width:0;border:1px solid var(--frame);border-radius:10px;padding:10px 12px;font-size:13.5px;font-weight:500;line-height:1.35;color:var(--ink);background:var(--desk);display:flex;align-items:center}
-.cnode.end{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
-.clink{flex:0 0 170px;display:grid;align-content:center;justify-items:center;text-align:center;gap:3px;padding:0 10px}
-.clink b{font:500 14px/1.2 var(--mono);color:var(--accent)}
-.clink span{font-size:11.5px;line-height:1.3;color:var(--muted)}
-.clink::after{content:"\2192";font:400 18px/1 var(--mono);color:var(--ink2)}
+.chain{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:18px 20px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:14px 30px;align-items:start}
+.chain-left{display:grid;gap:12px;align-content:start}
+.chain-head{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.chain h3{font-size:17px}
+.flow{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+.fnode{padding:6px 11px;border:1px solid var(--frame);border-radius:9999px;font-size:13px;line-height:1.3;background:var(--desk);color:var(--ink)}
+.fnode.end{background:var(--accent);border-color:var(--accent);color:var(--on-accent);font-weight:500}
+.farrow{color:var(--muted);font-family:var(--mono)}
+.chain-note{font-size:13px;line-height:1.45;color:var(--ink2)}
+.cmp{display:grid;gap:9px}
+.cmp-title{font:400 11.5px/1.4 var(--mono);color:var(--muted)}
+.cmp-row{display:grid;grid-template-columns:minmax(0,12em) minmax(0,1fr) 3.6em;gap:10px;align-items:center;font-size:13.5px;color:var(--ink2)}
+.cmp-track{height:14px;background:var(--rule2);border-radius:9999px;overflow:hidden}
+.cmp-track i{display:block;height:100%;background:var(--bar-soft);border-radius:9999px}
+.cmp-track i.hot{background:var(--accent)}
+.cmp-row b{font:500 14px var(--mono);color:var(--ink);text-align:right}
 .kind{font:400 9.5px/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:3px 7px;border-radius:9999px;white-space:nowrap;font-style:normal}
 .kind.k-exp{color:var(--good);background:var(--good-bg)}
 .kind.k-data{color:var(--ink2);background:var(--card-hi);border:1px solid var(--rule)}
 .kind.k-corr{color:var(--warn);background:var(--warn-bg)}
-.chain-total{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;font-size:13px;color:var(--ink2);border-top:1px solid var(--rule);padding-top:10px}
-.chain-total b{font:500 16px var(--mono);color:var(--accent)}
+.kind.k-poll{color:var(--accent-deep);background:var(--accent-tint)}
 .kinds{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:12px;color:var(--muted)}
 .hero-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:12px;margin-top:10px}
 .tldr-card{display:grid;gap:12px;align-content:start}
@@ -390,9 +396,8 @@ input[type=range]:focus-visible{outline:1px solid var(--accent);outline-offset:4
   .hero-grid,.two{grid-template-columns:minmax(0,1fr)}
 }
 @media (max-width:760px){
-  .chain-row{flex-direction:column}
-  .clink{flex:none;padding:8px 0}
-  .clink::after{content:"\2193"}
+  .chain{grid-template-columns:minmax(0,1fr)}
+  .cmp-row{grid-template-columns:minmax(0,8.5em) minmax(0,1fr) 3.2em}
 }
 @media (max-width:420px){
   .nums{grid-template-columns:minmax(0,1fr)}
@@ -441,11 +446,12 @@ input[type=range]:focus-visible{outline:1px solid var(--accent);outline-offset:4
   <section class="blk" aria-labelledby="why-h">
     <span class="eyebrow">Почему</span>
     <h2 id="why-h">Что на самом деле ведёт к разводу</h2>
-    <p class="sub">Причина → через что действует → развод. На стрелке — цифра и сила доказательства.</p>
+    <p class="sub">Цепочка причин — и цифры, которые её подтверждают.</p>
     <div class="kinds">
       <span><i class="kind k-exp">эксперимент природы</i> причина доказана</span>
       <span><i class="kind k-data">большие данные</i> устойчивая связь</span>
       <span><i class="kind k-corr">корреляция</i> связь, не доказательство</span>
+      <span><i class="kind k-poll">опрос</i> мнение людей</span>
     </div>
     <div class="chains" id="chains"></div>
   </section>
@@ -767,67 +773,61 @@ const medianAll = d3.median(medians);
 /* 3. why: causal chains in natural frequencies */
 const CHAINS = [
   {
-    title: 'Образование и деньги',
-    nodes: ['Мало образования и денег', 'Ранний брак, ребёнок до свадьбы', 'Развод'],
-    links: [
-      {value: 'сильная связь', text: 'штаты США: чем больше людей с дипломом, тем позже свадьбы', kind: 'corr'},
-      {value: '6 из 10 против 4–5', text: 'браков распадутся за 20 лет: свадьба до 20 лет и в 20–24', kind: 'data'},
-    ],
-    total: ['2 из 10 против 6 из 10', 'браков распадутся за 20 лет у женщин с дипломом вуза и со школьным образованием'],
-    sources: [['Наш расчёт, ACS 2024', ''], ['Copen et al., 2012, CDC', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf']],
+    title: 'Образование и ранний брак',
+    kind: 'data',
+    flow: ['Мало образования и денег', 'Ранний брак, ребёнок до свадьбы', 'Развод'],
+    compare: {title: 'Из 100 первых браков за 20 лет распадутся', rows: [['Диплом вуза', 22], ['Только школа', 59], ['Свадьба в 20–24 года', 45], ['Свадьба до 20 лет', 63]]},
+    note: 'США, женщины. Ранний брак и мало образования часто идут вместе: где больше людей с дипломом, там позже женятся.',
+    sources: [['Copen et al., 2012, CDC', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf'], ['наш расчёт, ACS 2024', '']],
   },
   {
-    title: 'Работа и деньги в семье',
-    nodes: ['Муж без полной занятости', 'Споры о деньгах, враждебность', 'Развод'],
-    links: [
-      {value: 'меньше тепла', text: 'денежное давление усиливает враждебность', kind: 'data'},
-      {value: 'сильнее всех', text: 'споры о деньгах предсказывают развод сильнее других споров', kind: 'data'},
-    ],
-    total: ['риск выше', 'если у мужа нет полной занятости; работа жены на риск не влияет'],
-    sources: [['Conger et al., 1990', 'https://doi.org/10.2307/352931'], ['Dew et al., 2012', 'https://doi.org/10.1111/j.1741-3729.2012.00715.x'], ['Killewald, 2016', 'https://doi.org/10.1177/0003122416655340']],
+    title: 'Деньги в семье',
+    kind: 'poll',
+    flow: ['Нет стабильной работы у мужа', 'Споры о деньгах', 'Развод'],
+    compare: {title: 'Назвали деньги главной причиной развода, %', unit: '%', rows: [['США, сами разведённые', 36.7], ['Россия, опрос ВЦИОМ', 46]]},
+    note: 'Большие исследования: без полной занятости мужа риск выше, работа жены на него не влияет; споры о деньгах предсказывают развод сильнее других споров.',
+    sources: [['Scott et al., 2013', 'https://doi.org/10.1037/a0032025'], ['ВЦИОМ, 2024', 'https://wciom.ru/analytical-reviews/analiticheskii-obzor/razvody-v-rossii-monitoring'], ['Killewald, 2016', 'https://doi.org/10.1177/0003122416655340'], ['Dew et al., 2012', 'https://doi.org/10.1111/j.1741-3729.2012.00715.x']],
   },
   {
     title: 'Развод родителей',
-    nodes: ['Родители развелись', 'Слабее вера в брак «навсегда»', 'Развод'],
-    links: [
-      {value: 'установка', text: 'сильнее всего, если родители почти не ссорились до развода', kind: 'data'},
-      {value: '6 из 10 против 4', text: 'браков распадутся за 20 лет: выросли не с обоими родителями и с обоими', kind: 'data'},
-    ],
-    total: ['в 17 из 18 стран', 'эффект найден почти везде; в России он слабее — риск выше примерно на треть'],
+    kind: 'data',
+    flow: ['Родители развелись', 'Слабее вера в брак «навсегда»', 'Развод'],
+    compare: {title: 'Из 100 первых браков за 20 лет распадутся', rows: [['Выросли с обоими родителями', 42], ['Без одного из родителей', 62]]},
+    note: 'Эффект найден в 17 из 18 стран. Передаётся в основном установка, а не гены; в России эффект слабее.',
     sources: [['Copen et al., 2012, CDC', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf'], ['Amato & DeBoer, 2001', 'https://doi.org/10.1111/j.1741-3737.2001.01038.x'], ['Dronkers & Härkönen, 2008', 'https://doi.org/10.1080/00324720802320475'], ['Muszyńska, 2008', 'https://doi.org/10.4054/DemRes.2008.18.6']],
   },
   {
     title: 'Алкоголь',
-    nodes: ['Пьёт один из супругов', 'Развод'],
-    links: [
-      {value: 'в 3 раза чаще', text: 'разводятся, если много пьёт только жена; если только муж — в 1,5 раза', kind: 'data'},
-    ],
-    total: ['почти в 3 раза', 'чаще разводятся в России, если жена пьёт чаще мужа'],
+    kind: 'data',
+    flow: ['Один из супругов много пьёт', 'Ссоры, насилие', 'Развод'],
+    compare: {title: 'Во сколько раз чаще разводятся (Норвегия, 19 977 пар)', unit: '×', rows: [['Никто не пьёт много', 1], ['Много пьёт только муж', 1.51], ['Много пьёт только жена', 3.07]]},
+    note: 'В России шансы развода почти втрое выше, если жена пьёт чаще мужа. В Беларуси алкоголь называют главной причиной 75% опрошенных.',
     sources: [['Torvik et al., 2013', 'https://doi.org/10.1111/acer.12029'], ['Keenan et al., 2013', 'https://doi.org/10.1093/alcalc/agt068']],
   },
   {
     title: 'Закон',
-    nodes: ['Разрешили развод без вины', 'Разводов больше', 'Через ~10 лет — как раньше'],
-    links: [
-      {value: '+0,6 на 1000', text: 'Европа: реформы объясняют около 20% роста разводов', kind: 'exp'},
-      {value: '~10 лет', text: 'США: всплеск рассасывается', kind: 'exp'},
-    ],
-    total: ['на 8–16% меньше', 'женских самоубийств и примерно на 30% меньше домашнего насилия после реформы'],
+    kind: 'exp',
+    flow: ['Развод без вины разрешили', 'Разводов больше', 'Через ~10 лет — как раньше'],
+    compare: {title: 'Разводов на 1000 жителей, в среднем по Европе', unit: 'rate', rows: [['Обычный уровень', 2.0], ['С эффектом реформы', 2.6]]},
+    note: 'Единственное прямое доказательство причины: страны меняли закон в разные годы. В США всплеск рассасывается примерно за 10 лет, а женских самоубийств становится на 8–16% меньше.',
     sources: [['González & Viitanen, 2009', 'https://doi.org/10.1016/j.euroecorev.2008.05.005'], ['Wolfers, 2006', 'https://doi.org/10.1257/aer.96.5.1802'], ['Stevenson & Wolfers, 2006', 'https://doi.org/10.1093/qje/121.1.267']],
   },
 ];
-const KIND_LABEL = {exp: 'эксперимент природы', data: 'большие данные', corr: 'корреляция'};
+const KIND_LABEL = {exp: 'эксперимент природы', data: 'большие данные', corr: 'корреляция', poll: 'опрос'};
+const cmpValue = (value, unit) => unit === '×' ? '×' + fmt1(value).replace(',0', '') : unit === '%' ? fmt0(value) + '%' : unit === 'rate' ? fmt1(value) : fmt0(value);
 document.getElementById('chains').innerHTML = CHAINS.map(chain => {
-  const parts = [];
-  chain.nodes.forEach((node, index) => {
-    const last = index === chain.nodes.length - 1;
-    parts.push(`<div class="cnode${last ? ' end' : ''}">${esc(node)}</div>`);
-    const step = chain.links[index];
-    if (!last && step) parts.push(`<div class="clink"><i class="kind k-${step.kind}">${KIND_LABEL[step.kind]}</i><b>${esc(step.value)}</b><span>${esc(step.text)}</span></div>`);
-  });
-  return `<div class="chain"><h3>${esc(chain.title)}</h3><div class="chain-row">${parts.join('')}</div>
-    <div class="chain-total"><b>${esc(chain.total[0])}</b><span>${esc(chain.total[1])}</span></div>
-    <div class="src">${chain.sources.map(([label, url]) => link(label, url)).join(' · ')}</div></div>`;
+  const max = Math.max(...chain.compare.rows.map(([, value]) => value));
+  const rows = chain.compare.rows.map(([label, value]) => `<div class="cmp-row"><span>${esc(label)}</span><div class="cmp-track"><i class="${value === max ? 'hot' : ''}" style="width:${(value / max * 100).toFixed(1)}%"></i></div><b>${cmpValue(value, chain.compare.unit)}</b></div>`).join('');
+  const flow = chain.flow.map((node, index) => `<span class="fnode${index === chain.flow.length - 1 ? ' end' : ''}">${esc(node)}</span>`).join('<span class="farrow">→</span>');
+  return `<div class="chain">
+    <div class="chain-left">
+      <div class="chain-head"><h3>${esc(chain.title)}</h3><i class="kind k-${chain.kind}">${KIND_LABEL[chain.kind]}</i></div>
+      <div class="flow">${flow}</div>
+      <div class="chain-note">${esc(chain.note)}</div>
+      <div class="src">${chain.sources.map(([label, url]) => link(label, url)).join(' · ')}</div>
+    </div>
+    <div class="cmp"><div class="cmp-title">${esc(chain.compare.title)}</div>${rows}</div>
+  </div>`;
 }).join('');
 
 /* 4. when: out of 100 couples */

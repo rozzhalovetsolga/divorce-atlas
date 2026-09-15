@@ -303,22 +303,22 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
 
 <div class="page">
   <header class="hero">
-    <span class="eyebrow">Атлас разводов · данные на сентябрь 2026</span>
-    <h1>Разводы: где, почему и когда</h1>
-    <p class="lead">Карта мира по последнему доступному году, штаты США, досье о причинах со ссылками на исследования и расчёт того, на каком году брака риск развода выше всего.</p>
+    <span class="eyebrow">Приложение · данные на сентябрь 2026</span>
+    <h1>Атлас разводов: все данные</h1>
+    <p class="lead">Карты, таблицы, 200+ исследований и источники к странице «Почему люди разводятся». Подробности раскрываются по клику.</p>
     <nav class="navpills" aria-label="Разделы">
-      <a class="navpill solid" href="#sheet-title">Карта мира</a>
+      <a class="navpill solid" href="https://rozzhalovetsolga.github.io/divorce-atlas/">← Главная</a>
+      <a class="navpill" href="#sheet-title">Карта мира</a>
       <a class="navpill" href="#by-title">Беларусь</a>
       <a class="navpill" href="#us-title">Штаты США</a>
-      <a class="navpill" href="#chain-title">Почему разводятся</a>
       <a class="navpill" href="#why-title">Досье</a>
       <a class="navpill" href="#dur-title">Длительность брака</a>
       <a class="navpill" href="#tbl-h">Таблица</a>
     </nav>
-    <div class="hero-facts" id="hero-facts"></div>
+    <div class="hero-facts" id="hero-facts" hidden></div>
   </header>
 
-  <article class="sheet" id="chain-sheet" aria-labelledby="chain-title">
+  <article class="sheet" id="chain-sheet" aria-labelledby="chain-title" hidden>
     <style>
       .chains{display:grid;gap:12px}
       .chain{background:var(--desk);border:1px solid var(--rule);border-radius:var(--r);padding:16px 18px;display:grid;gap:12px}
@@ -378,7 +378,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
               <button type="button" id="m-cdr" data-metric="cdr" aria-pressed="false">На 1000 жителей</button>
             </div>
           </div>
-          <div class="ctl"><span class="ctl-label">Заштриховать данные ранее</span>
+          <div class="ctl" hidden><span class="ctl-label">Заштриховать данные ранее</span>
             <div class="seg" role="group" aria-label="Порог штриховки">
               <button type="button" id="h-2023" data-hatch="2023" aria-pressed="false">2023</button>
               <button type="button" id="h-2024" data-hatch="2024" aria-pressed="true">2024</button>
@@ -386,7 +386,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
               <button type="button" id="h-0" data-hatch="0" aria-pressed="false">Нет</button>
             </div>
           </div>
-          <div class="ctl"><span class="ctl-label">Подписи значений</span>
+          <div class="ctl" hidden><span class="ctl-label">Подписи значений</span>
             <div class="seg" role="group" aria-label="Подписи значений">
               <button type="button" id="l-on" data-labels="on" aria-pressed="true">Да</button>
               <button type="button" id="l-off" data-labels="off" aria-pressed="false">Нет</button>
@@ -414,12 +414,12 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
           <h3>Условные обозначения</h3>
           <div class="legend" id="legend"></div>
         </div>
-        <div class="block">
+        <div class="block" hidden>
           <h3>Год, за который взяты данные</h3>
           <div class="yearbar" id="yearbar" aria-hidden="true"></div>
           <div class="yearlist" id="yearlist"></div>
         </div>
-        <div class="block imprint-block">
+        <div class="block imprint-block" hidden>
           <h3>Выходные данные</h3>
           <div class="imprint">
             <span><b>Проекция:</b> Equal Earth, равновеликая. Врезка — азимутальная равновеликая.</span>
@@ -431,7 +431,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
         </div>
       </div>
 
-      <div class="diagrams">
+      <div class="diagrams" hidden>
         <figure class="diagram">
           <h3>Причины: что называют сами разведённые</h3>
           <div class="dmeta">США · Scott et al., 2013 · 52 человека. Доля назвавших «серьёзным фактором»; можно было выбрать несколько.</div>
@@ -485,6 +485,9 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
       .src-details summary::after{content:"+";font:500 1rem var(--mono);color:var(--accent)}
       .src-details[open] summary::after{content:"\2212"}
       .src-details .sources{margin-top:12px}
+      .more{margin-top:16px}
+      .more summary h3{font-size:1rem}
+      .more > div{margin-top:14px}
       @media (max-width:900px){.by-top{grid-template-columns:minmax(0,1fr)}}
     </style>
     <div class="frame">
@@ -650,7 +653,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
     </div>
   </article>
 
-  <article class="sheet" id="why-sheet" aria-labelledby="why-title">
+  <article class="sheet strong-only" id="why-sheet" aria-labelledby="why-title">
     <style>
       .why-intro{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.4fr);gap:18px 32px;align-items:start}
       .why-intro p{font-size:.92rem;color:var(--ink2)}
@@ -720,8 +723,8 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
         <div class="controls">
           <div class="ctl"><span class="ctl-label">Показать выводы</span>
             <div class="seg" role="group" aria-label="Надёжность доказательств">
-              <button type="button" id="st-all" data-strength="all" aria-pressed="true">Все</button>
-              <button type="button" id="st-strong" data-strength="strong" aria-pressed="false">Только надёжные</button>
+              <button type="button" id="st-all" data-strength="all" aria-pressed="false">Все</button>
+              <button type="button" id="st-strong" data-strength="strong" aria-pressed="true">Только надёжные</button>
             </div>
           </div>
         </div>
@@ -859,7 +862,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
   </article>
 
   <section class="doc" aria-labelledby="note-h">
-    <h2 id="note-h">Пояснительная записка</h2>
+    <details class="src-details"><summary><h2 id="note-h">Как считать и читать данные</h2></summary>
     <div class="doc-grid">
       <div class="note">
         <h3>Как считается показатель</h3>
@@ -902,6 +905,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
         <div class="tl open" role="listitem"><span class="y">нет</span><span class="c">Филиппины (для немусульман)</span></div>
       </div>
     </div>
+    </details>
   </section>
 
   <section class="doc" aria-labelledby="tbl-h">
@@ -929,7 +933,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
   </section>
 
   <footer class="doc">
-    <h2>Источники</h2>
+    <details class="src-details"><summary><h2>Источники</h2></summary>
     <ol class="sources">
       <li>Данные 2023–2026 гг. (национальные статслужбы, Eurostat): abs.gov.au, agenciadenoticias.ibge.gov.br, alaraby.co.uk, arabtimesonline.com, armstat.am, asiaone.com, belstat.gov.by, bgsu.edu, cbs.gov.il, cdc.gov, cdn.www.gob.pe, censtatd.gov.hk, courts.ie, cso.ie, data.gov.bh, data.mn, datos.ine.gob.gt, destatis.de, diariolibre.com, dosm.gov.my, dsec.gov.mo, dst.dk, ec.europa.eu, ecuadorencifras.gob.ec, emol.com, gender.govmu.org, geostat.ge, hmh.news, hoy.com.do, ine.gob.cl, inegi.org.mx, infobae.com, landesspiegel.li, lapresse.tn, lesenjeuxeco.dz, library.cystat.gov.cy, mehrnews.com, metro.pr, mhlw.go.jp, mods.go.kr, monstat.org, onei.gob.cu, ons.gov.uk, opendata.cbs.nl, opendatabot.ua, redsemlac-cuba.net, rosstat.gov.ru, skynewsarabia.com, ssb.no, stat.gov.az, stat.gov.kg, stat.gov.kz, stat.mk, stat.tj, stat.uz, statbel.fgov.be, statistikportal.li, stats.gov.sa, stats.govt.nz, statssa.gov.za, thairath.co.th, thearabianstories.com, udn.com, unstats.un.org, veriportali.tuik.gov.tr, www150.statcan.gc.ca, yayasan-iki.or.id, youm7.com. Ссылка на конкретную публикацию — в колонке «Источник» таблицы.</li>
       <li>Сводная таблица по остальным странам: <a href="https://en.wikipedia.org/wiki/List_of_countries_by_marriage_and_divorce_rates">Wikipedia, List of countries by marriage and divorce rates</a> (Eurostat, ООН, национальные статслужбы, World Population Review).</li>
@@ -942,6 +946,7 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
       <li>Gottman, J. M. (1994). What Predicts Divorce? Lawrence Erlbaum.</li>
       <li>Картографическая основа: Natural Earth через world-atlas (1:110 млн и 1:50 млн).</li>
     </ol>
+    </details>
   </footer>
 </div>
 
@@ -1009,7 +1014,7 @@ const METRICS = {
     label: v => fmt1(v),
   },
 };
-const state = {metric: 'ratio', hatchYear: 2024, labels: true, sort: 'ratio', dir: 'desc'};
+const state = {metric: 'ratio', hatchYear: 0, labels: true, sort: 'ratio', dir: 'desc'};
 
 function binOf(value, bins) {
   let index = 0;
@@ -1788,10 +1793,7 @@ function renderScatters() {
   const usLabels = ['49', '40', '11', '10', '23', '25'];
   const worldPanels = [
     ['mr', 'Страны: браки и процент разводов', 'браков на 1000', v => fmt0(v)],
-    ['fertility', 'Страны: рождаемость', 'детей на женщину', v => fmt1(v)],
     ['alcohol', 'Страны: алкоголь', 'литров на душу 15+', v => fmt0(v)],
-    ['tertiary_f', 'Страны: женщины в вузах', 'валовой охват, %', v => fmt0(v)],
-    ['female_lfp', 'Страны: занятость женщин', '% женщин 15+', v => fmt0(v)],
   ];
   for (const [key, title, xLabel, xFormat] of worldPanels) {
     scatterPanel({title, points: AN_WORLD.points, xKey: key, yKey: 'ratio', xLabel, yLabel: 'разводов на 100 браков', bins: METRICS.ratio.bins, labelSet: worldLabels, idKey: 'iso2', nameOf: worldName, xFormat});
@@ -1799,7 +1801,6 @@ function renderScatters() {
   const usPanels = [
     ['bachelor_pct', 'refined', 'Штаты: высшее образование', '% с дипломом, 25+', 'на 1000 замужних', US_METRICS.refined.bins],
     ['median_age', 'ratio', 'Штаты: медианный возраст', 'лет', 'разводов на 100 браков', US_METRICS.ratio.bins],
-    ['age_first_marriage_f', 'refined', 'Штаты: возраст первого брака женщин', 'лет', 'на 1000 замужних', US_METRICS.refined.bins],
   ];
   for (const [xKey, yKey, title, xLabel, yLabel, bins] of usPanels) {
     scatterPanel({title, points: AN_US.points, xKey, yKey, xLabel, yLabel, bins, labelSet: usLabels, idKey: 'fips', nameOf: usName, xFormat: v => fmt0(v)});
@@ -1977,6 +1978,7 @@ function renderNational() {
   const facts = [];
   const cards = document.getElementById('dur-national');
   const cohorts = new Map();
+  const extraCards = [];
   for (const series of DUR_NAT) {
     const values = (series.series || []).filter(point => point.value != null);
     if (!values.length) continue;
@@ -1998,13 +2000,14 @@ function renderNational() {
         <div class="track"><span class="fill" style="width:${(point.value / max * 100).toFixed(1)}%"></span></div>
         <div class="bar-val">${fmt1(point.value)}</div>
       </div>`).join('');
-    cards.insertAdjacentHTML('beforeend', `<div class="study"><h3>${esc(durName(series))} · ${esc(series.year)}</h3>
+    extraCards.push(`<div class="study"><h3>${esc(durName(series))} · ${esc(series.year)}</h3>
       <div class="dmeta">${MEASURE_RU[series.measure] || esc(series.measure)}, ${esc(series.unit || '')}${series.sex && series.sex !== 'both' ? `, ${series.sex === 'women' ? 'женщины' : 'мужчины'}` : ''} · ${natSource(series)}</div>
       <div class="bars">${bars}</div>${series.note ? `<div class="small">${esc(series.note)}</div>` : ''}</div>`);
   }
   for (const seriesList of cohorts.values()) cohortChart('#dur-national', seriesList);
+  if (extraCards.length) cards.insertAdjacentHTML('afterend', `<details class="src-details more"><summary><h3>Распределения разводов по стажу: ещё ${extraCards.length} рядов</h3></summary><div class="nat-cards">${extraCards.join('')}</div></details>`);
   document.getElementById('dur-facts').innerHTML = facts.join('');
-  if (!facts.length && !cards.children.length) document.getElementById('dur-national-section').hidden = true;
+  if (!facts.length && !cards.children.length && !extraCards.length) document.getElementById('dur-national-section').hidden = true;
 }
 
 function renderDurInsights() {
@@ -2130,15 +2133,35 @@ function breakdownCard(target, breakdown) {
     <div class="bars">${bars}</div></div>`);
 }
 
-function renderProfile(prefix, data) {
+function moreBlock(target, label, gridClass) {
+  target.insertAdjacentHTML('afterend', `<details class="src-details more"><summary><h3>${esc(label)}</h3></summary><div class="${gridClass}"></div></details>`);
+  return target.nextElementSibling.querySelector('div');
+}
+function renderProfile(prefix, data, keys = {}) {
   const sheet = document.getElementById(`${prefix}-sheet`);
   const hasData = data && ((data.timeseries || []).length || (data.breakdowns || []).length || (data.facts || []).length || (data.regions || []).length);
   if (!hasData) { sheet.hidden = true; return; }
   const tsTarget = document.getElementById(`${prefix}-ts`);
-  for (const series of data.timeseries || []) lineChart(tsTarget, series);
+  const allSeries = data.timeseries || [];
+  const keySeries = keys.ts ? allSeries.filter(series => keys.ts.includes(series.id)) : allSeries;
+  const moreSeries = allSeries.filter(series => !keySeries.includes(series));
+  for (const series of keySeries) lineChart(tsTarget, series);
+  if (moreSeries.length) {
+    const more = moreBlock(tsTarget, `Ещё ${moreSeries.length} графиков`, 'ts-grid');
+    for (const series of moreSeries) lineChart(more, series);
+  }
   if (!tsTarget.children.length) tsTarget.closest('section').hidden = true;
   const bdTarget = document.getElementById(`${prefix}-bd`);
-  for (const breakdown of data.breakdowns || []) breakdownCard(bdTarget, breakdown);
+  const allBreakdowns = (data.breakdowns || []).filter(breakdown => (breakdown.items || []).some(item => item.value != null));
+  const keyBreakdowns = keys.bd
+    ? keys.bd.map(prefix => allBreakdowns.find(breakdown => (breakdown.title_ru || '').startsWith(prefix))).filter(Boolean)
+    : allBreakdowns;
+  const moreBreakdowns = allBreakdowns.filter(breakdown => !keyBreakdowns.includes(breakdown));
+  for (const breakdown of keyBreakdowns) breakdownCard(bdTarget, breakdown);
+  if (moreBreakdowns.length) {
+    const more = moreBlock(bdTarget, `Ещё ${moreBreakdowns.length} разбивок`, 'bd-grid');
+    for (const breakdown of moreBreakdowns) breakdownCard(more, breakdown);
+  }
   if (!bdTarget.children.length) bdTarget.closest('section').hidden = true;
   if ((data.facts || []).length) renderFactorGroups(`${prefix}-facts`, data.facts);
   else document.getElementById(`${prefix}-facts`).closest('section').hidden = true;
@@ -2229,9 +2252,15 @@ function renderBelarusMap() {
   renderByMap();
 }
 
-renderProfile('by', BY_DATA);
+renderProfile('by', BY_DATA, {
+  ts: ['divorces_per_1000_marriages', 'divorce_rate', 'marriage_rate', 'age_first_marriage_women', 'divorce_rate_urban', 'remarriage_share_women'],
+  bd: ['Разводы по продолжительности расторгнутого брака', 'Разводы по возрасту женщины', 'Разводы по числу общих детей'],
+});
 if (!document.getElementById('by-sheet').hidden) renderBelarusMap();
-renderProfile('usd', US_DEEP);
+renderProfile('usd', US_DEEP, {
+  ts: ['crude_divorce_rate', 'refined_divorce_rate_women', 'divorces_per_1000_marriages', 'median_age_first_marriage_women'],
+  bd: ['Уточнённый коэффициент разводимости по возрасту, 2023', 'Коэффициент развода из первого брака по расе', 'Коэффициент развода из первого брака по образованию', 'Уточнённый коэффициент разводимости женщин по регионам', 'Медианная длительность брака при первом разводе по образованию', 'Сколько раз был в браке'],
+});
 
 /* causal chains */
 const CHAINS = [
