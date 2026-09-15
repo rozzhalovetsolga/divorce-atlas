@@ -1,0 +1,1586 @@
+[
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 1965 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 1.9
+   },
+   {
+    "duration": "10",
+    "value": 9.9
+   },
+   {
+    "duration": "15",
+    "value": 16.7
+   },
+   {
+    "duration": "20",
+    "value": 21.7
+   },
+   {
+    "duration": "25",
+    "value": 25.3
+   },
+   {
+    "duration": "30",
+    "value": 27.5
+   }
+  ],
+  "cohort": 1965,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 1975 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 7.0
+   },
+   {
+    "duration": "10",
+    "value": 18.1
+   },
+   {
+    "duration": "15",
+    "value": 25.1
+   },
+   {
+    "duration": "20",
+    "value": 30.2
+   },
+   {
+    "duration": "25",
+    "value": 33.7
+   },
+   {
+    "duration": "30",
+    "value": 36.2
+   }
+  ],
+  "cohort": 1975,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 1985 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 10.2
+   },
+   {
+    "duration": "10",
+    "value": 22.8
+   },
+   {
+    "duration": "15",
+    "value": 30.4
+   },
+   {
+    "duration": "20",
+    "value": 36.1
+   },
+   {
+    "duration": "25",
+    "value": 39.8
+   },
+   {
+    "duration": "30",
+    "value": 42.1
+   }
+  ],
+  "cohort": 1985,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 1995 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 10.8
+   },
+   {
+    "duration": "10",
+    "value": 24.7
+   },
+   {
+    "duration": "15",
+    "value": 32.7
+   },
+   {
+    "duration": "20",
+    "value": 38.1
+   },
+   {
+    "duration": "25",
+    "value": 41.7
+   }
+  ],
+  "cohort": 1995,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 2000 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 10.4
+   },
+   {
+    "duration": "10",
+    "value": 22.8
+   },
+   {
+    "duration": "15",
+    "value": 31.1
+   },
+   {
+    "duration": "20",
+    "value": 36.5
+   }
+  ],
+  "cohort": 2000,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 2005 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 8.3
+   },
+   {
+    "duration": "10",
+    "value": 20.7
+   },
+   {
+    "duration": "15",
+    "value": 29.2
+   }
+  ],
+  "cohort": 2005,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 2010 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 7.5
+   },
+   {
+    "duration": "10",
+    "value": 18.9
+   }
+  ],
+  "cohort": 2010,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": "браки 2015 г. (данные по 2023)",
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "5",
+    "value": 5.7
+   }
+  ],
+  "cohort": 2015,
+  "sex": "both",
+  "unit": "% браков когорты, расторгнутых к N-й годовщине",
+  "source": "ONS, Divorces in England and Wales 2023, Table 6a: Cumulative percentage of marriages ending in divorce by year of marriage and anniversary",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Только разнополые браки. Годовщина N = доля браков года заключения, закончившихся разводом до N-й годовщины (накопленно). Более молодые когорты ещё не прошли длинные сроки."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 2023,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0",
+    "value": 0.0
+   },
+   {
+    "duration": "1-2",
+    "value": 2.9
+   },
+   {
+    "duration": "3-4",
+    "value": 8.1
+   },
+   {
+    "duration": "5-9",
+    "value": 26.1
+   },
+   {
+    "duration": "10-14",
+    "value": 22.1
+   },
+   {
+    "duration": "15-19",
+    "value": 15.5
+   },
+   {
+    "duration": "20-24",
+    "value": 10.4
+   },
+   {
+    "duration": "25-29",
+    "value": 6.6
+   },
+   {
+    "duration": "30+",
+    "value": 8.2
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака (полных лет)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a: Number of opposite-sex divorces by duration of marriage in completed years",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Доли рассчитаны нами из абсолютных чисел (100 787 разводов, разнополые пары). Длительность — от регистрации до решения о разводе. Почти нет разводов в 1-й год: по закону заявление подаётся не ранее 1 года брака. Реформа 2022 г. (no-fault) исказила 2022–2023."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 1963,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 11.5
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 1973,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 11.3
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 1985,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 8.9
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 1993,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 9.8
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 2003,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 11.3
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 2013,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 11.7
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 2019,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.4
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 2021,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.3
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 2022,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.9
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United Kingdom (England and Wales)",
+  "year": 2023,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.7
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана)",
+  "source": "ONS, Divorces in England and Wales 2023, Table 5a (median duration of marriage)",
+  "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales/2023/divorcesworkbook2023finalcorrected.xlsx",
+  "note": "Медианная длительность брака у разводящихся разнополых пар, от регистрации до решения суда."
+ },
+ {
+  "country": "United States",
+  "year": "2006–2010",
+  "measure": "survival",
+  "series": [
+   {
+    "duration": "5",
+    "value": 80
+   },
+   {
+    "duration": "10",
+    "value": 68
+   },
+   {
+    "duration": "15",
+    "value": 60
+   },
+   {
+    "duration": "20",
+    "value": 52
+   }
+  ],
+  "cohort": null,
+  "sex": "women",
+  "unit": "% первых браков, сохранившихся к N-му году",
+  "source": "CDC/NCHS, Copen, Daniels, Vespa, Mosher. First Marriages in the United States: Data From the 2006–2010 NSFG. NHSR No. 49 (2012), Tables 5–6",
+  "url": "https://web.archive.org/web/2024id_/https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf",
+  "note": "Первые браки женщин 15–44 лет, NSFG 2006–2010 (life-table). Выход из брака = развод, раздельное проживание или (редко) смерть. Оценки на длинных сроках относятся к рано вступившим в брак."
+ },
+ {
+  "country": "United States",
+  "year": "2006–2010",
+  "measure": "survival",
+  "series": [
+   {
+    "duration": "5",
+    "value": 81
+   },
+   {
+    "duration": "10",
+    "value": 70
+   },
+   {
+    "duration": "15",
+    "value": 62
+   },
+   {
+    "duration": "20",
+    "value": 56
+   }
+  ],
+  "cohort": null,
+  "sex": "men",
+  "unit": "% первых браков, сохранившихся к N-му году",
+  "source": "CDC/NCHS, Copen, Daniels, Vespa, Mosher. First Marriages in the United States: Data From the 2006–2010 NSFG. NHSR No. 49 (2012), Tables 5–6",
+  "url": "https://web.archive.org/web/2024id_/https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf",
+  "note": "Первые браки мужчин 15–44 лет, NSFG 2006–2010. Выход из брака = развод, раздельное проживание или смерть."
+ },
+ {
+  "country": "United States",
+  "year": "1995",
+  "measure": "survival",
+  "series": [
+   {
+    "duration": "5",
+    "value": 80
+   },
+   {
+    "duration": "10",
+    "value": 67
+   },
+   {
+    "duration": "15",
+    "value": 57
+   },
+   {
+    "duration": "20",
+    "value": 50
+   }
+  ],
+  "cohort": null,
+  "sex": "women",
+  "unit": "% первых браков, сохранившихся к N-му году",
+  "source": "CDC/NCHS, Copen, Daniels, Vespa, Mosher. First Marriages in the United States: Data From the 2006–2010 NSFG. NHSR No. 49 (2012), Tables 5–6",
+  "url": "https://web.archive.org/web/2024id_/https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf",
+  "note": "Первые браки женщин 15–44 лет, NSFG 1995 (для сравнения; из той же таблицы 5)."
+ },
+ {
+  "country": "Japan",
+  "year": 2024,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0-4",
+    "value": 30.2
+   },
+   {
+    "duration": "5-9",
+    "value": 20.8
+   },
+   {
+    "duration": "10-14",
+    "value": 13.6
+   },
+   {
+    "duration": "15-19",
+    "value": 11.5
+   },
+   {
+    "duration": "20-24",
+    "value": 9.7
+   },
+   {
+    "duration": "25-29",
+    "value": 6.6
+   },
+   {
+    "duration": "30-34",
+    "value": 3.3
+   },
+   {
+    "duration": "35+",
+    "value": 4.2
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности совместного проживания",
+  "source": "MHLW, 令和6年 人口動態統計 上巻 離婚 第10.12表-1 (同居期間別離婚件数), e-Stat",
+  "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040320485&fileKind=1",
+  "note": "Считается срок СОВМЕСТНОГО ПРОЖИВАНИЯ (от свадьбы/начала сожительства до разъезда), а не юридического брака. Доли рассчитаны нами от 170 819 разводов с известным сроком (всего 185 904, неизвестно 15 085). Доля 20+ лет («熟年離婚») = 23,8%."
+ },
+ {
+  "country": "Japan",
+  "year": 2024,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "<1",
+    "value": 5.0
+   },
+   {
+    "duration": "1-2",
+    "value": 6.5
+   },
+   {
+    "duration": "2-3",
+    "value": 6.4
+   },
+   {
+    "duration": "3-4",
+    "value": 6.2
+   },
+   {
+    "duration": "4-5",
+    "value": 6.1
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% всех разводов года (с известным сроком) — разбивка первых 5 лет",
+  "source": "MHLW, 令和6年 人口動態統計 上巻 離婚 第10.12表-1, e-Stat",
+  "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040320485&fileKind=1",
+  "note": "Детализация полосы «до 5 лет» по годам совместной жизни; знаменатель — все разводы с известным сроком (170 819)."
+ },
+ {
+  "country": "Japan",
+  "year": 2000,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0-4",
+    "value": 37.9
+   },
+   {
+    "duration": "5-9",
+    "value": 23.0
+   },
+   {
+    "duration": "10-14",
+    "value": 13.0
+   },
+   {
+    "duration": "15-19",
+    "value": 9.6
+   },
+   {
+    "duration": "20-24",
+    "value": 7.4
+   },
+   {
+    "duration": "25-29",
+    "value": 5.3
+   },
+   {
+    "duration": "30-34",
+    "value": 2.3
+   },
+   {
+    "duration": "35+",
+    "value": 1.5
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности совместного проживания",
+  "source": "MHLW, 令和4年度 離婚に関する統計（人口動態統計特殊報告）, 第6表",
+  "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/rikon22/xlsx/zuhyo.xlsx",
+  "note": "Срок совместного проживания до разъезда; доли рассчитаны нами без учёта неизвестного срока."
+ },
+ {
+  "country": "Japan",
+  "year": 2000,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 10.3
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее, срок совместного проживания)",
+  "source": "MHLW, 令和4年度 離婚に関する統計, 第6表 (平均同居期間)",
+  "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/rikon22/xlsx/zuhyo.xlsx",
+  "note": "Средний срок совместного проживания у разводящихся пар (не срок брака)."
+ },
+ {
+  "country": "Japan",
+  "year": 2020,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0-4",
+    "value": 32.5
+   },
+   {
+    "duration": "5-9",
+    "value": 20.2
+   },
+   {
+    "duration": "10-14",
+    "value": 14.1
+   },
+   {
+    "duration": "15-19",
+    "value": 11.6
+   },
+   {
+    "duration": "20-24",
+    "value": 9.6
+   },
+   {
+    "duration": "25-29",
+    "value": 5.8
+   },
+   {
+    "duration": "30-34",
+    "value": 2.8
+   },
+   {
+    "duration": "35+",
+    "value": 3.4
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности совместного проживания",
+  "source": "MHLW, 令和4年度 離婚に関する統計（人口動態統計特殊報告）, 第6表",
+  "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/rikon22/xlsx/zuhyo.xlsx",
+  "note": "Срок совместного проживания до разъезда; доли рассчитаны нами без учёта неизвестного срока."
+ },
+ {
+  "country": "Japan",
+  "year": 2020,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.0
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее, срок совместного проживания)",
+  "source": "MHLW, 令和4年度 離婚に関する統計, 第6表 (平均同居期間)",
+  "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/rikon22/xlsx/zuhyo.xlsx",
+  "note": "Средний срок совместного проживания у разводящихся пар (не срок брака)."
+ },
+ {
+  "country": "Japan",
+  "year": 1985,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 10.1
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее, срок совместного проживания)",
+  "source": "MHLW, 令和4年度 離婚に関する統計, 第6表 (平均同居期間)",
+  "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/rikon22/xlsx/zuhyo.xlsx",
+  "note": "Для сравнения; до 1990 г. полоса 20+ не детализируется."
+ },
+ {
+  "country": "South Korea",
+  "year": 2025,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0-4",
+    "value": 16.3
+   },
+   {
+    "duration": "5-9",
+    "value": 17.3
+   },
+   {
+    "duration": "10-14",
+    "value": 15.9
+   },
+   {
+    "duration": "15-19",
+    "value": 13.8
+   },
+   {
+    "duration": "20-24",
+    "value": 10.2
+   },
+   {
+    "duration": "25-29",
+    "value": 8.7
+   },
+   {
+    "duration": "30+",
+    "value": 17.7
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака",
+  "source": "KOSTAT (국가데이터처), 2025년 혼인·이혼 통계 (보도자료, 19.03.2026): [표 22] и прил. 9",
+  "url": "https://kostat.go.kr/boardDownload.es?bid=204&list_no=444103&seq=5",
+  "note": "Проценты опубликованы KOSTAT. Длительность = фактическая совместная жизнь до раздельного проживания (не юридический срок). Всего 88 130 разводов. Доля 20+ лет = 36,6%."
+ },
+ {
+  "country": "South Korea",
+  "year": 2000,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0-4",
+    "value": 29.3
+   },
+   {
+    "duration": "5-9",
+    "value": 22.3
+   },
+   {
+    "duration": "10-14",
+    "value": 18.7
+   },
+   {
+    "duration": "15-19",
+    "value": 15.4
+   },
+   {
+    "duration": "20-24",
+    "value": 8.9
+   },
+   {
+    "duration": "25-29",
+    "value": 3.3
+   },
+   {
+    "duration": "30+",
+    "value": 2.1
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака",
+  "source": "KOSTAT (국가데이터처), 2025년 혼인·이혼 통계 (보도자료, 19.03.2026): [표 22] и прил. 9",
+  "url": "https://kostat.go.kr/boardDownload.es?bid=204&list_no=444103&seq=5",
+  "note": "Проценты опубликованы KOSTAT (ряд 1990–2025). Всего 119 455 разводов; доля 20+ лет = 14,2% (по данным KOSTAT)."
+ },
+ {
+  "country": "South Korea",
+  "year": 2015,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 14.6
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "KOSTAT (국가데이터처), 2025년 혼인·이혼 통계 (보도자료, 19.03.2026): [표 22] и прил. 9",
+  "url": "https://kostat.go.kr/boardDownload.es?bid=204&list_no=444103&seq=5",
+  "note": "Средняя длительность брака (фактической совместной жизни) у разводящихся пар; +2,9 года за 10 лет."
+ },
+ {
+  "country": "South Korea",
+  "year": 2020,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 16.7
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "KOSTAT (국가데이터처), 2025년 혼인·이혼 통계 (보도자료, 19.03.2026): [표 22] и прил. 9",
+  "url": "https://kostat.go.kr/boardDownload.es?bid=204&list_no=444103&seq=5",
+  "note": "Средняя длительность брака (фактической совместной жизни) у разводящихся пар; +2,9 года за 10 лет."
+ },
+ {
+  "country": "South Korea",
+  "year": 2025,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 17.6
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "KOSTAT (국가데이터처), 2025년 혼인·이혼 통계 (보도자료, 19.03.2026): [표 22] и прил. 9",
+  "url": "https://kostat.go.kr/boardDownload.es?bid=204&list_no=444103&seq=5",
+  "note": "Средняя длительность брака (фактической совместной жизни) у разводящихся пар; +2,9 года за 10 лет."
+ },
+ {
+  "country": "Norway",
+  "year": 2021,
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "3",
+    "value": 4.0
+   },
+   {
+    "duration": "5",
+    "value": 7.5
+   },
+   {
+    "duration": "10",
+    "value": 16.4
+   },
+   {
+    "duration": "20",
+    "value": 29.1
+   },
+   {
+    "duration": "30",
+    "value": 34.7
+   },
+   {
+    "duration": "40",
+    "value": 36.6
+   },
+   {
+    "duration": "60",
+    "value": 37.1
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% браков, расторгнутых к N-му году (условное поколение)",
+  "source": "SSB (Statistics Norway), Table 05707: Estimated percentage of marriages dissolved, assuming divorce pattern of each single year",
+  "url": "https://data.ssb.no/api/v0/en/table/05707",
+  "note": "Условная (синтетическая) когорта: доля браков, которые распадутся к N-му году при повозрастных/подлительностных показателях разводимости данного года. Закрытая серия SSB (последний год 2021; 2020 г. в таблице нет)."
+ },
+ {
+  "country": "Norway",
+  "year": 2000,
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "3",
+    "value": 5.0
+   },
+   {
+    "duration": "5",
+    "value": 11.2
+   },
+   {
+    "duration": "10",
+    "value": 23.1
+   },
+   {
+    "duration": "20",
+    "value": 36.9
+   },
+   {
+    "duration": "30",
+    "value": 44.3
+   },
+   {
+    "duration": "40",
+    "value": 46.4
+   },
+   {
+    "duration": "60",
+    "value": 46.8
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% браков, расторгнутых к N-му году (условное поколение)",
+  "source": "SSB (Statistics Norway), Table 05707: Estimated percentage of marriages dissolved, assuming divorce pattern of each single year",
+  "url": "https://data.ssb.no/api/v0/en/table/05707",
+  "note": "Условная (синтетическая) когорта: доля браков, которые распадутся к N-му году при повозрастных/подлительностных показателях разводимости данного года. Закрытая серия SSB (последний год 2021; 2020 г. в таблице нет)."
+ },
+ {
+  "country": "Norway",
+  "year": 1980,
+  "measure": "cohort_cumulative",
+  "series": [
+   {
+    "duration": "3",
+    "value": 2.3
+   },
+   {
+    "duration": "5",
+    "value": 5.7
+   },
+   {
+    "duration": "10",
+    "value": 12.3
+   },
+   {
+    "duration": "20",
+    "value": 20.5
+   },
+   {
+    "duration": "30",
+    "value": 24.3
+   },
+   {
+    "duration": "40",
+    "value": 24.9
+   },
+   {
+    "duration": "60",
+    "value": 25.0
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% браков, расторгнутых к N-му году (условное поколение)",
+  "source": "SSB (Statistics Norway), Table 05707: Estimated percentage of marriages dissolved, assuming divorce pattern of each single year",
+  "url": "https://data.ssb.no/api/v0/en/table/05707",
+  "note": "Условная (синтетическая) когорта: доля браков, которые распадутся к N-му году при повозрастных/подлительностных показателях разводимости данного года. Закрытая серия SSB (последний год 2021; 2020 г. в таблице нет)."
+ },
+ {
+  "country": "Norway",
+  "year": 2025,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0-2",
+    "value": 6.9
+   },
+   {
+    "duration": "3-4",
+    "value": 8.8
+   },
+   {
+    "duration": "5-9",
+    "value": 22.8
+   },
+   {
+    "duration": "10-14",
+    "value": 21.3
+   },
+   {
+    "duration": "15-19",
+    "value": 16.3
+   },
+   {
+    "duration": "20-24",
+    "value": 11.3
+   },
+   {
+    "duration": "25+",
+    "value": 12.7
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака",
+  "source": "SSB, Table 05692: Divorces, by duration of marriage. Divorces between different sex",
+  "url": "https://data.ssb.no/api/v0/en/table/05692",
+  "note": "Разнополые пары. Доли рассчитаны нами из абсолютных чисел (8341 разводов с известным сроком; неизвестно 100). В Норвегии развод обычно следует после года раздельного проживания, поэтому ранние сроки занижены."
+ },
+ {
+  "country": "Norway",
+  "year": 2000,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "0-2",
+    "value": 7.9
+   },
+   {
+    "duration": "3-4",
+    "value": 13.2
+   },
+   {
+    "duration": "5-9",
+    "value": 23.9
+   },
+   {
+    "duration": "10-14",
+    "value": 16.3
+   },
+   {
+    "duration": "15-19",
+    "value": 12.7
+   },
+   {
+    "duration": "20-24",
+    "value": 10.8
+   },
+   {
+    "duration": "25+",
+    "value": 15.2
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака",
+  "source": "SSB, Table 05692: Divorces, by duration of marriage. Divorces between different sex",
+  "url": "https://data.ssb.no/api/v0/en/table/05692",
+  "note": "Разнополые пары. Доли рассчитаны нами из абсолютных чисел (9968 разводов с известным сроком; неизвестно 85). В Норвегии развод обычно следует после года раздельного проживания, поэтому ранние сроки занижены."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2025,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "<1",
+    "value": 0.5
+   },
+   {
+    "duration": "1",
+    "value": 2.6
+   },
+   {
+    "duration": "2",
+    "value": 4.2
+   },
+   {
+    "duration": "3",
+    "value": 5.0
+   },
+   {
+    "duration": "4",
+    "value": 4.2
+   },
+   {
+    "duration": "5-9",
+    "value": 22.1
+   },
+   {
+    "duration": "10-14",
+    "value": 18.0
+   },
+   {
+    "duration": "15-19",
+    "value": 15.0
+   },
+   {
+    "duration": "20-24",
+    "value": 11.2
+   },
+   {
+    "duration": "25-29",
+    "value": 7.8
+   },
+   {
+    "duration": "30-39",
+    "value": 6.7
+   },
+   {
+    "duration": "40-49",
+    "value": 2.1
+   },
+   {
+    "duration": "50+",
+    "value": 0.6
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака",
+  "source": "CBS StatLine, 60060NED: Echtscheiding; leeftijdsverschil, kinderen, geboorteland, huwelijksduur",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/60060ned/TypedDataSet",
+  "note": "Все разводы (включая однополые пары, 24 555). Доли рассчитаны нами из абсолютных чисел. Расторжение зарегистрированного партнёрства не входит."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2000,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "<1",
+    "value": 0.2
+   },
+   {
+    "duration": "1",
+    "value": 3.2
+   },
+   {
+    "duration": "2",
+    "value": 5.5
+   },
+   {
+    "duration": "3",
+    "value": 5.9
+   },
+   {
+    "duration": "4",
+    "value": 6.0
+   },
+   {
+    "duration": "5-9",
+    "value": 25.2
+   },
+   {
+    "duration": "10-14",
+    "value": 18.3
+   },
+   {
+    "duration": "15-19",
+    "value": 11.9
+   },
+   {
+    "duration": "20-24",
+    "value": 10.0
+   },
+   {
+    "duration": "25-29",
+    "value": 7.5
+   },
+   {
+    "duration": "30-39",
+    "value": 5.3
+   },
+   {
+    "duration": "40-49",
+    "value": 0.9
+   },
+   {
+    "duration": "50+",
+    "value": 0.1
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака",
+  "source": "CBS StatLine, 60060NED",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/60060ned/TypedDataSet",
+  "note": "Доли рассчитаны нами из абсолютных чисел (34 650 разводов)."
+ },
+ {
+  "country": "Netherlands",
+  "year": 1980,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 11.9
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Средняя длительность брака на момент развода (gemiddelde huwelijksduur bij echtscheiding)."
+ },
+ {
+  "country": "Netherlands",
+  "year": 1980,
+  "measure": "total_divorce_rate",
+  "series": [
+   {
+    "duration": null,
+    "value": 24.0
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% браков, которые закончатся разводом (условное поколение)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Totaal echtscheidingspercentage: сумма показателей разводимости по длительности брака за один календарный год."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2000,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.9
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Средняя длительность брака на момент развода (gemiddelde huwelijksduur bij echtscheiding)."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2000,
+  "measure": "total_divorce_rate",
+  "series": [
+   {
+    "duration": null,
+    "value": 33.9
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% браков, которые закончатся разводом (условное поколение)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Totaal echtscheidingspercentage: сумма показателей разводимости по длительности брака за один календарный год."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2015,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 14.8
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Средняя длительность брака на момент развода (gemiddelde huwelijksduur bij echtscheiding)."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2015,
+  "measure": "total_divorce_rate",
+  "series": [
+   {
+    "duration": null,
+    "value": 39.6
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% браков, которые закончатся разводом (условное поколение)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Totaal echtscheidingspercentage: сумма показателей разводимости по длительности брака за один календарный год."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2025,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 14.7
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Средняя длительность брака на момент развода (gemiddelde huwelijksduur bij echtscheiding)."
+ },
+ {
+  "country": "Netherlands",
+  "year": 2025,
+  "measure": "total_divorce_rate",
+  "series": [
+   {
+    "duration": null,
+    "value": 32.4
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% браков, которые закончатся разводом (условное поколение)",
+  "source": "CBS StatLine, 37425NED: Huwelijksontbindingen; door echtscheiding en door overlijden",
+  "url": "https://opendata.cbs.nl/ODataApi/odata/37425ned/TypedDataSet",
+  "note": "Totaal echtscheidingspercentage: сумма показателей разводимости по длительности брака за один календарный год."
+ },
+ {
+  "country": "Sweden",
+  "year": 1998,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.2
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "SCB, Äktenskapets medelvaraktighet i antal år vid skilsmässa respektive dödsfall (BE0101L/AktenskapVaraktighet), Riket",
+  "url": "https://api.scb.se/OV0104/v1/doris/sv/ssd/BE/BE0101/BE0101L/AktenskapVaraktighet",
+  "note": "Средняя длительность расторгнутого разводом брака, вся Швеция."
+ },
+ {
+  "country": "Sweden",
+  "year": 2010,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 10.8
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "SCB, Äktenskapets medelvaraktighet i antal år vid skilsmässa respektive dödsfall (BE0101L/AktenskapVaraktighet), Riket",
+  "url": "https://api.scb.se/OV0104/v1/doris/sv/ssd/BE/BE0101/BE0101L/AktenskapVaraktighet",
+  "note": "Средняя длительность расторгнутого разводом брака, вся Швеция."
+ },
+ {
+  "country": "Sweden",
+  "year": 2020,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 11.7
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "SCB, Äktenskapets medelvaraktighet i antal år vid skilsmässa respektive dödsfall (BE0101L/AktenskapVaraktighet), Riket",
+  "url": "https://api.scb.se/OV0104/v1/doris/sv/ssd/BE/BE0101/BE0101L/AktenskapVaraktighet",
+  "note": "Средняя длительность расторгнутого разводом брака, вся Швеция."
+ },
+ {
+  "country": "Sweden",
+  "year": 2025,
+  "measure": "mean_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.8
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (среднее)",
+  "source": "SCB, Äktenskapets medelvaraktighet i antal år vid skilsmässa respektive dödsfall (BE0101L/AktenskapVaraktighet), Riket",
+  "url": "https://api.scb.se/OV0104/v1/doris/sv/ssd/BE/BE0101/BE0101L/AktenskapVaraktighet",
+  "note": "Средняя длительность расторгнутого разводом брака, вся Швеция."
+ },
+ {
+  "country": "Denmark",
+  "year": 2025,
+  "measure": "distribution",
+  "series": [
+   {
+    "duration": "<1",
+    "value": 3.4
+   },
+   {
+    "duration": "1-2",
+    "value": 10.7
+   },
+   {
+    "duration": "3-4",
+    "value": 10.8
+   },
+   {
+    "duration": "5-9",
+    "value": 22.9
+   },
+   {
+    "duration": "10-14",
+    "value": 15.8
+   },
+   {
+    "duration": "15-19",
+    "value": 14.7
+   },
+   {
+    "duration": "20-24",
+    "value": 9.6
+   },
+   {
+    "duration": "25-29",
+    "value": 5.4
+   },
+   {
+    "duration": "30+",
+    "value": 6.9
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "% разводов года по длительности брака",
+  "source": "Statistics Denmark (DST), StatBank SKI125: Divorces by duration of marriage",
+  "url": "https://api.statbank.dk/v1/data/SKI125/CSV?lang=en&AGTVAR=*&Tid=2007,2025",
+  "note": "Доли рассчитаны нами из абсолютных чисел (14258 разводов с известным сроком; неизвестно 125). Высокая доля разводов в 1-й год — в Дании развод по взаимному согласию оформляется быстро (онлайн)."
+ },
+ {
+  "country": "Australia",
+  "year": 2021,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 8.4
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана), от брака до фактического расставания",
+  "source": "ABS, Marriages and Divorces, Australia 2025: Selected divorce indicators",
+  "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+  "note": "Медиана от регистрации брака до раздельного проживания (separation)."
+ },
+ {
+  "country": "Australia",
+  "year": 2021,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 12.2
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана), от брака до развода",
+  "source": "ABS, Marriages and Divorces, Australia 2025: Selected divorce indicators",
+  "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+  "note": "Медиана от регистрации брака до развода; по закону развод возможен после ≥12 месяцев раздельной жизни, отсюда разрыв ≈4 года с медианой до расставания."
+ },
+ {
+  "country": "Australia",
+  "year": 2023,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 9.0
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана), от брака до фактического расставания",
+  "source": "ABS, Marriages and Divorces, Australia 2025: Selected divorce indicators",
+  "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+  "note": "Медиана от регистрации брака до раздельного проживания (separation)."
+ },
+ {
+  "country": "Australia",
+  "year": 2023,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 13.0
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана), от брака до развода",
+  "source": "ABS, Marriages and Divorces, Australia 2025: Selected divorce indicators",
+  "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+  "note": "Медиана от регистрации брака до развода; по закону развод возможен после ≥12 месяцев раздельной жизни, отсюда разрыв ≈4 года с медианой до расставания."
+ },
+ {
+  "country": "Australia",
+  "year": 2025,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 9.4
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана), от брака до фактического расставания",
+  "source": "ABS, Marriages and Divorces, Australia 2025: Selected divorce indicators",
+  "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+  "note": "Медиана от регистрации брака до раздельного проживания (separation)."
+ },
+ {
+  "country": "Australia",
+  "year": 2025,
+  "measure": "median_duration",
+  "series": [
+   {
+    "duration": null,
+    "value": 13.4
+   }
+  ],
+  "cohort": null,
+  "sex": "both",
+  "unit": "лет (медиана), от брака до развода",
+  "source": "ABS, Marriages and Divorces, Australia 2025: Selected divorce indicators",
+  "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+  "note": "Медиана от регистрации брака до развода; по закону развод возможен после ≥12 месяцев раздельной жизни, отсюда разрыв ≈4 года с медианой до расставания."
+ }
+]

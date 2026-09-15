@@ -1,0 +1,156 @@
+[
+  {
+    "country": "Russia",
+    "year": 2025,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": "https://meduza.io/news/2025/07/05/rosstat-perestal-publikovat-dannye-o-demografii-v-rossii",
+    "note": "No official full-year 2025 figures: since spring 2025 Rosstat publishes marriages/divorces only quarterly/rounded, then dropped them from monthly bulletins (May 2025). Only a ~−17% H1-2025 fall in court-granted divorces (Judicial Department, not Rosstat) is known."
+  },
+  {
+    "country": "Russia",
+    "year": 2024,
+    "marriage_rate": 6.0,
+    "divorce_rate": 4.4,
+    "ratio_pct": 73.2,
+    "marriages": 880000,
+    "divorces": 644500,
+    "source": "https://rosstat.gov.ru/folder/313/document/255130",
+    "note": "Rosstat operational Dec-2024 release (880k marriages); divorces 644.5k and rates 6.0/4.4 per Demoscope citing Rosstat (demoscope.ru/weekly/2025/01067/barom06.php); 732 divorces per 1000 marriages. Preliminary."
+  },
+  {
+    "country": "Russia",
+    "year": 2023,
+    "marriage_rate": 6.5,
+    "divorce_rate": 4.7,
+    "ratio_pct": 72.3,
+    "marriages": 945995,
+    "divorces": 683796,
+    "source": "https://rosstat.gov.ru/storage/mediabank/demo31_2023.xlsx",
+    "note": "Rosstat final annual tables (demo31/demo32_2023.xlsx, updated 27.02.2025); excludes DNR/LNR/Zaporizhzhia/Kherson."
+  },
+  {
+    "country": "Belarus",
+    "year": 2025,
+    "marriage_rate": 5.7,
+    "divorce_rate": 3.8,
+    "ratio_pct": 66.9,
+    "marriages": 52044,
+    "divorces": 34813,
+    "source": "https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/oficial_statistika/2025/marriage-2025.pdf",
+    "note": "Belstat annual infographic 'Брачность и разводимость 2025'. 2024: 46,242 marriages / 34,866 divorces."
+  },
+  {
+    "country": "Kazakhstan",
+    "year": 2025,
+    "marriage_rate": 5.69,
+    "divorce_rate": 2.24,
+    "ratio_pct": 39.4,
+    "marriages": 115900,
+    "divorces": 45700,
+    "source": "https://stat.gov.kz/ru/news/braki-i-razvody-v-2025-godu/",
+    "note": "Bureau of National Statistics annual release (17.03.2026). Earlier Jan-Dec natural-movement bulletin gave 114.5k/45.5k (preliminary). 2024: 123.6k/40.5k, 6.13/2.01."
+  },
+  {
+    "country": "Uzbekistan",
+    "year": 2025,
+    "marriage_rate": 7.1,
+    "divorce_rate": 1.2,
+    "ratio_pct": 17.6,
+    "marriages": 267100,
+    "divorces": 46900,
+    "source": "https://stat.uz/img/news/demografiya-rus_p64460.pdf",
+    "note": "National Statistics Committee press release, Jan-Dec 2025 (27.01.2026); counts rounded to 0.1k."
+  },
+  {
+    "country": "Kyrgyzstan",
+    "year": 2025,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 32.8,
+    "marriages": 43340,
+    "divorces": 14210,
+    "source": "https://www.stat.gov.kg/ru/statistics/download/dynamic/317/",
+    "note": "NSC dynamic table 5.01.00.04 (saved 04.03.2026); crude rates not retrieved. 2024: 45,033/13,042."
+  },
+  {
+    "country": "Tajikistan",
+    "year": 2025,
+    "marriage_rate": 5.7,
+    "divorce_rate": null,
+    "ratio_pct": 13.4,
+    "marriages": 30200,
+    "divorces": 4047,
+    "source": "https://www.stat.tj/en/number-of-marriages-and-divorces-in-the-country-has-decreased/",
+    "note": "H1 2025 only (Jan-Jun), Agency on Statistics; no full-year 2025 found. Ministry of Justice ZAGS gives 30,356/4,117 for H1 2025. Marriage rate annualized per stat.tj; national divorce rate not given."
+  },
+  {
+    "country": "Tajikistan",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": 75197,
+    "divorces": null,
+    "source": "https://avesta.tj/2025/02/10/v-tadzhikistane-v-2024-godu-snizilos-kolichestvo-brakov-i-razvodov-no-vyroslo-chislo-zhalob-na-nasilie/",
+    "note": "Latest full year. Committee on Women and Family Affairs (ZAGS data): 75,197 marriages; divorces stated only as 'more than 9 thousand' (ratio ~12%, not exact)."
+  },
+  {
+    "country": "Turkmenistan",
+    "year": null,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": null,
+    "note": "No published official marriage/divorce statistics found; stat.gov.tm unreachable. Only anecdotal 'very low divorce rate' reports."
+  },
+  {
+    "country": "Azerbaijan",
+    "year": 2025,
+    "marriage_rate": 4.7,
+    "divorce_rate": 2.0,
+    "ratio_pct": 42.6,
+    "marriages": 48546,
+    "divorces": 20675,
+    "source": "https://www.stat.gov.az/source/demoqraphy/ap/en/1_22en.xls",
+    "note": "State Statistical Committee annual tables 1.22 (counts) and 1.23 (rates), updated 09.06.2026. 2024: 49,508/21,384, 4.9/2.1."
+  },
+  {
+    "country": "Armenia",
+    "year": 2025,
+    "marriage_rate": 4.5,
+    "divorce_rate": 1.6,
+    "ratio_pct": 35.3,
+    "marriages": 13821,
+    "divorces": 4881,
+    "source": "https://armstat.am/file/article/sv_12_25r_510.pdf",
+    "note": "Armstat 'Socio-economic situation of RA, Jan-Dec 2025' demography section; 353 divorces per 1000 marriages (306 in 2024). 2024: 15,324/4,689, 5.1/1.6."
+  },
+  {
+    "country": "Georgia",
+    "year": 2025,
+    "marriage_rate": 5.7,
+    "divorce_rate": 3.3,
+    "ratio_pct": 59.1,
+    "marriages": 22285,
+    "divorces": 13173,
+    "source": "https://www.geostat.ge/en/modules/categories/323/marriages",
+    "note": "Geostat marriages/divorces tables (divorces: /categories/324/divorces). 2024: 21,653/13,520, 5.9/3.7."
+  },
+  {
+    "country": "Mongolia",
+    "year": 2025,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 35.7,
+    "marriages": 12582,
+    "divorces": 4493,
+    "source": "https://data.mn/en/data/nso-marriages-divorces-annual",
+    "note": "NSO table DT_NSO_0300_018V2 via data.mn (updated 2026-09-08); crude rates not published there. 2024: 14,225/4,463."
+  }
+]

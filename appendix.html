@@ -1092,6 +1092,10 @@ function placeTip(event) {
   tip.style.left = Math.max(8, x) + 'px';
   tip.style.top = Math.max(8, y) + 'px';
 }
+document.addEventListener('pointerdown', event => {
+  if (event.pointerType !== 'mouse' && !event.target.closest('svg')) tip.hidden = true;
+});
+window.addEventListener('scroll', () => { tip.hidden = true; }, {passive: true});
 function bindTip(selection, nameOf) {
   selection
     .on('pointerenter', function (event, datum) {

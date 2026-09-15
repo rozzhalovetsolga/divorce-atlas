@@ -1,0 +1,1196 @@
+{{Short description|none}}
+<!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Cleanup|reason=Lead section could be clearer, less confusing, and generally updated to better present scope in question|date=April 2018}}
+{{Use dmy dates|date=March 2021}} 
+{{Catholicism maps|500px}}
+
+The [[Catholic Church]] is "the Catholic Communion of Churches, both Roman and Eastern, or Oriental, that are in [[full communion]] with the Bishop of Rome (the [[pope]])."<ref name="mcbrien">Richard P. McBrien. ''The Church: The Evolution of Catholicism.'' (New York: Harper One, 2008) p.&nbsp;447</ref> This communion comprises the [[Latin Church]] (the Roman or Western Church) as well as 23 [[Eastern Catholic Churches]], canonically called ''[[sui juris]]'' churches, each led by either a [[patriarch]] or a [[major archbishop]] in full communion with the pope. Historically, these bodies separated from [[Eastern Christian]] communions, either to remain in or to return to full communion with the Catholic Church. The [[Vatican II]] decree on Eastern Catholic Churches, however, explicitly recognizes them as churches and not just [[Catholic particular churches and liturgical rites#Rites|rites within the Catholic Church]].<ref>Edward P. Hahnenberg. A Concise Guide to the Documents of Vatican II (Cincinnati, OH: St. Anthony Messenger Press, 2007).</ref> This communion "exists among and between the individual Churches and dioceses of the universal Catholic Church. Its structural expression is the [[College of Bishops]], each of whom represents and embodies his own local church."<ref>McBrien, p.&nbsp;447.</ref>  
+
+In addition to Eastern Catholic Churches, the Catholic Church oversees the [[Catholic Charismatic Renewal]], the largest [[Charismatic movement]] of a single institution in 2020, with over 100 million members, primarily in the [[Global North and Global South|Global South]].<ref>Todd M. Johnson, "Pentecostal/Charismatic Christianity" ''World Christian Encyclopedia'' 3rd edition, [[Edinburgh University]] Press, 2019.</ref><ref>{{Cite web |last=Johnson |first=Todd M. |date=2020-05-27 |title=Pentecostal/Charismatic Christianity |url=https://www.gordonconwell.edu/blog/pentecostal-charismatic-christianity/ |access-date=2026-07-09 |website=[[Gordon Conwell Theological Seminary]] |language=en}}</ref> The Catholic Church is also described as an "amalgam of parts" (i.e., thousands of individual dioceses and religious orders) globally dispersed, but in communion with Rome.<ref>Michael W. Higgins, "Promises to keep", ''The Tablet'', 2 July 2022, 10. "As Canadian bishops noted in the article, there is no 'Catholic church of Canada' (i.e., no national church as the Anglican 'Church of Canada' or 'Church of England'), only a 'Catholic Church in Canada'. Its dioceses report to Rome, not to Ottawa; the Church is not a national or univocal entity but an amalgam of separate parts. Each diocese operates self-reliantly or independently of the others."</ref> 
+
+The church is the largest non-government provider of [[Catholic school|education]] and [[Catholic Church and health care|health care]] in the world,<ref name="Geopolitics">{{cite journal |last=Agnew |first=John |date=12 February 2010 |title=Deus Vult: The Geopolitics of the Catholic Church |journal=Geopolitics |volume=15 |issue=1 |pages=39–61 |doi=10.1080/14650040903420388 |s2cid=144793259}}</ref> while the diplomatic status of the Holy See facilitates access to its vast international network of [[Catholic charities|charities]]. These entities include 5,000 hospitals, 10,000 orphanages, 95,000 elementary schools and 47,000 secondary schools.<ref>Johnson, "Catholicism Worldwide", ''World Christian Encyclopedia'', Edinburgh University Press, 2019.</ref>
+
+==Methodology==
+{{Catholic Church by country}}
+Most of the figures are taken from the [[CIA]]'s ''[[World Factbook]]'' or [[Pew Research Center]] surveys. In [[Latin America]]n countries, [[Latinobarómetro]] is often cited. In [[Germany]] and other German-speaking regions of Europe, there are official membership statistics due to the fact that the government collects a [[church tax]] based on these membership lists. For this reason, statistics are not solely grounded on surveys based on self-identification. A [[baptismal certificate]] or other religious document is likewise secondary to church statistics.<ref>{{Cite web |last=Palacios |first=Jen |date=2025-02-10 |title=The Church Tax In Germany Explained |url=https://www.simplegermany.com/church-tax-germany/ |access-date=2026-07-09 |website=Simple Germany |language=en-US}}</ref> This method may explain the discrepancy between Pew's figures on Germany<ref>{{Cite news |date=2017-08-31 |title=Five Centuries After Reformation, Catholic-Protestant Divide in Western Europe Has Faded |url=https://www.pewresearch.org/religion/2017/08/31/five-centuries-after-reformation-catholic-protestant-divide-in-western-europe-has-faded/ |access-date=2026-07-09 |work=Pew Research Center |language=en-US}}</ref> and the church figures.<ref>{{Cite journal |last=Hammond |first=Phillip E. |date=1988 |title=Religion and the Persistence of Identity |url=https://www.jstor.org/stable/1387398 |journal=[[Journal for the Scientific Study of Religion]] |volume=27 |issue=1 |pages=1–11 |doi=10.2307/1387398 |issn=0021-8294|url-access=subscription }}</ref><ref>{{Cite news |last=Poggioli |first=Sylvia |date=2012-10-09 |title=German Catholics' Path To Heaven Comes With Taxes |url=https://www.npr.org/2012/10/09/162570987/german-catholics-path-to-heaven-comes-with-taxes |access-date=2026-07-09 |work=[[NPR]] |language=en}}</ref>
+
+According to ''The World Factbook'' and Pew, the five countries with the largest number of Catholics are, in decreasing order:
+
+* {{flagicon|Brazil}} [[Catholic Church in Brazil|Brazil]]
+* {{flagicon|Mexico}} [[Catholic Church in Mexico|Mexico]]
+* {{flagicon|Philippines}} [[Catholic Church in the Philippines|Philippines]]
+* {{flagicon|United States}} [[Catholic Church in the United States|United States]] 
+* {{Flagicon|DR Congo}} [[Catholic Church in the Democratic Republic of the Congo|Democratic Republic of the Congo]]
+
+The country with the largest percentage of its population having membership in the church is [[Vatican City]] at 100%, followed by [[Timor-Leste]] at 97%.
+
+According to the ''[[World Christian Database]]'', there are 1.279 billion Catholics worldwide as of 2026, which constitute 47.8% of 2.674 billion Christians.<ref name="WorldChristianDatabase">{{cite web |last1=Zurlo |first1=Gina A. |last2=Johnson |first2=Todd M. |last3=Crossing |first3=Peter F. |title=Status of Global Christianity, 2026, in the Context of 1900 –2075 |url=https://www.worldchristiandatabase.org/static/downloads/Status-of-Global-Christianity-2026.2b54be19fc0c.pdf |website=www.worldchristiandatabase.org |publisher=Brill |quote=Christian total 2,673,989,000, Catholic total 1,278,885,000 (47.8% of all Christians) |language=en |date=2026}}</ref> According to the Census of the 2023 ''[[Annuario Pontificio]]'' ('Pontifical Yearbook'), the number of baptized Catholics in the world was about 1.376 billion at the end of 2021. The research initiative Catholics & Cultures compiles data on Catholic demographics, including from the {{Lang|it|Annuario Pontificio}}, by country.<ref>{{Cite web|url=https://www.catholicsandcultures.org/region|title=Catholics by Country|website=Catholicsandcultures.org|access-date=2 July 2022}}</ref>
+
+==By country==
+By clicking on the arrow icons in the column headers, the following table can be re-ordered.
+{| class="wikitable sortable"
+|+ Catholic Church by country
+! Country
+! Total population
+! data-sort-type="number" | % Catholic
+! data-sort-type="number" | Catholic total
+|- [[Central Asia]]
+| {{flag|Afghanistan}} ([[Roman Catholicism in Afghanistan|details]])
+| align="right" | 30,000,000
+| align="center" | 0%
+| align="right" | 0<ref>{{cite web|work=[[Catholic News Agency]]|title=The leader of Afghanistan's Catholic community longs to return to the country |url=https://www.ewtnnews.com/world/europe/the-leader-of-afghanistan-s-catholic-community-longs-to-return-to-the-country|access-date=24 August 2023|first=Andrea|last=Gagliarducci|date=29 November 2021}}</ref>
+|- [[Southern Europe]]
+| {{flag|Albania}} ([[Catholicism in Albania|details]])
+| align="right" | 2,402,113<ref name=":24">{{Cite web |date=2024 |title=Albania Population and Housing Census 2023: Main Results |url=https://www.instat.gov.al/media/13581/cens-i-popullsise-2023.pdf |access-date=10 June 2026 |website=[[INSTAT]] |page=76}}</ref>
+| align="center" | 7.9%<ref>{{Cite web |last=Shehu |first=Bashkim |last2=Zaloshnja |first2=Eduard |date=2024 |title=Statistical Study on Religious Belief in Albania |url=https://www.kas.de/documents/271859/0/Statistical+Study+on+Religious+Belief+in+Albania+%281%29.pdf/c09f5c04-3810-0603-4a63-46f47b912ae3?version=1.0&t=1736250443654 |access-date=10 June 2026 |website=[[Konrad-Adenauer-Stiftung]] |page=4}}</ref>–8.39%<ref name=":24" />
+| align="right" | 201,530<ref name=":24" />
+|- [[North Africa]]
+| {{flag|Algeria}} ([[Roman Catholicism in Algeria|details]])
+| align="right" | 46,000,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Algeria |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/algeria/ |access-date=2026-06-24 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 0%<ref name=":47">{{Cite web |title=Afrobarometer (R6 2014/2015) |url=https://www.afrobarometer.org/online-data-analysis/ |website=[[Afrobarometer]] |at=A Socio-Demographics & sample characteristics |quote=What is your religion, if any?}}</ref>–0.02%<ref name=":40" />
+| align="right" | 9,000<ref name=":40">{{Cite web |date= |title=Algeria |url=https://www.catholicsandcultures.org/algeria |access-date=2026-06-24 |website=www.catholicsandcultures.org |language=en}}</ref>
+|- [[Southern Europe]]
+| {{flag|Andorra}} ([[Roman Catholicism in Andorra|details]])
+| align="right" | 70,000
+| align="center" | 63.8%<ref name=":44" />
+| align="right" | 61,740
+|- [[Southern Africa]]
+| {{flag|Angola}} ([[Roman Catholicism in Angola|details]])
+| align="right" | 36,600,000
+| align="center" | 39.9%<ref name=":45">{{Cite web |title=Afrobarometer Online Data Analysis (R10 2024/2025) |url=https://www.afrobarometer.org/online-data-analysis/ |access-date=2026-08-03 |website=[[Afrobarometer]] |language=en-GB |quote=What is your religion, if any?|at=C Sociodemographics: Religion of respondent}}</ref>–44.2%<ref name="censoAO">{{cite web | title=Resultados Definitivos do Recenseamento Geral da População e Habitação - 2024 | url=https://www.ine.gov.ao/Arquivos/arquivosCarregados//Carregados/Publicacao_638992698392586291.pdf | date=2025-11-20 | language=pt}}</ref>
+| align="right" | 16,000,000
+|- [[North America]]
+| {{flag|Antigua and Barbuda}} ([[Roman Catholicism in Antigua and Barbuda|details]])
+| align="right" | 84,816
+| align="center" | 5.5%<ref>{{cite web|url=https://redatam.org/binatg/RpWebEngine.exe/Portal?BASE=ATGPHC2011&lang=ENG|title= Antigua and Barbuda (2011 census)}}</ref>
+| align="right" | 4,752
+|- [[South America]]
+| {{flag|Argentina}} ([[Catholicism in Argentina|details]])
+| align="right" | 47,300,000
+| align="center" | 58%<ref name=":2">{{Cite web |date= |title=Spring 2024 Global Attitudes Survey: Detailed tables |url=https://www.pewresearch.org/wp-content/uploads/sites/20/2026/04/SR_26.04.23_religious-switching_DetailedTables_1f2669.pdf |access-date=18 May 2026 |website=[[Pew Research Center]] |format=PDF}}</ref>–62.9%<ref>[http://www.ceil-conicet.gov.ar/wp-content/uploads/2019/11/ii25-2encuestacreencias.pdf Segunda Encuesta Nacional Sobre Creencias y Actitudes Religiosas en Argentina 2019], Ceil-conicet.gov.ar, p.10</ref><ref>{{Cite web |title=Argentina - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/argentina/#people-and-society |archive-url=https://web.archive.org/web/20260115161514/https://www.cia.gov/the-world-factbook/countries/argentina/#people-and-society |archive-date=2026-01-15 |access-date=2026-07-05 |website=www.cia.gov |language=en}}</ref>–63%<ref name=":42">{{Cite web |title=Latinobarómetro 2024 |url=https://www.latinobarometro.org/odajds/ |access-date=2026-06-29 |website=www.latinobarometro.org |at=S Sociodemographic variables: Religion |quote=What is your religion?}}</ref>
+| align="right" | 27,000,000–30,000,000
+|- [[Caucasus]]
+| {{flag|Armenia}} ([[Catholicism in Armenia|details]])
+| align="right" | 2,932,731<ref name="censusarmenia2022">{{Cite report |url=https://www.armstat.am/en/?nid=82&id=2623 |title=Republic of Armenia Census |date=2022 |publisher=Statistical Committee - Republic of Armenia |at=Table 5.5}}</ref>
+| align="center" | 0.61%<ref name="censusarmenia2022" />
+| align="right" | 17,884<ref name="censusarmenia2022" />
+|- [[Oceania]]
+| {{flag|Australia}} ([[Catholic Church in Australia|details]])
+| align="right" | 25,380,000
+| align="center" | 16%<ref name=":2" />–20.0%<ref>{{cite web|url=https://www.abs.gov.au/census/find-census-data/community-profiles/2021/AUS/download/GCP_AUS.xlsx|format=XLSX|title=Australian Bureau of Statistics : 2021 Census of Population and Housing : General Community Profile|website=Abs.gov.au|access-date=2 July 2022}}</ref>
+| align="right" | 5,076,000
+|- [[Central Europe]]
+| {{flag|Austria}} ([[Roman Catholicism in Austria|details]])
+| align="right" | 8,935,800<ref name=":25">{{cite web |title=Religionszugehörigkeit 2021: drei Viertel bekennen sich zu einer Religion |trans-title=2021 religious affiliation: three fourths profess a religion |url=https://www.statistik.gv.at/fileadmin/announcement/2022/05/20220525Religionszugehoerigkeit2021.pdf |url-status=live |archive-url=https://web.archive.org/web/20220804235308/https://www.statistik.gv.at/fileadmin/announcement/2022/05/20220525Religionszugehoerigkeit2021.pdf |archive-date=4 August 2022 |type=with comparative data from the censuses from 1951 to 2021}}</ref>–9,197,000
+| align="center" | 49.6%–55.2%<ref name=":25" />
+| align="right" | 4,557,000<ref>{{cite web|url=https://www.katholisch.at/statistik |title=Statistics|work= Catholic Church Austria}}</ref>–4,933,300<ref name=":25" />
+|- [[Caucasus]]
+| {{flag|Azerbaijan}} ([[Roman Catholicism in Azerbaijan|details]])
+| align="right" | 9,400,000<ref name=":26">{{Cite web |date=26 September 2016 |title=Profiling Catholic presence in Georgia, Azerbaijan before papal visit |url=https://www.catholicculture.org/news/headlines/index.cfm?storyid=29456 |access-date=2026-06-10 |website=Catholic Culture}}</ref>
+| align="center" | 0.01%<ref>{{Cite web |title=Statistics of the Catholic Church in Georgia and Azerbaijan |url=https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2016/09/26/160926c.html |access-date=2026-06-10 |website=press.vatican.va}}</ref>–0.1%<ref name=":44" />
+| align="right" | 570<ref name=":26" />
+|- [[Caribbean]]
+| {{flag|Bahamas}} ([[Roman Catholicism in the Bahamas|details]])
+| align="right" | 330,000
+| align="center" | 12%<ref>{{Cite web |title=Bahamas, The |url=https://www.cia.gov/the-world-factbook/countries/bahamas-the/ |archive-url=https://web.archive.org/web/20260118232437/https://www.cia.gov/the-world-factbook/countries/bahamas-the/ |archive-date=18 January 2026 |website=[[CIA World Factbook]]}}</ref>
+| align="right" | 39,600
+|- [[Middle East]]
+| {{flag|Bahrain}} ([[Roman Catholicism in Bahrain|details]])
+| align="right" | 1,500,000<ref>{{Cite web |title=Census 2020 |url=https://www.data.gov.bh/en/ResourceCenter/DownloadFile?id=3582 |url-status=dead |archive-url=https://web.archive.org/web/20210502014151/https://www.data.gov.bh/en/ResourceCenter/DownloadFile?id=3582 |archive-date=2 May 2021}}</ref>
+| align="center" | 8.9%<ref name="PEW10">{{cite web |date=19 December 2011 |title=Pew Research Center: Christian Population as Percentages of Total Population by Country 2010 |url=http://www.pewforum.org/2011/12/19/table-christian-population-as-percentages-of-total-population-by-country |access-date=13 October 2015 |website=Pew Forum}}</ref>
+| align="right" | 80,000<ref>{{Cite web |date=2022-10-29 |title=Overview of Church in Bahrain ahead of Pope’s visit |url=https://www.vaticannews.va/en/church/news/2022-10/overview-catholic-church-bahrain-pope-francis-visit.html |access-date=2026-06-24 |website=[[Vatican News]] |language=en}}</ref>
+|- [[South Asia]]
+| {{flag|Bangladesh}} ([[Roman Catholicism in Bangladesh|details]])
+| align="right" | 158,000,000
+| align="center" | 0.07% 
+| align="right" | 110,000<ref name="PEW10" />
+|- [[Caribbean]]
+| {{flag|Barbados}} ([[Religion in Barbados|details]])
+| align="right" | 250,012
+| align="center" | 3.8%<ref>{{Cite web |title=Barbados - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/barbados/#people-and-society |archive-url=https://web.archive.org/web/20260118123118/https://www.cia.gov/the-world-factbook/countries/barbados/#people-and-society |archive-date=2026-01-18 |access-date=2026-08-08 |website=www.cia.gov |language=en}}</ref>
+| align="right" | 10,000
+|- [[Eastern Europe]]
+| {{flag|Belarus}} ([[Roman Catholicism in Belarus|details]])
+| align="right" | 9,500,000<ref name=":27">{{Cite web |title=2023 Report on International Religious Freedom: Belarus |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/belarus/ |access-date=2026-06-10 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 5.2%<ref name=":44" />–6%<ref name=":27" />–7.1%<ref name="mfa">{{cite web|title=Religion and denominations in the Republic of Belarus|url=http://www.mfa.gov.by/upload/pdf/religion_eng.pdf|publisher=Ministry of Foreign Affairs of the Republic of Belarus|access-date=17 February 2013|archive-url=https://web.archive.org/web/20171014085840/http://www.mfa.gov.by/upload/pdf/religion_eng.pdf|archive-date=14 October 2017|url-status=dead|date=November 2011}}</ref>–12%<ref>{{Cite web |last=Mitchell |first=Travis |date=2017-05-10 |title=Religious Belief and National Belonging in Central and Eastern Europe: 1. Religious affiliation |url=https://www.pewresearch.org/religion/2017/05/10/religious-affiliation/ |access-date=2026-06-10 |website=Pew Research Center |language=en-US}}</ref>
+| align="right" | 674,500
+|- [[Western Europe]]
+| {{flag|Belgium}} ([[Roman Catholicism in Belgium|details]])
+| align="right" | 11,800,000<ref>{{Cite web |title=Population movement {{!}} Statbel |url=https://statbel.fgov.be/en/themes/population/population-movement |archive-url=https://web.archive.org/web/20260408055910/https://statbel.fgov.be/en/themes/population/population-movement |archive-date=2026-04-08 |access-date=2026-06-10 |website=statbel.fgov.be |language=en}}</ref>
+| align="center" | 31%<ref name="ESS2023A">{{Cite web | author1=European Social Survey European Research Infrastructure (ESS ERIC) |title=European Social Survey European Research Infrastructure (ESS ERIC) (2025) ESS11 - integrated file, edition 3.0 [Data set] |url=https://ess.sikt.no/en/datafile/242aaa39-3bbb-40f5-98bf-bfb1ce53d8ef?tab=1&elems=63bcf46e-157e-490a-8b76-8d6b6aeef25e |access-date=2025-07-28 |website= | date=2025 |publisher=Sikt - Norwegian Agency for Shared Services in Education and Research |language=en |doi=10.21338/ess11e03_0}}</ref><ref name="ESS2023B">{{Cite web | author1=European Social Survey European Research Infrastructure (ESS ERIC) |title=European Social Survey European Research Infrastructure (ESS ERIC) (2025) ESS11 - integrated file, edition 3.0 [Data set] |url=https://ess.sikt.no/en/datafile/242aaa39-3bbb-40f5-98bf-bfb1ce53d8ef?tab=1&elems=2163066c-a197-4e4e-87e2-916daf2800fb |access-date=2025-07-28 |website= | date=2025 |publisher=Sikt - Norwegian Agency for Shared Services in Education and Research |language=en |doi=10.21338/ess11e03_0}}</ref>–44%<ref name="EB2021">{{cite web|url=https://data.europa.eu/data/datasets/s2237_95_2_516_eng?locale=en|via=[[European Data Portal]] (see Volume C: Country/socio-demographics: BE: Question D90.2.)|title=Special Eurobarometer 516 : European citizens' knowledge and attitudes towards science and technology|publisher=[[European Union]]: [[European Commission]]|date=September 2021|access-date=20 May 2023}}</ref>
+| align="right" | 3,600,000–5,200,000
+|- [[Central America]]
+| {{flag|Belize}} ([[Roman Catholicism in Belize|details]])
+| align="right" | 334,000
+| align="center" | 40%<ref name="belize2000">{{Cite web|url=https://belize.com/belize-demographics/|title=Belize Demographics Country Profile &#124; With Belize Census Data|website=Belize.com|access-date=2 July 2022}}</ref><ref>{{Cite web |title=Belize - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/belize/#people-and-society |archive-url=https://web.archive.org/web/20260128021456/https://www.cia.gov/the-world-factbook/countries/belize/#people-and-society |archive-date=2026-01-28 |access-date=2026-08-08 |website=www.cia.gov |language=en}}</ref>
+| align="right" | 133,600
+|- [[West Africa]]
+| {{flag|Benin}} ([[Roman Catholicism in Benin|details]])
+| align="right" | 7,460,025
+| align="center" | 24.9%<ref name=":45" />
+| align="right" | 1,858,000
+|- [[South Asia]]
+| {{flag|Bhutan}} ([[Roman Catholicism in Bhutan|details]])
+| align="right" | 2,232,291
+| align="center" | 0.06%
+| align="right" | 1,339
+|- [[South America]]
+| {{flag|Bolivia}} ([[Roman Catholicism in Bolivia|details]])
+| align="right" | 10,500,000
+| align="center" | 59.3%<ref name=":44" />–63%<ref name=":42" />
+| align="right" | 6,226,000–6,615,000
+|- [[Southern Europe]]
+| {{flag|Bosnia and Herzegovina}} ([[Roman Catholicism in Bosnia and Herzegovina|details]])
+| align="right" | 3,531,159<ref name=":28" />
+| align="center" | 14.9%<ref name=":44" />–15.2%<ref name=":28">{{Cite web |url=http://www.popis2013.ba/popis2013/doc/Popis2013prvoIzdanje.pdf |title=Cenzus of Population, Households an Dwellings in Bosnia and Herzegovina, 2013: Final Results |access-date=1 July 2016 |archive-url=https://web.archive.org/web/20171224103940/http://www.popis2013.ba/popis2013/doc/Popis2013prvoIzdanje.pdf |archive-date=24 December 2017 |url-status=usurped|date=June 2016|publisher=Agency for Statistics of Bosnia and Herzegovina|page=68}}</ref>
+| align="right" | 331,266<ref>{{Cite web |date=19 September 2024 |title=Crkvena statistika u Bosni i Hercegovini od 2022. do 2023. godine |url=https://www.bkbih.ba/info.php?id=1461 |access-date=2026-06-10 |website=Biskupska konferencija Bosne i Hercegovine |language=hr-BA}}</ref>–536,333<ref name=":28" />
+|- [[Southern Africa]]
+| {{flag|Botswana}} ([[Roman Catholicism in Botswana|details]])
+| align="right" | 1,640,115
+| align="center" | 1.7%<ref name=":45" />
+| align="right" | 28,000
+|- [[South America]]
+| {{flag|Brazil}} ([[Roman Catholicism in Brazil|details]])
+| align="right" | 203,080,000
+| align="center" | 46%<ref name=":2" /><ref name=":42" />–56.75%<ref name="2022 census">{{cite web |url=https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/43593-censo-2022-catolicos-seguem-em-queda-evangelicos-e-sem-religiao-crescem-no-pais|title=Censo 2022: católicos seguem em queda; evangélicos e sem religião crescem no país |publisher=IBGE|access-date=2025-06-06}}</ref>
+| align="right" | 100,200,000<ref>{{Cite report |url=https://doi.org/10.38116/dirur41 |title=Nota Técnica n. 41 (Dirur) : Fronteiras do Brasil : primeiros resultados do censo demográfico 2022 |date=2023-09-13 |publisher=Instituto de Pesquisa Econômica Aplicada |doi=10.38116/dirur41 |url-access=subscription }}</ref>–115,250,000
+|- [[Southeast Asia]]
+| {{flag|Brunei}} ([[Roman Catholicism in Brunei|details]])
+| align="right" | 372,361
+| align="center" | 5%<ref name="PEW10" />
+| align="right" | 38,709
+|- [[Southern Europe]]
+| {{flag|Bulgaria}} ([[Roman Catholicism in Bulgaria|details]])
+| align="right" | 6,445,481
+| align="center" | 0.6%<ref>{{cite web|url=https://nsi.bg/sites/default/files/files/pressreleases/Census2021_ethnos.pdf|title= Bulgaria (2021 census)}}</ref><ref>{{Cite web |title=2023 Report on International Religious Freedom: Bulgaria |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/bulgaria/ |access-date=2026-06-10 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 38,709
+|- [[West Africa]]
+| {{flag|Burkina Faso}} ([[Roman Catholicism in Burkina Faso|details]])
+| align="right" | 13,925,313
+| align="center" | 20.1%<ref>{{cite web|url=https://www.aib.media/2022/07/01/burkina-481-de-la-population-du-sud-ouest-pratique-lanimisme-officiel/|title=Burkina Faso (2019 census)|access-date=28 December 2022|archive-date=26 March 2023|archive-url=https://web.archive.org/web/20230326030716/https://www.aib.media/2022/07/01/burkina-481-de-la-population-du-sud-ouest-pratique-lanimisme-officiel/|url-status=dead}}</ref>–21.1%<ref name=":46">{{Cite web |title=Afrobarometer (R9 2021/2023) |url=https://www.afrobarometer.org/online-data-analysis/ |website=[[Afrobarometer]] |at=A Socio-demographics & sample characterisitics: Religion of respondent |quote=What is your religion, if any?}}</ref>
+| align="right" | 4,121,536
+|- [[East Africa]]
+| {{flag|Burundi}} ([[Roman Catholicism in Burundi|details]])
+| align="right" | 12,000,000
+| align="center" | 56.8%<ref name=":47" />–58.6%<ref>{{Cite web |title=Burundi - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/burundi/#people-and-society |archive-url=https://web.archive.org/web/20260129191919/https://www.cia.gov/the-world-factbook/countries/burundi/#people-and-society |archive-date=2026-01-29 |access-date=2026-08-08 |website=www.cia.gov |language=en}}</ref>–62%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Burundi |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/burundi/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 7,000,000
+|- [[West Africa]]
+| {{flag|Cabo Verde}} ([[Religion in Cape Verde|details]])
+| align="right" | 512,096
+| align="center" | 69.9%<ref name=":45" />–72.5%<ref>{{Cite web |url=https://ine.cv/noticias/ine-apresenta-os-resultados-definitivos-do-v-recenseamento-geral-da-populacao-habitacao-rgph-2021/ |title=INE APRESENTA OS RESULTADOS DEFINITIVOS DO V RECENSEAMENTO GERAL DA POPULAÇÃO E HABITAÇÃO (RGPH-2021) |website=Instituto Nacional de Estatística - INE |date=4 April 2022 |access-date=26 August 2023}}</ref>
+| align="right" | 395,850
+|- [[Southeast Asia]]
+| {{flag|Cambodia}} ([[Roman Catholicism in Cambodia|details]])
+| align="right" | 13,607,069
+| align="center" | 0.4%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Cambodia |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/cambodia/ |access-date=2026-06-07 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 54,000
+|- [[Central Africa]]
+| {{flag|Cameroon}} ([[Roman Catholicism in Cameroon|details]])
+| align="right" | 31,000,000
+| align="center" | 33.1%<ref>{{Citation |title=Cameroon |date=2026-01-21 |work=The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/cameroon/ |archive-url=https://web.archive.org/web/20260202225026/https://www.cia.gov/the-world-factbook/countries/cameroon/#people-and-society |url-status=dead |archive-date=2 February 2026 |access-date= |publisher=Central Intelligence Agency}}</ref>–33.6%<ref name=":45" />
+| align="right" | 10,300,000
+|- [[North America]]
+| {{flag|Canada}} ([[Roman Catholicism in Canada|details]])
+| align="right" | 42,000,000
+| align="center" | 21%<ref name=":2" />–29.9%<ref name="religion2021d">{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?LANG=E&GENDERlist=1,2,3&STATISTIClist=1,4&DGUIDlist=2021A000011124&HEADERlist=0&SearchText=Canada |title=Religions in Canada—Census 2021 |date=October 26, 2022 |publisher=Statistics Canada/Statistique Canada}}</ref>
+| align="right" | 8,500,000-12,600,000
+|- [[Central Africa]]
+| {{flag|Central African Republic}} ([[Roman Catholicism in the Central African Republic|details]])
+| align="right" | 3,799,897
+| align="center" | 28%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Central African Republic |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/central-african-republic/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 949,974
+|- [[Central Africa]]
+| {{flag|Chad}} ([[Roman Catholicism in Chad|details]])
+| align="right" | 12,000,000
+| align="center" | 18%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Chad |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/chad/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>–19.9%<ref name=":45" />
+| align="right" | 2,520,000
+|- [[South America]]
+| {{flag|Chile}} ([[Roman Catholicism in Chile|details]])
+| align="right" | 20,000,000
+| align="center" | 45%<ref name=":42" />–46%<ref name=":2" />–53.7% <small>(15+)</small><ref>{{Cite web |url=https://censo2024.ine.gob.cl/wp-content/uploads/2025/06/P6_Religion-o-credo.xlsx|title=Census 2024: Population aged 15 and over by religion or creed, by region.|website=[[National Statistics Institute (Chile)|National Statistics Institute]]|access-date=17 August 2025|language=es}}</ref><ref>{{Cite web |last= |first= |date=30 June 2025 |title=Nuevos resultados del Censo 2024: Aumentó la escolaridad a 12,1 años, superando el umbral de educación obligatoria en Chile |url=https://www.cnnchile.com/pais/nuevos-resultados-del-censo-2024-aumento-la-escolaridad-a-121-anos-superando-el-umbral-de-educacion-obligatoria-en-chile_20250630/ |access-date=16 July 2025 |website=CNN Chile |language=es}}</ref>
+| align="right" | 9,000,000-10,700,000
+|- [[East Asia]]
+| {{flag|China}} ([[Roman Catholicism in China|details]])
+| align="right" | 1,400,000,000
+| align="center" | 0.7%<ref name="PEW10" />
+| align="right" | 6,000,000<ref>{{cite web|url=http://www.scio.gov.cn/zfbps/ndhf/37884/Document/1626520/1626520.htm|archive-url=https://web.archive.org/web/20180508020010/http://www.scio.gov.cn/zfbps/ndhf/37884/Document/1626520/1626520.htm|url-status=dead|archive-date=2018-05-08|title=《中国保障宗教信仰自由的政策和实践》白皮书（全文）|date=2018-04-03|access-date=2020-05-02}}</ref><ref name=":15">{{Cite web |title=2023 Report on International Religious Freedom: China (Includes Hong Kong, Macau, Tibet, and Xinjiang) |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/china/ |access-date=2026-06-07 |website=United States Department of State |language=en-US}}</ref>–12,000,000<ref>{{cite web| url=https://www.bbc.com/news/world-asia-china-49494016|publisher=[[BBC]]|title=Chinese Catholic bishop ordained with Pope's approval|date=28 August 2019|access-date=28 May 2020}}</ref><ref name=":15" />
+|- [[South America]]
+| {{flag|Colombia}} ([[Roman Catholicism in Colombia|details]])
+| align="right" | 52,000,000
+| align="center" | 39.4%<ref name=":44" />–56.6%<ref name=":42" />–60%<ref name=":2" />–78.2%<ref name="DANE">{{cite book |last=DANE |url=https://www.dane.gov.co/files/investigaciones/ecpolitica/Presen_rueda_de_prensa_ECP_21.pdf |title=Encuesta de Cultura Política 2021 |date=2022-03-30 |publisher=Government of Colombia |page=10 |language=Spanish |quote=Población de referencia: total de personas de 18 años y más: 2019 total nacional, 34.321 (en miles) 2021 total nacional, 35.805 (en miles). Contenido de algunas religiones según agrupación: Protestante, Protestante Tradicional o Protestante no Evangélico (Cristiano; Calvinista; Luterano; Metodista; Presbiteriano; Discípulo de Cristo; Anglicano; Episcopaliano; Iglesia Morava); Evangélica y Pentecostal (Evangélico, Pentecostal; Iglesia de Dios; Asambleas de Dios; Iglesia Universal del Reino de Dios; Iglesia Cuadrangular; Iglesia de Cristo; Congregación Cristiana; Menonita; Hermanos de Cristo; Iglesia Cristiana Reformada; Carismático no Católico; Luz del Mundo; Bautista; Iglesia del Nazareno; Ejército de Salvación; Adventista; Adventista del Séptimo Día; Sara Nossa Terra). Tipo de respuesta: Única. Los datos del 2019 corresponden a los ajustes realizados con base al CNPV 2018.}}</ref>
+| align="right" | 20,000,000–40,000,000
+|- [[East Africa]]
+| {{flag|Comoros}} ([[Roman Catholicism in Comoros|details]])
+| align="right" | 800,000
+| align="center" | 0%<ref name=":45" />–0.2%<ref name="PEW10" />
+| align="right" | 1,600
+|- [[Central Africa]]
+| {{flag|Congo, Republic of}} ([[Roman Catholicism in Congo (Brazzaville)|details]])
+| align="right" | 5,062,021
+| align="center" | 30.3%<ref name=":45" />–32%<ref name=":13">{{Cite web |title=2023 Report on International Religious Freedom: Republic of the Congo |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/republic-of-the-congo/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>–55%<ref name=":13" />
+| align="right" | 1,620,000–2,780,000
+|- [[Central Africa]]
+| {{flag|Congo, Democratic Republic of}} ([[Roman Catholicism in Congo (Kinshasa)|details]])
+| align="right" | 109,000,000
+| align="center" | 29.9%<ref>{{Cite web |title=Congo, Democratic Republic of the - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/congo-democratic-republic-of-the/#people-and-society |archive-url=https://web.archive.org/web/20260128202544/https://www.cia.gov/the-world-factbook/countries/congo-democratic-republic-of-the/#people-and-society |archive-date=2026-01-28 |access-date=2026-08-08 |website=www.cia.gov |language=en}}</ref>–47.3%<ref>{{Cite web |last= |first= |date=2013-02-13 |title=The Global Catholic Population |url=https://www.pewresearch.org/religion/2013/02/13/the-global-catholic-population/ |access-date=2026-06-06 |website=Pew Research Center |language=en-US}}</ref><ref>{{Cite web |title=2023 Report on International Religious Freedom: Democratic Republic of the Congo |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/democratic-republic-of-the-congo/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref> 
+| align="right" | 45,000,000<ref>{{Cite news |date=22 January 2023 |title=Pope's Congo visit seeks to heal 'still bleeding' wounds, envoy says |url=https://www.reuters.com/world/africa/popes-congo-visit-seeks-heal-still-bleeding-wounds-envoy-says-2023-01-22/ |url-status=live |archive-url=https://web.archive.org/web/20230602171836/https://www.reuters.com/world/africa/popes-congo-visit-seeks-heal-still-bleeding-wounds-envoy-says-2023-01-22/ |archive-date=2023-06-02 |access-date=2026-07-09 |work=Reuters |language=en-US}}</ref>–51,000,000
+|- [[Central America]]
+| {{flag|Costa Rica}} ([[Roman Catholicism in Costa Rica|details]])
+| align="right" | 5,100,000
+| align="center" | 47.5%<ref name=ciep>{{cite news|last1=Murillo|first1=Alvaro|title=Encuesta CIEP-UCR evidencia a una Costa Rica estatista y menos religiosa|url=https://semanariouniversidad.com/pais/encuesta-ciep-ucr-evidencia-a-una-costa-rica-estatista-y-menos-religiosa/|access-date=8 July 2021|agency=Semanario Universidad|date=7 July 2021}}</ref><ref>{{Cite web |title=Costa Rica - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/costa-rica/#people-and-society |archive-url=https://web.archive.org/web/20260201150710/https://www.cia.gov/the-world-factbook/countries/costa-rica/#people-and-society |archive-date=2026-02-01 |access-date=2026-08-08 |website=www.cia.gov |language=en}}</ref>–52%<ref name=":42" /><ref>[https://ciep.ucr.ac.cr/sites/default/files/Informe-encuesta-MARZO6-2018.pdf Informe de Resultados de la Encuesta de Opinión Sociopolítica Realizada en Febrero de 2018] {{Webarchive|url=https://web.archive.org/web/20201107195838/https://ciep.ucr.ac.cr/sites/default/files/Informe-encuesta-MARZO6-2018.pdf |date=7 November 2020}} Publicado el 6 March 2018.</ref>
+| align="right" | 2,400,000–2,650,000
+|- [[Southern Europe]]
+| {{flag|Croatia}} ([[Roman Catholicism in Croatia|details]])
+| align="right" | 3,872,000
+| align="center" | 79.4%<ref name=":44" />–83.2%<ref>{{Cite web |last=Ćimić |first=Ilko |date=23 September 2022 |title=U Hrvatskoj je po popisu stanovništva 83.2% katolika, a ne 78.9% |trans-title=According to the census, 83.2% of the population in Croatia is Catholic, not 78.9% |url=https://www.index.hr/vijesti/clanak/u-hrvatskoj-je-po-popisu-stanovnistva-832-katolika-a-ne-789/2397558.aspx |access-date=2026-08-13 |website=www.index.hr |language=hr}}</ref>
+| align="right" | 3,240,000
+|- [[North America]]
+| {{flag|Cuba}} ([[Roman Catholicism in Cuba|details]])
+| align="right" | 11,163,934
+| align="center" | 51%<ref name="PEW10" />–60%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Cuba |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/cuba/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 6,000,000<ref>{{cite book|quote=Of Cuba's 6 Million Catholics|publisher=[[Routledge]]|title=Covering Castro|year=2018|isbn=9781351294188|first=Jay|last=Mallin|url=https://books.google.com/books?id=7vZKDwAAQBAJ&q=6+million+catholics+in+cuba&pg=PT55}}</ref>
+|- [[Middle East]]
+| {{flag|Cyprus}} ([[Roman Catholicism in Cyprus|details]])
+| align="right" | 923,381<ref name=":29">{{Cite web |title=Population Enumerated by Religion, Sex and Citizenship Group 1.10.2021 |url=https://cystatdb23px.cystat.gov.cy/pxweb/en/8.CYSTAT-DB/8.CYSTAT-DB__Population__Census%20of%20Population%20and%20Housing%202021__Population__Population%20-%20Language,%20Religion,%20Ethnic%20Religious%20Group/1891632E.px/table/tableViewLayout1/ |access-date=10 June 2026 |website=CYSTAT-DB}}</ref>
+| align="center" | 1.5%<ref name=":29" />
+| align="right" | 13,860<ref name=":29" />
+|- [[Central Europe]]
+| {{flag|Czech Republic}} ([[Roman Catholicism in Czech Republic|details]])
+| align="right" | 10,524,167<ref name=":30" />
+| align="center" | 9.36%<ref name=":30">{{cite web|url=https://www.czso.cz/documents/142154812/176236044/sldb2021_pv_obyvatelstvo_podle_cirkvi_a_kraju.xlsx|title=Czechia (2021 census)|access-date=28 December 2022|archive-date=21 January 2022|archive-url=https://web.archive.org/web/20220121163456/https://www.czso.cz/documents/142154812/176236044/sldb2021_pv_obyvatelstvo_podle_cirkvi_a_kraju.xlsx|url-status=bot: unknown}}</ref>
+| align="right" | 985,162<ref name=":30" />
+|- [[West Africa]]
+| {{flag|Côte d'Ivoire}} ([[Roman Catholicism in Côte d'Ivoire|details]])
+| align="right" | 23,800,000<ref>{{cite web|url=http://www.ins.ci/n/index.php?option=com_content&view=article&id=19&Itemid=27|title=Informations Générales sur la COTE D'IVOIRE|author=Administrator|access-date=14 February 2015}}</ref>
+| align="center" | 17%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Côte d’Ivoire |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/cote-divoire/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>–18.6%<ref name=":45" />
+| align="right" | 4,046,000
+|- [[Northern Europe]]
+| {{flag|Denmark}} ([[Roman Catholicism in Denmark|details]])
+| align="right" | 5,900,000<ref name=":31">{{Cite web |title=2023 Report on International Religious Freedom: Denmark |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/denmark/ |access-date=2026-06-10 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 1%<ref name=":31" />
+| align="right" | 58,000<ref>{{Cite web |title=Bispedømmet København |url=https://www.katolsk.dk/om-kirken/om-bispedoemmet-koebenhavn |access-date=2026-06-10 |website=www.katolsk.dk}}</ref>
+|- [[East Africa]]
+| {{flag|Djibouti}} ([[Roman Catholicism in Djibouti|details]])
+| align="right" | 476,703
+| align="center" | 0.2%
+| align="right" | 953
+|- [[Caribbean]]
+| {{flag|Dominica}} ([[Demographics of Dominica|details]])
+| align="right" | 71,540
+| align="center" | 52.7%<ref>{{Cite web |title=Dominica - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/dominica/#people-and-society |archive-url=https://web.archive.org/web/20260118151042/https://www.cia.gov/the-world-factbook/countries/dominica/#people-and-society |archive-date=2026-01-18 |access-date=2026-08-09 |website=www.cia.gov |language=en}}</ref>–58.1%<ref name="PEW10" />
+| align="right" | 41,564
+|- [[Caribbean]]
+| {{flag|Dominican Republic}} ([[Roman Catholicism in Dominican Republic|details]])
+| align="right" | 10,400,000
+| align="center" | 43%<ref name=":42" />–57%<ref name="PEWLAT">{{cite web |date=13 November 2014 |title=Pew Research Center: Religion in Latin America 2014 |url=http://www.pewforum.org/2014/11/13/religion-in-latin-america/ |access-date=14 October 2015}}</ref>
+| align="right" | 4,992,000–5,928,000
+|- [[Southeast Asia]]
+| {{flag|East Timor}} ([[Roman Catholicism in East Timor|details]])
+| align="right" | 1,248,705<ref name=":21">{{Cite web |date=May 2023 |title=Timor-Leste Population and Housing Census 2022 Main Report |url=https://webapps.ilo.org/surveyLib/index.php/catalog/8548/related-materials |access-date=9 June 2026 |website=ilo.org |publisher=The Timor-Leste National Institute of Statistics (INETL) |pages=35, 99}}</ref>
+| align="center" | 97.5%<ref name=":21" />
+| align="right" | 1,217,157<ref name=":21" />
+|- [[South America]]
+| {{flag|Ecuador}} ([[Roman Catholicism in Ecuador|details]])
+| align="right" | 15,223,680
+| align="center" | 65%<ref name=":42" />–80.4%<ref name="INEC">{{cite web|publisher=Instituto Nacional de Estadisticas y Censos|date=15 August 2012|title=INEC presenta por primera vez estadísticas sobre religión
+|url=https://www.ecuadorencifras.gob.ec/inec-presenta-por-primera-vez-estadisticas-sobre-religion/}}</ref><ref name="Report">{{cite web|publisher=According to a 2012 survey by the National Institute of Statistics and Census, the most recent government survey available, approximately 92 percent of the population professes a religious affiliation or belief. Of those, 80.4 percent is Roman Catholic; 11.3 percent evangelical Christian, including Pentecostals; and 1.3 percent Jehovah's Witnesses. Seven percent belongs to other religious groups|title=ECUADOR 2018 INTERNATIONAL RELIGIOUS FREEDOM REPORT|url=https://www.state.gov/wp-content/uploads/2019/05/ECUADOR-2018-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf}}</ref>
+| align="right" | 11,265,523
+|- [[Central Africa]]
+| {{flag|Equatorial Guinea}} ([[Demographics of Equatorial Guinea|details]])
+| align="right" | 1,620,000
+| align="center" | 88%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Equatorial Guinea |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/equatorial-guinea/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 1,425,000
+|- [[North Africa]]
+| {{flag|Egypt}} ([[Roman Catholicism in Egypt|details]])
+| align="right" | 107,000,000
+| align="center" | 0%<ref name=":44" />–0.2%
+| align="right" | 200,000<ref>{{Cite web |url=http://www.cnewa.org/source-images/Roberson-eastcath-statistics/eastcatholic-stat17.pdf |title=The Eastern Catholic Churches 2017 |access-date=23 October 2019 |archive-url=https://web.archive.org/web/20181024215818/http://www.cnewa.org/source-images/Roberson-eastcath-statistics/eastcatholic-stat17.pdf |archive-date=24 October 2018 |url-status=dead}}</ref>
+|- [[Central America]]
+| {{flag|El Salvador}} ([[Roman Catholicism in El Salvador|details]])
+| align="right" | 7,000,000
+| align="center" | 40%<ref name=":42" />–47%<ref name="state2017">{{cite web |title=International Religious Freedom Report for 2017: El Salvador |url=https://2009-2017.state.gov/j/drl/rls/irf/religiousfreedom/index.htm?year=2017&dlid=281072 |website=State.gov |access-date=31 December 2018}}</ref> 
+| align="right" | 2,730,000–3,500,000
+|- [[East Africa]]
+| {{flag|Eritrea}} ([[Roman Catholicism in Eritrea|details]])
+| align="right" | 4,561,599
+| align="center" | 3.3%{{Citation needed|date=June 2026}}–<5%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Eritrea |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/eritrea/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 150,532
+|- [[Northern Europe]]
+| {{flag|Estonia}} ([[Roman Catholicism in Estonia|details]])
+| align="right" | 1,114,030<ref name=":7" />
+| align="center" | 0.8%<ref name=":7">{{cite web|url=https://andmed.stat.ee/en/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__usk/RL21454/table/tableViewLayout2|title= Estonia (2021 census)}}</ref>
+| align="right" | 8,690<ref name=":7" />
+|- [[Southern Africa]]
+| {{flag|Eswatini}} ([[Roman Catholicism in Eswatini|details]])
+| align="right" | 1,100,000
+| align="center" | 2.4%<ref name=":45" />–4.9%<ref name="PEW10" />–20%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Eswatini |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/eswatini/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 62,803
+|- [[East Africa]]
+| {{flag|Ethiopia}} ([[Roman Catholicism in Ethiopia|details]])
+| align="right" | 139,000,000
+| align="center" | 0.2%<ref name=":44" />–0.5%<ref name=":46" />
+| align="right" | 1,000,000
+|- [[Oceania]]
+| {{flag|Federated States of Micronesia}} ([[Roman Catholicism in Federated States of Micronesia|details]])
+| align="right" | 104,468
+| align="center" | 52.6%<ref>{{cite web|url=http://www.globalreligiousfutures.org/countries/federated-states-of-micronesia#/?affiliations_religion_id=26&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2016|title=Religions in the Federated States of Micronesia {{pipe}} PEW-GRF|publisher=Globalreligiousfutures.org|access-date=20 September 2017|archive-date=10 September 2017|archive-url=https://web.archive.org/web/20170910191432/http://globalreligiousfutures.org/countries/federated-states-of-micronesia#/?affiliations_religion_id=26&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2016|url-status=dead}}</ref>–55%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Micronesia |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/micronesia/ |access-date=2026-06-08 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 60,000
+|- [[Oceania]]
+| {{flag|Fiji}} ([[Roman Catholicism in Fiji|details]])
+| align="right" | 893,354
+| align="center" | 9.1%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Fiji |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/fiji/ |access-date=2026-06-07 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 80,401
+|- [[Northern Europe]]
+| {{flag|Finland}} ([[Roman Catholicism in Finland|details]])
+| align="right" | 5,600,000
+| align="center" | 0.3% <ref name="Catholic Hierarchy">{{cite web|url=http://www.catholic-hierarchy.org/diocese/dhels.html|title=Helsinki (Diocese) [Catholic-Hierarchy]|author=David M. Cheney|access-date=10 June 2026}}</ref>
+| align="right" | 16,734<ref name=":32">{{Cite web |title=2023 Report on International Religious Freedom: Finland |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/finland/ |access-date=2026-06-10 |website=United States Department of State |language=en-US}}</ref>
+|- [[Western Europe]]
+| {{flag|France}} ([[Roman Catholicism in France|details]])
+| align="right" | 69,000,000<ref name="Insee.Population">{{Cite web |date=13 January 2026 |title=Estimation de la population au 1ᵉʳ Janvier 2026 - Séries par région, département, sexe et âge |url=https://www.insee.fr/fr/statistiques/8721456 |access-date=2026-01-31 |website=www.insee.fr |publisher=[[Institut national de la statistique et des études économiques|INSEE]] |language=fr}}</ref>
+| align="center" | 32%<ref name=":44" />–36%<ref name=":2" /><ref name="ESS2023A" /><ref name="ESS2023B" />–42%<ref name="EB202122">{{cite web |date=September 2021 |title=Special Eurobarometer 516 : European citizens' knowledge and attitudes towards science and technology |url=https://data.europa.eu/data/datasets/s2237_95_2_516_eng?locale=en |access-date=20 May 2023 |publisher=[[European Union]]: [[European Commission]] |via=[[European Data Portal]] (see Volume C: Country/socio-demographics: FR: Question D90.2.)}}</ref>–47%<ref name="gov data">{{cite web |title=Etat des lieux de la laïcité en France - 2021 |url=https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2021/02/etat_des_lieux_de_la_laicite_en_france._viavoice_-_observatoire_de_la_laicite._2021.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240118103656/https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2021/02/etat_des_lieux_de_la_laicite_en_france._viavoice_-_observatoire_de_la_laicite._2021.pdf |archive-date=18 January 2024 |publisher=Observatoire de la laïcité, [[Government of France]] |page=37 |language=fr |type=official statistics}}</ref>
+| align="right" | 24,000,000–33,000,000
+|- [[Central Africa]]
+| {{flag|Gabon}} ([[Roman Catholicism in Gabon|details]])
+| align="right" | 1,389,201
+| align="center" | 30.7%<ref name=":45" />
+| align="right" | 426,000
+|- [[West Africa]]
+| {{flag|Gambia}} ([[Roman Catholicism in the Gambia|details]])
+| align="right" | 1,593,256
+| align="center" | 1%<ref name=":45" />–<3.5%<ref>{{Cite web |title=2023 Report on International Religious Freedom: The Gambia |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/gambia/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 16,000–<56,000
+|- [[Caucasus]]
+| {{flag|Georgia}} ([[Roman Catholicism in Georgia|details]])
+| align="right" | 3,713,804<ref name=":33">{{cite web |date=28 April 2016 |title=2014 General Population Census: Main Results |url=http://geostat.ge/cms/site_images/_files/english/population/Census_release_ENG_2016.pdf |archive-url=https://web.archive.org/web/20171010074805/http://geostat.ge/cms/site_images/_files/english/population/Census_release_ENG_2016.pdf |archive-date=10 October 2017 |access-date=29 April 2016 |publisher=[[National Statistics Office of Georgia]]}}</ref>
+| align="center" | 0.5%<ref name=":33" />–1.3%<ref name=":44" />
+| align="right" | 19,200<ref name=":33" />
+|- [[Central Europe]]
+| {{flag|Germany}} ([[Roman Catholicism in Germany|details]])
+| align="right" | 83,550,000
+| align="center" | 21%<ref name=":2" />–23.0%<ref>{{Cite web|url=https://www.dbk.de/presse/aktuelles/meldung/kirchenstatistik-2024
+ |title=Kirchenstatistik 2024 |date=2025-03-28 |first=Deutsche|last=Bischofskonferenz|website=Deutsche Bischofskonferenz |access-date=30 March 2025}}</ref><ref name="FOWID2025A">{{cite web |date=4 July 2026 |title=Religionszugehörigkeiten 2025 |trans-title=Religious denominations 2025 |url=https://fowid.de/meldung/religionszugehoerigkeiten-2025 |access-date=4 July 2026 |website=fowid.de |publisher={{ill|fowid|de|Forschungsgruppe Weltanschauungen in Deutschland}} ('Worldviews in Germany Research Group') |language=de}}</ref>
+| align="right" | 19,220,000<ref name="FOWID2025A" />
+|- [[West Africa]]
+| {{flag|Ghana}} ([[Roman Catholicism in Ghana|details]])
+| align="right" | 30,753,327<ref name=":10" />
+| align="center" | 6.5%<ref name=":45" />–10.0%<ref name=":10">{{cite web|url=https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/2021%20PHC%20General%20Report%20Vol%203C_Background%20Characteristics_181121.pdf|title= Ghana 2021 Population and Housing Census|page=58|date=November 2021|publisher=Ghana Statistical Service}}</ref>–11%<ref name=":2" />
+| align="right" | 3,071,844<ref name=":10" />
+|- [[Southern Europe]]
+| {{flag|Greece}} ([[Roman Catholicism in Greece|details]])
+| align="right" | 10,413,982<ref>{{Cite web |title=Estimated Population and Migration Flows, 2023 |url=https://www.statistics.gr/documents/20181/de3e26f6-9b77-d2e5-2ca3-e13bcafe482a}}</ref>
+| align="center" | 0.5%<ref name=":44" />–2.4%
+| align="right" | 250,000<ref>{{Cite web |title=Η Καθολική Εκκλησία στην Ελλάδα |date=23 December 2020 |url=https://cathecclesia.gr/%ce%b7-%ce%ba%ce%b1%ce%b8%ce%bf%ce%bb%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%ce%ba%ce%bb%ce%b7%cf%83%ce%af%ce%b1-%cf%83%cf%84%ce%b7%ce%bd-%ce%b5%ce%bb%ce%bb%ce%ac%ce%b4%ce%b1/}}</ref>
+|- [[Caribbean]]
+| {{flag|Grenada}} ([[Roman Catholicism in Grenada|details]])
+| align="right" | 115,000
+| align="center" | 36%<ref>{{Cite web |title=Grenada - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/grenada/#people-and-society |archive-url=https://web.archive.org/web/20260121150954/https://www.cia.gov/the-world-factbook/countries/grenada/#people-and-society |archive-date=2026-01-21 |access-date=2026-08-09 |website=www.cia.gov |language=en}}</ref>
+| align="right" | 40,000
+|- [[Central America]]
+| {{flag|Guatemala}} ([[Roman Catholicism in Guatemala|details]])
+| align="right" | 15,773,000
+| align="center" | 39%<ref name=":42" />–45%<ref name="GUATEMALA">{{cite web |title=International Religious Freedom Report for 2017: Guatemala |url=https://2009-2017.state.gov/j/drl/rls/irf/religiousfreedom/index.htm?year=2017&dlid=281076 |website=State.gov |access-date=27 July 2018}}</ref>–48.9%<ref name=":44" />
+| align="right" | 7,000,000
+|- [[West Africa]]
+| {{flag|Guinea}} ([[Roman Catholicism in Guinea|details]])
+| align="right" | 9,467,866
+| align="center" | 4.8%<ref name=":45" />
+| align="right" | 454,000
+|- [[West Africa]]
+| {{flag|Guinea-Bissau}} ([[Roman Catholicism in Guinea-Bissau|details]])
+| align="right" | 2,100,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Guinea-Bissau |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/guinea-bissau/ |access-date=2026-08-23 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 17.9%<ref name="PEW10" />–22.2%<ref name=":45" />
+| align="right" | 370,000–470,000
+|- [[South America]]
+| {{flag|Guyana}} ([[Roman Catholicism in Guyana|details]])
+| align="right" | 746,955
+| align="center" | 7.1%<ref>{{cite web |title=Compendium 2: Population Composition |url=https://www.statisticsguyana.gov.gy/download.php?file=93 |url-status=dead |archive-url=https://web.archive.org/web/20161023202436/https://www.statisticsguyana.gov.gy/download.php?file=93 |archive-date=2016-10-23}}</ref>
+| align="right" | 53,034
+|- [[Caribbean]]
+| {{flag|Haiti}} ([[Roman Catholicism in Haiti|details]])
+| align="right" | 10,000,000
+| align="center" | 55%<ref>{{Cite web |title=Haiti |url=https://www.cia.gov/the-world-factbook/countries/haiti/ |archive-url=https://web.archive.org/web/20260125014846/https://www.cia.gov/the-world-factbook/countries/haiti/#people-and-society |archive-date=25 January 2026 |website=[[CIA World Factbook]]}}</ref>–56.7%<ref name="PEW10" />–56.8%<ref>{{Cite web|url=http://www.globalreligiousfutures.org/countries/haiti#/?affiliations_religion_id=11&affiliations_year=2010&region_name=All+Countries&restrictions_year=2015|title=Religions in Haiti {{pipe}} PEW-GRF|website=Globalreligiousfutures.org|access-date=14 May 2021|archive-date=29 September 2022|archive-url=https://web.archive.org/web/20220929181606/http://www.globalreligiousfutures.org/countries/haiti#/?affiliations_religion_id=11&affiliations_year=2010&region_name=All+Countries&restrictions_year=2015|url-status=dead}}</ref>
+| align="right" | 5,470,000
+|- [[Central America]]
+| {{flag|Honduras}} ([[Roman Catholicism in Honduras|details]])
+| align="right" | 8,800,000
+| align="center" | 36%<ref name=":42" />
+| align="right" | 3,256,000–4,048,000
+|- [[Central Europe]]
+| {{flag|Hungary}} ([[Roman Catholicism in Hungary|details]])
+| align="right" | 9,877,000
+| align="center" | 29.2%<ref>{{cite web|title=Population by religion and gender according to the 2001, 2011 and 2022 censuses|type=report with the detailed subdivisions of religious denominations|website=Census Database|url=https://nepszamlalas2022.ksh.hu/adatbazis/#/table/WBS008/N4IgFgpghgJiBcBtEAVAkgWQKIH0AKWASmgPIAiIAugDQgDOAljBAsgGoCCAMlxwMo42AJiq06EAMYAXBgHsAdq1QdCfAFJYeARlEgAZgwA2UiACc6CUAGsG8uPBAYoABxC0I8qaYYQLSdty8AsJu1rb2IHwQUm4gAG5QhgCuvkqEuADCsek4hFm0OQDi-SA5JIXZuCSEAKqVOCR89dUkzQBCzXUFVa3dOBkc9Vxdpbg1AHL1bYN92PUcFH0E85N9agDq9QBiJTkZvaM4avUYU_UAEs0ZZCJ94yQo9eODlAC-NMjo2PhEpIthdgQkWisQSyVSSBAQgADEJblDoVodLQYYiqO9qJ8VOpNFxkQCIlEYrQwSk_MhxlhvnwsAANWKnWhbdGUN6vIA===}}</ref>–32.6%<ref name=":44" />–56%<ref name="Pew2017">{{cite web|url=http://www.pewforum.org/2017/05/10/religious-affiliation/|title=Religious Belief and National Belonging in Central and Eastern Europe|date = 10 May 2017| publisher = Pew Research Center| access-date = 2017-09-09}}</ref>–62%<ref name="EURO2019">[https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/instruments/SPECIAL/surveyKy/2251 Special Eurobarometer 493, European Union: European Commission, September 2019, pages 229-230], Ec.europa.eu Retrieved 17 January 2020. The question asked was "Do you consider yourself to be...?" With a card showing: Catholic, Orthodox Christian, Protestant, Other Christian, Jewish, Muslim - Shia, Muslim - Sunni, Other Muslim, Sikh, Buddhist, Hindu, Atheist, Non believer/Agnostic and Other. Also space was given for Refusal (SPONTANEOUS) and Don't Know. Jewish, Sikh, Buddhist and Hindu did not reach the 1% threshold.</ref>–63%<ref name=":2" />
+| align="right" | 2,808,000–6,123,740
+|- [[Northern Europe]]
+| {{flag|Iceland}} ([[Roman Catholicism in Iceland|details]])
+| align="right" | 394,324<ref name=":5">{{Cite web |title=Statistics Iceland: Religious organisations |url=https://statice.is/statistics/society/culture/religious-organisations |access-date=2026-08-13 |website=Statistics Iceland |language=en}}</ref>
+| align="center" | 3.95%<ref name=":5" />
+| align="right" | 15,558<ref name=":5" />
+|- [[South Asia]]
+| {{flag|India}} ([[Roman Catholicism in India|details]])
+| align="right" | 1,400,000,000
+| align="center" | 1.2%<ref name=":44" />–1.5%<ref>James Roberts and Ellen Teague, "COVID-19 fuels Dalit bias," TABLET, 2 May 2020, 24.</ref><ref name="CatholicHierarchy">{{Catholic-hierarchy|country|sc3|Statistics by Country|21 January 2015}}</ref>
+| align="right" | 16,800,000–21,000,000
+|- [[Southeast Asia]]
+| {{flag|Indonesia}} ([[Roman Catholicism in Indonesia|details]])
+| align="right" | 270,000,000
+| align="center" | 3.07%<ref name=":16">{{Cite web |date=13 March 2026 |title=Keragaman Beragama Indonesia di Data Kependudukan Kemendagri |trans-title=Indonesian Religious Diversity in the Ministry of Home Affairs' Population Data |url=https://www.tempo.co/info-tempo/keragaman-beragama-indonesia-di-data-kependudukan-kemendagri-2121797 |access-date=2026-06-07 |website=Tempo |language=id}}</ref>
+| align="right" | 8,861,999<ref name=":16" />
+|- [[Middle East]]
+| {{flag|Iran}} ([[Roman Catholicism in Iran|details]])
+| align="right" | 85,202,000
+| align="center" | 0%<ref name=":44" />–0.03%
+| align="right" | 2000<ref name=":41">{{Cite web |title=2023 Report on International Religious Freedom: Iran |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/iran/ |access-date=2026-06-24 |website=United States Department of State |language=en-US}}</ref>–6000<ref name=":41" />–21,000<ref>{{Cite web |title=2022 Report on International Religious Freedom: Iran |url=https://www.state.gov/reports/2022-report-on-international-religious-freedom/iran/ |access-date=2026-06-24 |website=United States Department of State |language=en-US}}</ref>–22,000<ref>{{Cite web |last=Salvi |first=Dario |date=13 June 2025 |title=Tehran Cardinal calls for Iran - Israel talks;  "pre-emptive strikes” will not bring peace |url=https://www.asianews.it/news-en/Tehran-Cardinal-calls-for-Iran---Israel-talks;-pre-emptive-strikes-will-not-bring-peace-63289.html |access-date=2026-06-24 |website=www.asianews.it |language=en}}</ref>
+|- [[Middle East]]
+| {{flag|Iraq}} ([[Roman Catholicism in Iraq|details]])
+| align="right" | 46,000,000<ref>{{Cite news |title=Planning Ministry Announces Key Census Results: Population Reaches 46 Million 118 Thousand |url=https://ina.iq/eng/38495-planning-ministry-announces-key-census-results-population-reaches-46-million-118-thousand.html |archive-url=https://web.archive.org/web/20250224105128/https://ina.iq/eng/38495-planning-ministry-announces-key-census-results-population-reaches-46-million-118-thousand.html |archive-date=2025-02-24 |access-date=2026-06-28 |work=Iraqi News Agency}}</ref>
+| align="center" | 0%<ref name=":44" />–0.2%
+| align="right" | 100,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Iraq |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/iraq/ |access-date=2026-06-28 |website=United States Department of State |language=en-US}}</ref>
+|- [[Western Europe]]
+| {{flag|Ireland}} ([[Catholic Church in Ireland|details]])
+| align="right" | 5,100,000
+| align="center" | 69%<ref name="journal2023">{{cite web|url = https://www.thejournal.ie/census-2022-population-cso-religion-6081108-May2023/ | website = thejournal.ie | title = Census 2022: Number who identify as Catholic falls by 10 percentage points to 69% | date = 30 May 2023 | accessdate = 30 May 2023}}</ref>
+| align="right" | 3,500,000
+|- [[Middle East]]
+| {{flag|Israel}} ([[Roman Catholicism in Israel|details]])
+| align="right" | 10,000,000<ref>{{Cite web |title=Time Series DataBank |url=https://www.cbs.gov.il/en/Statistics/Pages/Generators/Time-Series-DataBank.aspx |access-date=2026-06-28 |website=www.cbs.gov.il |language=en-US}}</ref>
+| align="center" | 1.2%<ref name="PEW10" />
+| align="right" | 120,000
+|- [[Southern Europe]]
+| {{flag|Italy}} ([[Roman Catholicism in Italy|details]])
+| align="right" | 59,000,000
+| align="center" | 66.7%<ref>{{cite web | url=https://www.uaar.it/doxa2019/ | archive-url=https://web.archive.org/web/20220421144408/https://www.uaar.it/doxa2019/ | archive-date=21 April 2022 | title=Sondaggio Doxa su religiosità e ateismo &#124; UAAR | date=8 May 2019 }}</ref>–69%<ref name=":2" />–73.6%<ref name=":44" />–74%<ref name="Ipsos2017">{{Cite news|url=http://www.acli.it/wp-content/uploads/2017/11/Cattolici-e-politica-analisi-Ipsos-novembre-2017.pdf|title=I cattolici tra presenza nel sociale e nuove domande alla politica|publisher=Ipsos MORI|date=17 November 2017|archive-url=https://web.archive.org/web/20180124122738/http://www.acli.it/wp-content/uploads/2017/11/Cattolici-e-politica-analisi-Ipsos-novembre-2017.pdf|archive-date=24 January 2018}}</ref>–74.5%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Italy |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/italy/ |access-date=2026-06-10 |website=United States Department of State |language=en-US}}</ref>–79%<ref>{{Cite web |date=September 2021 |title=Special Eurobarometer 516 |url=https://data.europa.eu/data/datasets/s2237_95_2_516_eng?locale=en |url-status=live |archive-url=https://web.archive.org/web/20230629085321/http://data.europa.eu/data/datasets/s2237_95_2_516_eng?locale=en |archive-date=29 June 2023 |access-date=24 September 2021 |publisher=European Union: [[European Commission]] |via=[[European Data Portal]] (see Volume C: Country/socio-demographics: IT: Question D90.2.)}}</ref>
+| align="right" |40,000,000–47,000,000
+|- [[Caribbean]]
+| {{flag|Jamaica}} ([[Roman Catholicism in Jamaica|details]])
+| align="right" | 2,697,983
+| align="center" | 2.2%<ref>{{cite web|url=https://statinja.gov.jm/Census/PopCensus/PopulationUsuallyResidentinJamaicabyParish.aspx|title= Jamaica (2011 census)}}</ref>
+| align="right" | 59,356
+|- [[East Asia]]
+| {{flag|Japan}} ([[Roman Catholicism in Japan|details]])
+| align="right" | 124,000,000
+| align="center" | 0.4%<ref name=":44" />–0.5%<ref name="chy">{{Cite web|url=http://www.catholic-hierarchy.org/country/sc1.html|title=Statistics by Country, by Catholic Population [Catholic-Hierarchy]|website=Catholic-hierarchy.org}}</ref>
+| align="right" | 496,000–620,000
+|- [[Middle East]]
+| {{flag|Jordan}} ([[Roman Catholicism in Jordan|details]])
+| align="right" | 11,000,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Jordan |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/jordan/ |access-date=2026-06-28 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 0%<ref name=":44" />–0.4%<ref name="PEW10" />
+| align="right" | 44,000
+|- [[Central Asia]]
+| {{flag|Kazakhstan}} ([[Roman Catholicism in Kazakhstan|details]])
+| align="right" | 15,185,844
+| align="center" | 0.5%<ref name=":44" />–0.6%
+| align="right" | 91,115
+|- [[East Africa]]
+| {{flag|Kenya}} ([[Roman Catholicism in Kenya|details]])
+| align="right" | 47,560,000
+| align="center" | 17.9%<ref name=":45" />–20.6%<ref name=Census2019>{{cite web|url=https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volume-iv-distribution-of-population-by-socio-economic-characteristics&wpdmdl=5730&ind=7HRl6KateNzKXCJaxxaHSh1qe6C1M6VHznmVmKGBKgO5qIMXjby1XHM2u_swXdiR |title=2019 Kenya Population and Housing Census Volume IV: Distribution of Population by Socio-Economic Characteristics
+ |access-date=24 March 2020 |website=Kenya National Bureau of Statistics}}</ref>–26%<ref name=":44" />–30%<ref name=":2" />
+| align="right" | 9,797,000-14,268,000
+|- [[Oceania]]
+| {{flag|Kiribati}} ([[Demographics of Kiribati|details]])
+| align="right" | 119,438<ref name="Kir Census 2020">{{cite book |url=https://nso.gov.ki/download/146/2020-census/1965/population-and-housing-census-report-2020 |title=Republic of Kiribati 2020 Population and Housing General Report and Results |date=July 2021 |publisher=National Statistics Office |pages=18 |access-date=7 June 2026}}</ref>
+| align="center" | 58.9%<ref name="Kir Census 2020" />
+| align="right" | 70,333<ref name="Kir Census 2020" />
+|- [[East Asia]]
+| {{flag|Korea, North}} ([[Roman Catholicism in Korea, North|details]])
+| align="right" | 22,912,177
+| align="center" | 0%–<0.1%<ref name="PEW10" />
+| align="right" | 800<ref>{{Cite web |title=2023 Report on International Religious Freedom: North Korea |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/north-korea/ |access-date=2026-06-08 |website=United States Department of State |language=en-US}}</ref>
+|- [[East Asia]]
+| {{flag|Korea, South}} ([[Roman Catholicism in Korea, South|details]])
+| align="right" | 53,121,668
+| align="center" | 6.8%<ref name=":44" />–7.9%<ref>{{Cite web |title=2015 census |url=https://image.kmib.co.kr/online_image/2016/1219/201612191738_61220011145071_1.jpg}}</ref><ref>{{Cite web |title=2023 Report on International Religious Freedom: South Korea |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/south-korea/ |access-date=2026-06-09 |website=United States Department of State |language=en-US}}</ref>–8%<ref name=":2" />–11%<ref>{{Cite web |last=이동한 |date=2025-12-02 |title=[2025 종교인식조사] 종교인구 현황과 종교 활동 |url=https://hrcopinion.co.kr/archives/34782 |access-date=2026-06-09 |website=한국리서치 정기조사 여론속의 여론 |language=ko-KR}}</ref>–11.3%<ref>{{Cite web |title=Statistics of the Catholic Church in Korea 2023 |url=https://cbck.or.kr/en/News/20242329 |access-date=2026-06-09 |website=cbck.or.kr}}</ref>
+| align="right" | 5,914,669
+|- [[Southern Europe]]
+| {{flag|Kosovo}} ([[Roman Catholicism in Kosovo|details]])
+| align="right" | 1,585,566<ref name=":34">{{Cite web |title=2024 Census |url=https://askapi.rks-gov.net/Custom/31bc24d2-45e4-4eb5-a567-405f4bdd197f.pdf |publisher=Kosovo Statistics Agency |page=46}}</ref>
+| align="center" | 1.75%<ref name=":34" />
+| align="right" | 27,815<ref name=":34" />
+|- [[Middle East]]
+| {{flag|Kuwait}} ([[Roman Catholicism in Kuwait|details]])
+| align="right" | 3,200,000<ref name=":43">{{Cite web |title=2023 Report on International Religious Freedom: Kuwait |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/kuwait/ |access-date=2026-06-30 |website=United States Department of State |language=en-US}}</ref>–4,800,000<ref name=":43" />
+| align="center" | 8.5%<ref name="PEW10" />
+| align="right" | 272,000–408,000
+|- [[Central Asia]]
+| {{flag|Kyrgyzstan}} ([[Roman Catholicism in Kyrgyzstan|details]])
+| align="right" | 5,146,281
+| align="center" | 0.2%<ref name=":44" />
+| align="right" | 10,000
+|- [[Southeast Asia]]
+| {{flag|Laos}} ([[Roman Catholicism in Laos|details]])
+| align="right" | 6,217,141
+| align="center" | 0.5%<ref name="PEW10" />
+| align="right" | 30,000<ref name="PEW10" />–100,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Laos |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/laos/ |access-date=2026-06-08 |website=United States Department of State |language=en-US}}</ref>
+|- [[Northern Europe]]
+| {{flag|Latvia}} ([[Roman Catholicism in Latvia|details]])
+| align="right" | 1,800,000<ref name=":35">{{Cite web |title=2023 Report on International Religious Freedom |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/latvia/ |access-date=2026-06-14 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 17.1%<ref name=":44" />–18%<ref name=":35" />
+| align="right" | 324,000
+|- [[Middle East]]
+| {{flag|Lebanon}} ([[Roman Catholicism in Lebanon|details]])
+| align="right" | 5,300,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Lebanon |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/lebanon/ |access-date=2026-06-30 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 30.1%<ref name=":44">{{Cite web |title=WVS Database: World Values Survey Wave 7: 2017-2022 |url=https://www.worldvaluessurvey.org/WVSOnline.jsp |access-date=2026-06-30 |website=www.worldvaluessurvey.org |at=Q289.- Religious denominations - major groups}}</ref>
+| align="right" | 1,595,000
+|- [[Southern Africa]]
+| {{flag|Lesotho}} ([[Roman Catholicism in Lesotho|details]])
+| align="right" | 2,116,427<ref>{{cite web |title=2024 Labour Force Survey (LFS) Report |url=http://www.bos.gov.ls/New%20Folder/Copy%20of%20Demography/2024_Labour_force_Survey_Report.pdf |access-date=1 August 2026 |publisher=Bureau of Statistics}}</ref>
+| align="center" | 38.9%<ref name=":45" />–39%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Lesotho |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/lesotho/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref> 
+| align="right" | 825,000
+|- [[West Africa]]
+| {{flag|Liberia}} ([[Roman Catholicism in Liberia|details]])
+| align="right" | 3,482,211
+| align="center" | 2.3%<ref name=":45" />
+| align="right" | 80,000
+|- [[North Africa]]
+| {{flag|Libya}} ([[Roman Catholicism in Libya|details]])
+| align="right" | 5,765,563
+| align="center" | 0%<ref name=":44" />–0.7%
+| align="right" | 40,358
+|- [[Central Europe]]
+| {{flag|Liechtenstein}} ([[Roman Catholicism in Liechtenstein|details]])
+| align="right" | 40,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Liechtenstein |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/liechtenstein/ |access-date=2026-06-14 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 69.6%<ref>[https://www.statistikportal.li/de/themen/bevoelkerung/bevoelkerungsstruktur ''Volkszählung 2020'', Bevölkerungsstruktur, retrieved 12 March 2025.]</ref>
+| align="right" | 28,000
+|- [[Northern Europe]]
+| {{flag|Lithuania}} ([[Roman Catholicism in Lithuania|details]])
+| align="right" | 2,900,000
+| align="center" | 74.2%<ref>{{Cite web |last=[[Department of Statistics (Lithuania)|Department of Statistics]] |date=2021-12-21 |title=2021 m. gyventojų ir būstų surašymo pagrindiniai rezultatai |url=https://osp.stat.gov.lt/informaciniai-pranesimai?eventId=288049 |website=osp.stat.gov.lt |language=lt}}</ref>
+| align="right" | 2,200,000
+|- [[Western Europe]]
+| {{flag|Luxembourg}} ([[Roman Catholicism in Luxembourg|details]])
+| align="right" | 690,000<ref name="DataPublic">{{Cite web |date=9 April 2026 |title=Extrait du RNPP – Résidents par localité – 2026.03.31 |url=https://data.public.lu/fr/datasets/registre-national-des-personnes-physiques-rnpp-population-par-localite-population-per-locality/#/resources |access-date=10 April 2026 |website=data.public.lu |language=fr}}</ref>
+| align="center" | 46%<ref name="EB20212">{{cite web |date=September 2021 |title=Special Eurobarometer 516 : European citizens' knowledge and attitudes towards science and technology |url=https://data.europa.eu/data/datasets/s2237_95_2_516_eng?locale=en |access-date=10 June 2023 |publisher=[[European Union]]: [[European Commission]] |via=[[European Data Portal]] (see Volume C: Country/socio-demographics: LU: Question D90.2.)}}</ref>
+| align="right" | 317,000
+|- [[Southern Africa]]
+| {{flag|Madagascar}} ([[Roman Catholicism in Madagascar|details]])
+| align="right" | 18,040,341
+| align="center" | 38.1%<ref name=Madagascar>{{cite web |url=http://www.globalreligiousfutures.org/countries/madagascar#/?affiliations_religion_id=0&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2015 |title=Religions in Madagascar {{pipe}} PEW-GRF |publisher=Globalreligiousfutures.org |access-date=20 September 2017 |archive-date=9 November 2019 |archive-url=https://web.archive.org/web/20191109064122/http://globalreligiousfutures.org/countries/madagascar#/?affiliations_religion_id=0&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2015 |url-status=dead}}</ref>–41.7%<ref name=":45" />
+| align="right" | 7,890,000<ref name=Madagascar/>
+|- [[Southern Africa]]
+| {{flag|Malawi}} ([[Roman Catholicism in Malawi|details]])
+| align="right" | 17,563,749<ref name=":11" />
+| align="center"| 17.2%<ref name=":11">{{cite web|url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf|title=2018 Malawi Population and Housing Census|access-date=28 December 2022|archive-date=8 June 2020|archive-url=https://web.archive.org/web/20200608191931/http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf|url-status=dead|pages=18-19|date=May 2019|publisher=National Statistical Office}}</ref><ref name=":45" />
+| align="right" | 3,028,435<ref name=":11" />
+|- [[Southeast Asia]]
+| {{flag|Malaysia}} ([[Roman Catholicism in Malaysia|details]])
+| align="right" | 34,671,895
+| align="center" | 0%<ref name=":44" />–4.61%<ref name=":17">{{Cite web |title=National Profiles {{!}} World Religion |url=https://www.thearda.com/world-religion/national-profiles?u=139c |access-date=2026-06-08 |website=www.thearda.com}}</ref>–4.7%<ref name="PEW10" />
+| align="right" | 1,330,000<ref name="PEW10" />–1,400,000<ref name=":17" />
+|- [[South Asia]]
+| {{flag|Maldives}} ([[Roman Catholicism in Maldives|details]])
+| align="right" | 349,106
+| align="center" | 0%<ref name=":44" />–0.02%
+| align="right" | 80
+|- [[West Africa]]
+| {{flag|Mali}} ([[Roman Catholicism in Mali|details]])
+| align="right" | 12,291,529
+| align="center" | 0.5%<ref name=":45" />
+| align="right" | 61,000
+|- [[Southern Europe]]
+| {{flag|Malta}} ([[Roman Catholicism in Malta|details]])
+| align="right" | 451,746<ref name="2021census" />
+| align="center" | 82.6%<ref name="2021census">{{Cite web |date=2023 |title=Census of Population and Housing 2021: Final Report: Population, Migration and Other Social Characteristics, Volume 1 |url=https://nso.gov.mt/wp-content/uploads/Census-of-Population-2021-volume1-final.pdf |access-date=14 June 2026 |website=National Statistics Office Malta |pages=159-160}}</ref>
+| align="right" | 373,304<ref name="2021census" />
+|- [[Oceania]]
+| {{flag|Marshall Islands}} ([[Religion in the Marshall Islands|details]])
+| align="right" | 62,000
+| align="center" | 8.5%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Marshall Islands |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/marshall-islands/ |access-date=2026-06-08 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 5,208
+|- [[North Africa]]
+| {{flag|Mauritania}} ([[Roman Catholicism in Mauritania|details]])
+| align="right" | 3,086,859
+| align="center" | 0.1%<ref name=":45" />
+| align="right" | 3,086
+|- [[Southern Africa]]
+| {{flag|Mauritius}} ([[Roman Catholicism in Mauritius|details]])
+| align="right" | 1,233,097<ref name=":12">{{Cite web |date=May 2024 |title=2022 Housing and Population Census Volume II: Demographic and Fertility Characteristics |url=https://statsmauritius.govmu.org/Documents/Census_and_Surveys/Census2022/HPC_TR_Vol2_Demography_Yr22%20_120126.pdf |access-date=6 June 2026 |publisher=[[Statistics Mauritius]] |pages=136-138}}</ref>
+| align="center" | 16.5%<ref name=":45" />–24.9%<ref name=":12" />
+| align="right" | 307,515<ref name=":12" />
+|- [[North America]]
+| {{flag|Mexico}} ([[Roman Catholicism in Mexico|details]])
+| align="right" | 130,000,000
+| align="center" | 67%<ref name=":2" />–68%<ref name=":42" />–77.7%<ref name=":0">{{Cite web |last=Díaz Domínguez |first=Alejandro |date=February 1, 2021 |title=¿Qué nos dice el Censo 2020 sobre religión en México? |url=https://datos.nexos.com.mx/que-nos-dice-el-censo-2020-sobre-religion-en-mexico/ |access-date=2022-06-18 |website=Nexos |language=es}}</ref><ref>{{Cite web |title=Mexico - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/mexico/#people-and-society |archive-url=https://web.archive.org/web/20260118235804/https://www.cia.gov/the-world-factbook/countries/mexico/#people-and-society |archive-date=2026-01-18 |access-date=2026-06-29 |website=www.cia.gov |language=en}}</ref><ref>{{Cite web |title=2023 Report on International Religious Freedom: Mexico |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/mexico/ |access-date=2026-06-29 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 87,000,000–101,000,000
+|- [[Eastern Europe]]
+| {{flag|Moldova}} ([[Roman Catholicism in Moldova|details]])
+| align="right" | 2,409,200<ref name=":36">{{Cite web |date=2025-10-20 |title=Rezultatele finale ale Recensământului Populației și Locuințelor 2024: Caracteristici etnoculturale ale populației |trans-title=Final results of the 2024 Population and Housing Census: Ethnocultural characteristics of the population |url=https://statistica.gov.md/ro/rezultatele-finale-ale-recensamantului-populatiei-si-locuintelor-2024-caracteris-10121_62043.html |access-date=2026-06-14 |website=Statistica Moldovei |language=ro}}</ref>
+| align="center" | 0.1%<ref name=":36" />
+| align="right" | 2,500<ref name=":36" />
+|- [[Southern Europe]]
+| {{flag|Monaco}} ([[Roman Catholicism in Monaco|details]])
+| align="right" | 38,000
+| align="center" | 82.3%<ref name="PEW10" />
+| align="right" | 30,000<ref name="PEW10" />
+|- [[Central Asia]]
+| {{flag|Mongolia}} ([[Roman Catholicism in Mongolia|details]])
+| align="right" | 3,300,000
+| align="center" | 0.04%
+| align="right" | 1,450<ref> {{Cite web |last=Winfield |first=Nicole |last2=Zhang |first2=Weiqun |date=30 August 2023 |title=Pope heads to Mongolia in centuries-old diplomatic exchange |url=https://www.pbs.org/newshour/world/pope-heads-to-mongolia-in-centuries-old-diplomatic-exchange |access-date=2026-08-13 |website=[[PBS News]]}} </ref>
+|- [[Southern Europe]]
+| {{flag|Montenegro}} ([[Roman Catholicism in Montenegro|details]])
+| align="right" | 623,633<ref name=":37">{{Cite web |date=15 October 2024 |title=Census of Population, Households and Dwellings in Montenegro 2023 |url=https://monstat.org/uploads/files/popis%202021/saopstenja/SAOPSTENJE_Popis%20stanovnistva%202023%20II_cg.pdf |access-date=14 June 2026 |website=Monstat |page=6}}</ref>
+| align="center" | 3.27%<ref name=":37" />
+| align="right" | 20,408<ref name=":37" />
+|- [[North Africa]]
+| {{flag|Morocco}} ([[Roman Catholicism in Morocco|details]])
+| align="right" | 32,725,847
+| align="center" | 0%<ref name=":44" /><ref name=":45" />–0.07%
+| align="right" | 22,908
+|- [[Southern Africa]]
+| {{flag|Mozambique}} ([[Roman Catholicism in Mozambique|details]])
+| align="right" | 19,406,703
+| align="center" | 17.1%<ref name=":45" />–27%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Mozambique |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/mozambique/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 5,240,000–5,280,000
+|- [[Southeast Asia]]
+| {{flag|Myanmar}} ([[Roman Catholicism in Myanmar|details]])
+| align="right" | 42,909,464
+| align="center" | 0.5%<ref name=":44" />
+| align="right" | 215,000
+|- [[Southern Africa]]
+| {{flag|Namibia}} ([[Roman Catholicism in Namibia|details]])
+| align="right" | 3,000,000
+| align="center" | 18.9%<ref name=":45" />–20%<ref>{{cite web|url=https://dhsprogram.com/pubs/pdf/FR298/FR298.pdf|title=Namibia : Demographic and Health Survey 2013|website=Dhsprogram.com|access-date=2 July 2022|date=September 2014|page=30|publisher=[[Namibia Statistics Agency]]}}</ref><ref>{{Cite web |title=2023 Report on International Religious Freedom: Namibia |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/namibia/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 600,000
+|- [[Oceania]]
+| {{flag|Nauru}} ([[Roman Catholicism in Nauru|details]])
+| align="right" | 11,680<ref name="Naurucensus2021">{{Cite web |date=July 2023 |title=Nauru 2021 population and housing census: analytical report |url=https://sdd.spc.int/news/2023/08/23/nauru-2021-population-and-housing-census-analytical-report |archiveurl=https://web.archive.org/web/20230803003834/https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/4f/4fdbf790d86a0b1c0e502f0ae6d63dfb.pdf?sv=2015-12-11&sr=b&sig=NipiRxkM%2Bb535xT4ehlWJiytq1vzJFApcGlIKmwUVN4%3D&se=2024-01-30T00%3A38%3A47Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Nauru_2021_Population_and_Housing_Census_Analytical_report.pdf%22 |archivedate=3 August 2023 |website=sdd.spc.int |publisher=Statistics for Development Division |pages=47&ndash;48}}</ref>
+| align="center" | 33.9%<ref name="Naurucensus2021" />
+| align="right" | 3,959<ref name="Naurucensus2021" />
+|- [[South Asia]]
+| {{flag|Nepal}} ([[Roman Catholicism in Nepal|details]])
+| align="right" | 27,676,547
+| align="center" | 0.03%
+| align="right" | 8,302
+|- [[Western Europe]]
+| {{flag|Netherlands}} ([[Roman Catholicism in the Netherlands|details]])
+| align="right" | 18,000,000
+| align="center" | 16%<ref>{{Cite web |last= |first= |date=2026-03-13 |title=Alleen in Limburg rekent de meerderheid zich nog tot een geloof |url=https://www.cbs.nl/nl-nl/nieuws/2026/11/alleen-in-limburg-rekent-de-meerderheid-zich-nog-tot-een-geloof |access-date=2026-03-17 |website=Centraal Bureau voor de Statistiek |language=nl-NL}}</ref>–19.1%<ref name=":1">{{Cite web |last=Kregting |first=Joris |date=September 2025 |title=Kerncijfers Rooms-Katholieke Kerk 2024 Rapport nr. 678 |url=https://www.ru.nl/sites/default/files/2025-12/rapport-nr-678-kerncijfers-rooms-katholieke-kerk-2024_0.pdf |access-date=17 March 2026 |website=Radboud Universiteit |page=6}}</ref>–20%<ref name=":2" />
+| align="right" | 2,900,000–3,448,000<ref>{{Cite web |date=2025-12-11 |title=Kerncijfers Rooms-Katholieke Kerk 2025 |url=https://www.ru.nl/over-ons/nieuws/kerncijfers-rooms-katholieke-kerk-2025 |access-date=2026-03-17 |website=Radboud Universiteit |language=nl}}</ref><ref name=":1" />
+|- [[Oceania]]
+| {{flag|New Zealand}} ([[Roman Catholicism in New Zealand|details]])
+| align="right" | 5,000,000
+| align="center" | 8.9%<ref>{{cite web |title=Most common religious affiliations in New Zealand 2023 census |url=https://figure.nz/chart/RfmHYb2IsMMrn9OC |url-status=live |archive-url=https://web.archive.org/web/20250623141637/https://figure.nz/chart/RfmHYb2IsMMrn9OC |archive-date=23 June 2025 |access-date=23 June 2025 |website=Figure.nz}}</ref>
+| align="right" | 445,000
+|- [[Central America]]
+| {{flag|Nicaragua}} ([[Roman Catholicism in Nicaragua|details]])
+| align="right" | 6,000,000
+| align="center" | 42.5%<ref name=":44" />–45%<ref>{{Cite web |title=Latinobarómetro 2020 |url=https://www.latinobarometro.org/odajds/ |access-date=2026-06-29 |website=www.latinobarometro.org |at=S Sociodemographic variables: What is your religion?}}</ref>–50%<ref name="PEWLAT" />–55%<ref>[http://www.prolades.com/ The Latin American Socio-Religious Studies Program / Programa Latinoamericano de Estudios Sociorreligiosos (PROLADES)] {{Webarchive|url=https://web.archive.org/web/20180112003048/http://www.prolades.com/ |date=12 January 2018}}, Prolades.com</ref><ref name="Census2005">{{cite web|title=CENSO DE POBLACIÓN 2005|url=http://www.inide.gob.ni/censos2005/ResumenCensal/Resumen2.pdf|website=Inide.gob.ni|access-date=4 April 2015|date=2005}}</ref>
+| align="right" | 2,400,000–3,000,000
+|- [[West Africa]]
+| {{flag|Niger}} ([[Roman Catholicism in Niger|details]])
+| align="right" | 11,665,937
+| align="center" | 0%<ref name=":46" />–<0.1%<ref name="PEW10" />
+| align="right" | 11,665
+|- [[West Africa]]
+| {{flag|Nigeria}} ([[Roman Catholicism in Nigeria|details]])
+| align="right" | 230,000,000
+| align="center" | 5%<ref name=":45" />–10.6%<ref>{{cite web | url=https://www.cia.gov/the-world-factbook/countries/nigeria/#people-and-society | archive-url=https://web.archive.org/web/20260113104032/https://www.cia.gov/the-world-factbook/countries/nigeria/#people-and-society | url-status=dead | archive-date=13 January 2026 | title=Nigeria|website=[[CIA World Factbook]]}}</ref>–15.4%<ref name=":44" />–16%<ref name=":2" />
+| align="right" | 24,400,000–29,000,000
+|- [[Southern Europe]]
+| {{flag|North Macedonia}} ([[Roman Catholicism in North Macedonia|details]])
+| align="right" | 1,836,713<ref name=":38">{{Cite web |title=Попис на населението, домаќинствата и становите во Република Северна Македонија, 2021 – прв сет на податоци |trans-title=Census 2021 |url=https://www.stat.gov.mk/pdf/2022/2.1.22.10-mk-en.pdf/ |archive-url=https://web.archive.org/web/20220331074832/https://www.stat.gov.mk/pdf/2022/2.1.22.10-mk-en.pdf |archive-date=31 March 2022 |access-date=7 July 2022 |website=North Macedonia State Statistical Office}}</ref>
+| align="center" | 0.4%<ref name=":38" />
+| align="right" | 6,746<ref name=":38" />
+|- [[Northern Europe]]
+| {{flag|Norway}} ([[Roman Catholicism in Norway|details]])
+| align="right" | 5,367,580
+| align="center" | 2.9%<ref name=":44" />–3%<ref name=":3">{{Cite news |title=Religious communities and life stance communities, 1 January 2020 |url=https://www.ssb.no/en/kultur-og-fritid/statistikker/trosamf/aar/2020-12-08?fane=tabell&sort=nummer&tabell=439532 |archive-url=https://web.archive.org/web/20260313003551/https://www.ssb.no/en/kultur-og-fritid/statistikker/trosamf/aar/2020-12-08?fane=tabell&sort=nummer&tabell=439532 |archive-date=2026-03-13 |access-date=2026-05-18 |work=ssb.no |language=en-GB}}</ref>
+| align="right" | 165,254<ref name=":3" />
+|- [[Middle East]]
+| {{flag|Oman}} ([[Roman Catholicism in Oman|details]])
+| align="right" | 3,000,000
+| align="center" | 4.1%<ref name="PEW10" />
+| align="right" | 110,000
+|- [[South Asia]]
+| {{flag|Pakistan}} ([[Roman Catholicism in Pakistan|details]])
+| align="right" |241,500,000
+| align="center" | 0%<ref name=":44" />–0.8%
+| align="right" | 1,930,000
+|- [[Oceania]]
+| {{flag|Palau}} ([[Roman Catholicism in Palau|details]])
+| align="right" | 17,614<ref name="2020PalauCensus">{{cite report |url=https://www.palaugov.pw/wp-content/uploads/2022/09/2020-Census-of-Population-and-Housing.pdf |title=2020 Census of Population and Housing of the Republic of Palau |date=August 2022 |publisher=Office of Planning and Statistics |location=Koror, Palau |volume=I Basic Tables |pages=10, 53 |access-date=2026-06-08}}</ref>
+| align="center" | 46.9%<ref name="2020PalauCensus" />
+| align="right" | 6,363<ref name="2020PalauCensus" />
+|- [[Middle East]]
+| {{flag|Palestine}} ([[Roman Catholicism in Palestine|details]])
+| align="right" | 3,761,904
+| align="center" | 2%
+| align="right" | 80,000
+|- [[Central America]]
+| {{flag|Panama}} ([[Roman Catholicism in Panama|details]])
+| align="right" | 3,500,000
+| align="center" | 52%<ref name=":42" />–63%<ref name=2015survey>{{Cite journal|date=December 2016|title=Segunda Encuesta Nacional de Hogares, Panama 2015|url=http://ministeriopublico.gob.pa/wp-content/multimedia/2017/09/Encuesta-de-Hogares-2015-16-viii-17-publicaci%C3%B3n-digital.pdf|journal=Ministerio Público de la República de Panamá|access-date=24 December 2019|archive-date=18 February 2019|archive-url=https://web.archive.org/web/20190218081846/http://ministeriopublico.gob.pa/wp-content/multimedia/2017/09/Encuesta-de-Hogares-2015-16-viii-17-publicaci%C3%B3n-digital.pdf|url-status=dead}}</ref>
+| align="right" | 1,820,000–2,200,000
+|- [[Oceania]]
+| {{flag|Papua New Guinea}} ([[Roman Catholicism in Papua New Guinea|details]])
+| align="right" | 7,000,000
+| align="center" | 26%<ref>{{cite web |last1=Koloma. Kele |first1=Roko. Hajily |title=PAPUA NEW GUINEA 2011 NATIONAL REPORT-NATIONAL STATISTICAL OFFICE |url=http://sdd.spc.int/en/resources/document-library?view=preview&format=raw&fileId=218 |website=sdd.spc.int |access-date=11 March 2020 |archive-url=https://web.archive.org/web/20170812174041/http://sdd.spc.int/en/resources/document-library?view=preview&format=raw&fileId=218 |archive-date=12 August 2017 |url-status=dead}}</ref><ref>{{Cite web |title=2023 Report on International Religious Freedom: Papua New Guinea |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/papua-new-guinea/ |access-date=2026-06-08 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 1,820,000
+|- [[South America]]
+| {{flag|Paraguay}} ([[Roman Catholicism in Paraguay|details]])
+| align="right" | 6,800,000
+| align="center" | 72%<ref name=":42" />
+| align="right" | 4,900,000
+|- [[South America]]
+| {{flag|Peru}} ([[Roman Catholicism in Peru|details]])
+| align="right" | 34,300,000
+| align="center" | 64%<ref name=":42" />–67%<ref name=":2" />–76%<ref>{{cite web|url=https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1539/libro.pdf |title=Perú: Perfil Sociodemográfico Censos Nacionales 2017: XII de Población, VII de Vivienda y III de Comunidades Indígenas |page = 231 |website= Instituto Nacional de Estadística e Informática|date=August 2018}}</ref><ref name=":44" />
+| align="right" | 26,725,000 
+|- [[Asia]]
+| {{flag|Philippines}} ([[Catholic Church in the Philippines|details]])
+| align="right" | 114,000,000<ref name="PSAGovPH-2020Census">{{Cite press release |last=Mapa |first=Dennis S. |author-link1=Dennis Mapa |date=July 7, 2021 |title=2020 Census of Population and Housing (2020 CPH) Population Counts Declared Official by the President |url=https://psa.gov.ph/content/2020-census-population-and-housing-2020-cph-population-counts-declared-official-president |archive-url=https://web.archive.org/web/20210707104119/https://psa.gov.ph/content/2020-census-population-and-housing-2020-cph-population-counts-declared-official-president |archive-date=July 7, 2021 |publisher=[[Philippine Statistics Authority]]}}</ref>
+| align="center" | 78.8%<ref name="PSAGovPH-2020Census-Religion">{{Cite press release |last=Mapa |first=Dennis S. |date=February 22, 2023 |title=Religious Affiliation in the Philippines (2020 Census of Population and Housing) |url=https://psa.gov.ph/content/religious-affiliation-philippines-2020-census-population-and-housing |archive-url=https://web.archive.org/web/20230310184554/https://psa.gov.ph/content/religious-affiliation-philippines-2020-census-population-and-housing |archive-date=March 10, 2023 |access-date=March 12, 2023 |website=[[Philippine Statistics Authority]]}}</ref>–80%<ref name=":2" />
+| align="right" | 89,000,000
+|- [[Central Europe]]
+| {{flag|Poland}} ([[Roman Catholicism in Poland|details]])
+| align="right" | 38,496,000
+| align="center" | 71.1%<ref name="nsp-2021">{{cite web|url=https://stat.gov.pl/spisy-powszechne/nsp-2021/nsp-2021-wyniki-ostateczne/tablice-z-ostatecznymi-danymi-w-zakresie-przynaleznosci-narodowo-etnicznej-jezyka-uzywanego-w-domu-oraz-przynaleznosci-do-wyznania-religijnego,10,1.html|title=Tablice z ostatecznymi danymi w zakresie przynależności narodowo-etnicznej, języka używanego w domu oraz przynależności do wyznania religijnego - NSP 2021 |date=28 September 2023|access-date=28 September 2023|publisher=[[Statistics Poland]]}}</ref>–85%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Poland |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/poland/ |access-date=2026-06-15 |website=United States Department of State |language=en-US}}</ref>–92%<ref name=":2" />
+| align="right" | 27,332,000-35,400,000
+|- [[Southern Europe]]
+| {{flag|Portugal}} ([[Roman Catholicism in Portugal|details]])
+| align="right" | 10,343,066<ref>{{cite web|url=https://expresso.pt/sociedade/censos-2021/2022-11-23-Residentes-emigrantes-regressados-municipios-idosos-a-populacao-portuguesa-em-cinco-grandes-numeros-1b4cf05e|title=Residentes, emigrantes, regressados, municípios, idosos: a população portuguesa em cinco grandes números |publisher=Expresso |date=2022-11-23 |accessdate=2022-11-23}}</ref>
+| align="center" | 80.2%<ref name="Censos2021">{{cite web|url=https://www.rtp.pt/noticias/pais/censos-2021-catolicos-diminuem-mas-ainda-sao-mais-de-80-dos-portugueses_n1449073|title=Censos 2021. Católicos diminuem, mas ainda são mais de 80% dos portugueses |publisher=RTP |date=2022-11-23 |accessdate=2022-11-23}}</ref>
+| align="right" | 8,000,000
+|- [[Middle East]]
+| {{flag|Qatar}} ([[Roman Catholicism in Qatar|details]])
+| align="right" | 863,051
+| align="center" | 10.5%
+| align="right" | 350,000
+|- [[Eastern Europe]]
+| {{flag|Romania}} ([[Roman Catholicism in Romania|details]])
+| align="right" | 19,053,815<ref name="Census2021-Religion">{{cite web |title=Populaţia rezidentă după religie (Recensământ 2021) |url=https://www.recensamantromania.ro/wp-content/uploads/2023/06/Tabel-2.04.1-si-Tabel-2.04.2.xlsx |url-status=live |archive-url=https://web.archive.org/web/20230804110637/https://www.recensamantromania.ro/wp-content/uploads/2023/06/Tabel-2.04.1-si-Tabel-2.04.2.xlsx |archive-date=4 August 2023 |access-date=21 September 2023 |website=www.insse.ro |publisher=INS |language=ro}}</ref>
+| align="center" | 4.5%<ref name="Census2021-Religion" />
+| align="right" | 856,961<ref name="Census2021-Religion" />
+|- [[Eastern Europe]]
+| {{flag|Russia}} ([[Roman Catholicism in Russia|details]])
+| align="right" | 143,500,000
+| align="center" | 0.1%<ref name=":44" />–<0.5%<ref>{{Cite web |title=Главная страница проекта «Арена» : Некоммерческая Исследовательская Служба "Среда" |trans-title=Arena Atlas of Religions and Nationalities of Russia |url=https://sreda.org/arena |access-date=2026-06-17 |website=sreda.org |language=ru-RU}}</ref>
+| align="right" | 143,000–<717,000
+|- [[East Africa]]
+| {{flag|Rwanda}} ([[Roman Catholicism in Rwanda|details]])
+| align="right" | 13,246,394<ref name=":8">{{cite web |date=July 2023 |title=5th Population and Housing Census, 2022 Social-cultural characteristics of the population |url=https://statistics.gov.rw/sites/default/files/documents/2025-02/Social-cultural%20characteristics.pdf#page=41 |access-date=1 June 2026 |publisher=[[National Institute of Statistics of Rwanda]] |page=23 |language=en |format=PDF; 12,4 MB}}</ref>
+| align="center" | 39.91%<ref name=":8" />
+| align="right" | 5,286,600<ref name=":8" />
+|- [[Caribbean]]
+| {{flag|Saint Kitts and Nevis}} ([[Demographics of Saint Kitts and Nevis|details]])
+| align="right" | 51,000
+| align="center" | 6.7%
+| align="right" | 3,400
+|- [[Caribbean]]
+| {{flag|Saint Lucia}} ([[Demographics of Saint Lucia|details]])
+| align="right" | 165,600
+| align="center" | 61.3%
+| align="right" | 101,500
+|- [[Caribbean]]
+| {{flag|Saint Vincent and the Grenadines}} ([[Demographics of Saint Vincent and the Grenadines|details]])
+| align="right" | 106,000
+| align="center" | 7.5%
+| align="right" | 7,950
+|- [[Oceania]]
+| {{flag|Samoa}} ([[Religion in Samoa|details]])
+| align="right" | 205,557<ref name=":18">{{Cite web |date=2022 |title=Samoa Population and Housing Census 2021 Basic Tables |url=https://sbs.gov.ws/documents/census/2021/Census-2021-Final-Report_221122_051222.pdf |website=Samoa Bureau of Statistics |page=29}}</ref>
+| align="center" | 18%<ref name=":18" />
+| align="right" | 36,906<ref name=":18" />
+|- [[Southern Europe]]
+| {{flag|San Marino}} ([[Roman Catholicism in San Marino|details]])
+| align="right" | 32,500
+| align="center" | 86.2<ref>{{Cite web |title=San Marino (World Religion Database, 2025) |url=https://www.thearda.com/world-religion/national-profiles?u=194c |access-date=2026-06-01 |website=The Association of Religion Data Archives (the ARDA) |language=en-gb}}</ref>–90.5%<ref name="PEW10" />
+| align="right" | 28,000
+|- [[Central Africa]]
+| {{flag|São Tomé and Príncipe}} ([[Demographics of São Tomé and Príncipe|details]])
+| align="right" | 200,000
+| align="center" | 51.4%<ref name=":45" />–54%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Sao Tome and Principe |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/sao-tome-and-principe/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>–55.7<ref>{{Cite web |title=Sao Tome and Principe - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/sao-tome-and-principe |archive-url=https://web.archive.org/web/20260116105542/https://www.cia.gov/the-world-factbook/countries/sao-tome-and-principe |archive-date=2026-01-16 |access-date=2026-06-06 |website=www.cia.gov |language=en}}</ref>
+| align="right" | 120,000
+|- [[Middle East]]
+| {{flag|Saudi Arabia}} ([[Roman Catholicism in Saudi Arabia|details]])
+| align="right" | 26,417,599
+| align="center" | 2.5%–3.8%
+| align="right" | 660,439
+|- [[West Africa]]
+| {{flag|Senegal}} ([[Roman Catholicism in Senegal|details]])
+| align="right" | 11,126,832
+| align="center" | 2.4%<ref name=":45" />–<2.7%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Senegal |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/senegal/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | <300,000
+|- [[Southern Europe]]
+| {{flag|Serbia}} ([[Roman Catholicism in Serbia and Montenegro|details]])
+| align="right" | 6,647,003<ref name=":9">{{Cite web |title=Мother tongue, religion and ethnic affiliation {{!}} ABOUT CENSUS |url=https://popis2022.stat.gov.rs/en-us/5-vestisaopstenja/news-events/20230616-st/?a=0&s=0 |access-date=2026-06-01 |website=popis2022.stat.gov.rs}}</ref>
+| align="center" | 3.9%<ref name=":9" />
+| align="right" | 257,269<ref name=":9" />
+|- [[East Africa]]
+| {{flag|Seychelles}} ([[Roman Catholicism in Seychelles|details]])
+| align="right" | 102,612<ref name="2022Census">{{Cite web |date=21 March 2024 |title=Seychelles Population and Housing Census 2022 |url=https://www.nbs.gov.sc/downloads/1555-seychelles-population-and-housing-census-2022 |access-date=2026-06-01 |website=National Bureau of Statistics Seychelles |pages=30-31 |language=en-gb}}</ref>
+| align="center" | 61.3%<ref name="2022Census" />–76.6%<ref name=":45" />
+| align="right" | 62,952<ref name="2022Census" />
+|- [[West Africa]]
+| {{flag|Sierra Leone}} ([[Roman Catholicism in Sierra Leone|details]])
+| align="right" | 6,017,643
+| align="center" | 3.4%<ref name=":45" />
+| align="right" | 200,000
+|- [[Southeast Asia]]
+| {{flag|Singapore}} ([[Roman Catholicism in Singapore|details]])
+| align="right" | 3,459,093<ref name="Singapore Census 2020" />
+| align="center" | 7%<ref name="Singapore Census 2020">{{cite web |url=https://www.singstat.gov.sg/-/media/files/publications/cop2020/sr1/cop2020sr1.pdf |title=Census of Population 2020: Demographic Characteristics, Education, Language and Religion |website=Department of Statistics Singapore |access-date= |date=June 2021|archive-url=https://web.archive.org/web/20260311100205/https://www.singstat.gov.sg/-/media/files/publications/cop2020/sr1/cop2020sr1.pdf|archive-date=11 March 2026|pages=198-199}}</ref>
+| align="right" | 242,681<ref name="Singapore Census 2020" />
+|- [[Central Europe]]
+| {{flag|Slovakia}} ([[Roman Catholicism in Slovakia|details]])
+| align="right" | 5,450,000
+| align="center" | 59.8%<ref>{{cite web | title =Roman Catholics represents 56% of the population | publisher = Statistical Office of the SR |year=2022 | url =https://www.scitanie.sk/en/roman-catholics-represents-56-percent-of-the-population | access-date = January 23, 2022}}</ref>
+| align="right" | 3,038,511
+|- [[Central Europe]]
+| {{flag|Slovenia}} ([[Roman Catholicism in Slovenia|details]])
+| align="right" | 2,116,972<ref name=":4" />
+| align="center" | 56.6%<ref name=":44" />–57.8%<ref>{{Cite web |title=18. Population by religion, statistical regions, Slovenia, Census 2002 |url=https://www.stat.si/popis2002/en/rezultati_html/REG-T-18ENG.htm |access-date=2026-06-17 |website=www.stat.si}}</ref>–69.92%<ref name=":4">{{cite web |url=https://katoliska-cerkev.si/letno-porocilo-katoliske-cerkve-v-sloveniji-2023 |title=Slovenian Catholic Church official report for 2023 |publisher=Slovenian Catholic Church |date=19 February 2024}}</ref>
+| align="right" | 1,480,156<ref name=":4" />
+|- [[Oceania]]
+| {{flag|Solomon Islands}} ([[Religion in the Solomon Islands|details]])
+| align="right" | 720,956<ref name=":19">{{Cite web |date=September 2023 |title=2019 Population and Housing Census: National Report (Volume1) |url=https://statistics.gov.sb/category/statistics/demographic-statistics/census/ |access-date=2026-06-09 |website=Solomon Islands National Statistics Office |pages=90-91, 253 |language=en-US}}</ref>
+| align="center" | 20%<ref name=":19" />
+| align="right" | 144,078<ref name=":19" />
+|- [[East Africa]]
+| {{flag|Somalia}} ([[Roman Catholicism in Somalia|details]])
+| align="right" | 8,591,629
+| align="center" | 0.001%{{Citation needed|date=June 2026}}–<0.1%<ref name="PEW10" />
+| align="right" | 100
+|- [[Southern Africa]]
+| {{flag|South Africa}} ([[Roman Catholicism in South Africa|details]])
+| align="right" | 60,000,000
+| align="center" | 3.1%<ref name=":45" />–6.8%<ref>{{Cite web|url=https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/611|title=South Africa – Community Survey 2016|website=datafirst.uct.ac.za|access-date=2018-11-25}}</ref>–9%<ref name=":2" /><ref>{{cite web | url=https://www.state.gov/reports/2022-report-on-international-religious-freedom/south-africa/ | title=2022 Report on International Religious Freedom: South Africa|website=US Department of State|access-date=6 June 2026}}</ref>
+| align="right" | 4,080,000
+|- [[North Africa]]
+| {{flag|South Sudan}} ([[Roman Catholicism in South Sudan|details]])
+| align="right" | 10,000,000
+| align="center" | 39.7%<ref name="PEW10" /><ref name=SouthSudan>{{cite web|title=Religions in South Sudan - PEW-GRF|url=http://www.globalreligiousfutures.org/countries/south-sudan#/?affiliations_religion_id=26&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2016|access-date=6 October 2018|archive-date=2 December 2018|archive-url=https://web.archive.org/web/20181202113435/http://www.globalreligiousfutures.org/countries/south-sudan#/?affiliations_religion_id=26&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2016|url-status=dead}}</ref>
+| align="right" | 3,950,000<ref name=SouthSudan/>
+|- [[Southern Europe]]
+| {{flag|Spain}} ([[Roman Catholicism in Spain|details]])
+| align="right" | 49,800,000<ref>{{Cite web |title=INEbase / Demography and population /Population figures and Demographic Censuses /Population Continuous Statistics / Latest data |url=https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981 |access-date=2026-08-18 |website=INE |language=en}}</ref>
+| align="center" | 47%<ref name=":2" />–54.8%<ref name="CIS">{{Cite web|url=https://www.cis.es/documents/20117/14139753/es3567mar.pdf/02277ffb-78b5-8c82-113c-8d6ee38423a9?version=1.0&t=1782473761108|author=|title=Barómetro de junio 2026|date=June 2026|page=24|access-date=29 June 2026|language=es|website=[[Centro de Investigaciones Sociológicas]]|format=PDF|quote=Cómo se define Ud. en materia religiosa: católico/a practicante, católico/a no practicante, creyente de otra religión, agnóstico/a, indiferente o no creyente, o ateo/a?}}</ref>
+| align="right" | 23,400,000–27,000,000
+|- [[South Asia]]
+| {{flag|Sri Lanka}} ([[Roman Catholicism in Sri Lanka|details]])
+| align="right" | 20,264,000
+| align="center" | 6.1%<ref>{{cite web|url=http://www.statistics.gov.lk/PopHouSat/CPH2011/Pages/Activities/Reports/cph2011Pub/pop43.pdf|title=A3 : Population by religion according to districts, 2012 : Sri Lanka|website=Statistics.gov.lk|access-date=2 July 2022|archive-date=24 January 2013|archive-url=https://web.archive.org/web/20130124033657/http://www.statistics.gov.lk/PopHouSat/CPH2011/Pages/Activities/Reports/cph2011Pub/pop43.pdf|url-status=dead}}</ref>
+| align="right" | 1,237,000
+|- [[North Africa]]
+| {{flag|Sudan}} ([[Roman Catholicism in Sudan|details]])
+| align="right" | 31,000,000
+| align="center" | 0%<ref name=":46" />–1%{{Citation needed|date=June 2026}}–3%<ref name="PEW10" />
+| align="right" | 300,000
+|- [[South America]]
+| {{flag|Suriname}} ([[Roman Catholicism in Suriname|details]])
+| align="right" | 551,000
+| align="center" | 21.6%<ref>{{Cite web |url=http://www.statistics-suriname.org/images/Presentatie.pdf |title=National Census |access-date=5 February 2015 |archive-url=https://web.archive.org/web/20150924105905/http://www.statistics-suriname.org/images/Presentatie.pdf |archive-date=24 September 2015 |url-status=dead}}</ref>
+| align="right" | 119,000
+|- [[Northern Europe]]
+| {{flag|Sweden}} ([[Roman Catholicism in Sweden|details]])
+| align="right" | 10,600,000<ref name="l988">{{cite web |title=Population statistics |url=https://www.scb.se/en/BE0101-en |access-date=10 January 2026 |website=Statistikmyndigheten SCB}}</ref>
+| align="center" | 1%<ref name=":2" />
+| align="right" | 106,000–126,286<ref>{{Cite web |title=Statistik 2021 - Myndigheten för stöd till trossamfund |url=https://www.myndighetensst.se/bidrag/organisationsbidrag/bidragsgrundande-statistik/statistik-2021.html |archive-url=https://web.archive.org/web/20230922121334/https://www.myndighetensst.se/bidrag/organisationsbidrag/bidragsgrundande-statistik/statistik-2021.html |archive-date=2023-09-22 |access-date=2026-06-17 |website=www.myndighetensst.se |language=sv}}</ref>
+|- [[Central Europe]]
+| {{flag|Switzerland}} ([[Roman Catholicism in Switzerland|details]])
+| align="right" | 9,000,000
+| align="center" | 30.0%<ref>{{Cite web |last=Office |first=Federal Statistical |title=Religions |url=https://www.bfs.admin.ch/bfs/en/home/statistiken/bevoelkerung/sprachen-religionen/religionen.html |access-date=2026-01-30 |website=www.bfs.admin.ch}}</ref>
+| align="right" | 2,700,000
+|- [[Middle East]]
+| {{flag|Syria}} ([[Roman Catholicism in Syria|details]])
+| align="right" | 23,900,000<ref>{{Cite web |title=2023 Report on International Religious Freedom: Syria |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/syria/ |access-date=2026-08-13 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 1%<ref>{{Cite web |date=2009-10-14 |title=Syria {{!}} Catholics & Cultures |url=https://www.catholicsandcultures.org/syria |access-date=2026-08-13 |website=www.catholicsandcultures.org |language=en}}</ref>
+| align="right" | 239,000
+|- [[East Asia]]
+| {{flag|Taiwan}} ([[Roman Catholicism in Taiwan|details]])
+| align="right" | 23,600,000<ref name=":20">{{Cite web |title=2023 Report on International Religious Freedom: Taiwan |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/taiwan/ |access-date=2026-06-09 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 1.4%<ref name=":20" />–1.6%<ref name=":44" />
+| align="right" | 330,000
+|- [[Central Asia]]
+| {{flag|Tajikistan}} ([[Roman Catholicism in Tajikistan|details]])
+| align="right" | 7,163,506
+| align="center" | 0%<ref name=":44" />–0.01% 
+| align="right" | <1,000<ref name="PEW10" />
+|- [[East Africa]]
+| {{flag|Tanzania}} ([[Roman Catholicism in Tanzania|details]])
+| align="right" | 67,462,000<ref>{{Cite web |title=Tanzania - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/tanzania/ |archive-url=https://web.archive.org/web/20260118142628/https://www.cia.gov/the-world-factbook/countries/tanzania/ |archive-date=2026-01-18 |access-date=2026-07-09 |website=www.cia.gov |language=en}}</ref>
+| align="center" | 19.3%<ref name=":45" />–25.6%<ref>{{cite web|url=https://www.partner-religion-development.org/fileadmin/user_upload/190915_Faith_Development_in_Focus_Tanzania.pdf|title=Faith and Development in Focus : Tanzania|date=September 2019|website=Partner-religion-development.org|access-date=2 July 2022|archive-date=7 April 2022|archive-url=https://web.archive.org/web/20220407010508/https://www.partner-religion-development.org/fileadmin/user_upload/190915_Faith_Development_in_Focus_Tanzania.pdf|url-status=dead}}</ref>
+| align="right" | 13,000,000–17,270,000
+|- [[Southeast Asia]]
+| {{flag|Thailand}} ([[Roman Catholicism in Thailand|details]])
+| align="right" | 69,000,000
+| align="center" | 0.5%<ref name=":44" />–0.58%<ref name="BP-20191120">{{cite news |last1=Suksamran |first1=Nauvarat |last2=Mala |first2=Dumrongkiat |title=How Catholicism took root in Thailand |url=https://www.bangkokpost.com/thailand/general/1798124#cxrecs_s |access-date=20 November 2019 |work=Bangkok Post |date=20 November 2019}}</ref><ref name="LiCAS.news">{{cite news |title=Celebrating 350 Years of the Vatican's Mission to Siam |url=https://missiontosiam.licas.news/ |access-date=13 January 2020 |work=LiCAS.news |archive-date=13 January 2020 |archive-url=https://web.archive.org/web/20200113071125/https://missiontosiam.licas.news/ |url-status=dead}}</ref>
+| align="right" | 388,468<ref>{{cite news |last1=Thaitrakulpanich |first1=Asaree |title=HERE'S POPE FRANCIS' SCHEDULE FOR HIS THAILAND VISIT |url=http://www.khaosodenglish.com/news/2019/10/02/heres-pope-francis-schedule-for-his-thailand-visit/ |access-date=2 October 2019 |work=Khaosod English |date=2 October 2019}}</ref><ref>{{cite news |title=Pope Francis to visit Thailand November 20–23 |url=https://www.thaipbsworld.com/pope-francis-to-visit-thailand-november-20-23/ |access-date=14 September 2019 |work=Thai PBS |agency=Agence France-Presse |date=13 September 2019}}</ref>
+|- [[West Africa]]
+| {{flag|Togo}} ([[Roman Catholicism in Togo|details]])
+| align="right" | 5,681,519
+| align="center" | 20.2%<ref name=":45" />–25%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Togo |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/togo/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 1,420,000
+|- [[Oceania]]
+| {{flag|Tonga}} ([[Roman Catholicism in Tonga|details]])
+| align="right" | 102,000
+| align="center" | 13.7%<ref>{{Cite web |title=Tonga - Population and Housing Census 2021 |url=https://microdata.pacificdata.org/index.php/catalog/861/variable/F9/V591?name=religion |access-date=2025-04-09 |website=microdata.pacificdata.org}}</ref>
+| align="right" | 13,649
+|- [[Caribbean]]
+| {{flag|Trinidad and Tobago}} ([[Roman Catholicism in Trinidad and Tobago|details]])
+| align="right" | 1,330,000
+| align="center" | 21.6%<ref>{{cite web|url=http://cso.planning.gov.tt/sites/default/files/content/images/census/TRINIDAD%20AND%20TOBAGO%202011%20Demographic%20Report.pdf|title=TRINIDAD AND TOBAGO 2011 Demographic Report|archive-url=https://web.archive.org/web/20140508024958/http://cso.planning.gov.tt/sites/default/files/content/images/census/TRINIDAD%20AND%20TOBAGO%202011%20Demographic%20Report.pdf |access-date=2 July 2022|archive-date=8 May 2014}}</ref>
+| align="right" | 286,000
+|- [[North Africa]]
+| {{flag|Tunisia}} ([[Roman Catholicism in Tunisia|details]])
+| align="right" | 11,000,000
+| align="center" | 0%<ref name=":45" />–0.1%<ref name=":44" />
+| align="right" | 11,000
+|- [[Middle East]]
+| {{flag|Turkey}} ([[Roman Catholicism in Turkey|details]])
+| align="right" | 86,000,000<ref>{{Cite web |title=The Results of Address Based Population Registration System, 2025 |url=https://veriportali.tuik.gov.tr/en/press/53899 |access-date=2026-06-20 |website=veriportali.tuik.gov.tr}}</ref>
+| align="center" | 0%<ref name=":44" />–0.05%
+| align="right" | 27,000<ref name=":39">{{Cite web |title=2023 Report on International Religious Freedom: Turkey (Türkiye) |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/turkey/ |access-date=2026-06-20 |website=United States Department of State |language=en-US}}</ref>–50,000<ref name="PEW10" />
+|- [[Central Asia]]
+| {{flag|Turkmenistan}} ([[Roman Catholicism in Turkmenistan|details]])
+| align="right" | 4,750,000
+| align="center" | 0.01%<ref>{{cite web|author=Fides Staff |date=2010-07-15 |title=ASIA/TURKMENISTAN - Local Catholic Church receives official government recognition |work=Fides |url=http://www.fides.org/aree/news/newsdet.php?idnews=27086&lan=eng |archive-url=https://archive.today/20130414190630/http://www.fides.org/aree/news/newsdet.php?idnews=27086&lan=eng |url-status=dead |archive-date=2013-04-14 |access-date=2013-02-05}}</ref>
+| align="right" | 500
+|- [[Oceania]]
+| {{flag|Tuvalu}} ([[Demographics of Tuvalu|details]])
+| align="right" | 11,600<ref>{{Cite web |title=2023 Report on International Religious Freedom: Tuvalu |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/tuvalu/ |access-date=2026-06-09 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 0.5%<ref name="PEW10" />
+| align="right" | 50
+|- [[East Africa]]
+| {{flag|Uganda}} ([[Catholic Church in Uganda|details]])
+| align="right" | 49,000,000
+| align="center" | 39.3%<ref name="Census 2014">{{cite web|url=http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/2014%20National%20Census%20Main%20Report.pdf|title=National Population and Housing Census 2014 – Main Report|publisher=Uganda Bureau of Statistics|access-date=2 May 2019|date=2016|archive-url=https://web.archive.org/web/20191001190659/https://www.ubos.org/onlinefiles/uploads/ubos/NPHC/2014%20National%20Census%20Main%20Report.pdf|archive-date=1 October 2019|page=19|format=PDF}}</ref><ref>{{Cite web |title=2023 Report on International Religious Freedom: Uganda |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/uganda/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>–40.8%<ref name=":45" />
+| align="right" | 19,200,000–22,000,000
+|- [[Eastern Europe]]
+| {{flag|Ukraine}} ([[Roman Catholicism in Ukraine|details]])
+| align="right" | 41,000,000<ref>{{Cite web |title=Population size and structure |url=https://stat.gov.ua/en/publications/population-size-and-structure |access-date=2026-06-21 |website=stat.gov.ua |publisher=[[State Statistics Service of Ukraine]]}}</ref>
+| align="center" | 7.6%<ref name=":44" />–8.2%<ref>{{Cite web |title=ПРЕС-РЕЛІЗ ЗА РЕЗУЛЬТАТАМИ СОЦІОЛОГІЧНОГО ДОСЛІДЖЕННЯ «УКРАЇНА НАПЕРЕДОДНІ ПРЕЗИДЕНТСЬКИХ ВИБОРІВ 2019» – Socis |url=https://socis.kiev.ua/ua/2019-01/ |access-date=2026-06-20 |language=ua}}</ref>–9%<ref name="KIIS2022">{{cite web |date=August 5, 2022 |title=Press releases and reports - Dynamics of religious self-identification of the population of Ukraine: results of a telephone survey conducted on July 6-20, 2022 |url=https://kiis.com.ua/?lang=eng&cat=reports&id=1129 |accessdate=20 June 2026 |publisher=[[Kyiv International Institute of Sociology|Kyiv International Institute of Sociology (KIIS)]]}}</ref>–10%<ref>{{Cite web |last=Starr |first=Kelsey Jo |date=2018-12-19 |title=5 facts about Catholics in Europe |url=https://www.pewresearch.org/short-reads/2018/12/19/5-facts-about-catholics-in-europe/ |access-date=2026-06-20 |website=Pew Research Center |language=en-US}}</ref>–12.2%<ref>{{Cite web |title=2023 Report on International Religious Freedom: Ukraine |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/ukraine/ |access-date=2026-06-20 |website=United States Department of State |language=en-US}}</ref>
+| align="right" | 3,362,000–5,002,000
+|- [[Middle East]] 
+| {{flag|United Arab Emirates}} ([[Roman Catholicism in the United Arab Emirates|details]])
+| align="right" | 2,563,212
+| align="center" | 5%
+| align="right" | 128,160
+|- [[Western Europe]]
+| {{flag|United Kingdom}} ([[Roman Catholicism in the United Kingdom|details]])
+| align="right" | 63,100,000
+| align="center" | 9%<ref>{{Cite web|url=http://www.prct.org.uk/downloads/research/18-table-1-2011-2012-statistics-of-rc-population-fourth-draft-1/file|archive-url=https://web.archive.org/web/20140420034328/http://www.prct.org.uk/downloads/research/18-table-1-2011-2012-statistics-of-rc-population-fourth-draft-1/file|url-status=dead|title=Table 1 2011 2012 statistics of RC population fourth draft by the Pastoral Research Centre Trust, an independent research organization|archive-date=20 April 2014}}</ref><ref>{{Cite web|url=https://www.scotlandscensus.gov.uk/documents/2011-census-key-results-from-releases-2a-to-2d/|title=2011 Census: Key Results from Releases 2A to 2D|website=Scotland's Census}}</ref><ref name="2011census">{{cite web |url=http://www.scotlandscensus.gov.uk/documents/censusresults/release2a/scotland/KS209SCb.pdf |title=Scotland's Census 2011 – Table KS209SCb |publisher=scotlandscensus.gov.uk |access-date=26 September 2013}}</ref><ref>{{cite web|url=http://www.ninis2.nisra.gov.uk/public/pivotgrid.aspx?dataSetVars=ds-3971-lh-73-yn-2011-sk-136-sn-Census%202011-yearfilter--|title=NINIS Home Page|access-date=14 February 2015}}</ref>–11%<ref name=":2" />
+| align="right" | 5,700,000-6,930,000
+|- [[North America]]
+| {{flag|United States}} ([[Catholic Church in the United States|details]])
+| align="right" | 341,000,000<ref>US Census Bureau, Dec.31, 2024 pio@census.gov</ref>
+| align="center" | 19%<ref>{{Cite web |date=February 26, 2025 |title=2023-24 U.S. Religious Landscape Study Interactive Database |url=https://www.pewresearch.org/religious-landscape-study/religious-tradition/catholic/ |website=Pew Research Center}}</ref>-20%<ref>{{Cite web |last=Brenan |first=Megan |date=2026-03-03 |title=Americans' Religious Engagement Holds at Lower Levels |url=https://news.gallup.com/poll/702572/americans-religious-engagement-holds-lower-levels.aspx |access-date=2026-03-08 |website=Gallup.com |language=en}}</ref> –22%<ref>{{Cite web |date=2026-04-15 |title=2025 PRRI Census of American Religion |url=https://prri.org/spotlight/2025-prri-census-of-american-religion/ |access-date=2026-07-09 |website=[[Public Religion Research Institute|PRRI]] |language=en-US}}</ref><ref>{{Cite web |last=Crabtree |first=Susan |date=10 January 2024 |title=Americans Embrace Religion, Reject Religious Bigotry |url=https://www.realclearpolitics.com/real_clear_opinion_research/americans_embrace_religion_reject_religious_bigotry__150295.html |access-date=2026-07-09 |website=[[RealClearPolitics]]}}</ref>
+| align="right" | 65,000,000–75,000,000
+|- [[South America]]
+| {{flag|Uruguay}} ([[Roman Catholicism in Uruguay|details]])
+| align="right" | 3,500,000
+| align="center" | 11.3%<ref name=":44" />–33%<ref name=":42" />
+| align="right" | 1,330,000
+|- [[Central Asia]]
+| {{flag|Uzbekistan}} ([[Roman Catholicism in Uzbekistan|details]])
+| align="right" | 26,851,195
+| align="center" | 0.01%–0.2%<ref name=":44" />
+| align="right" | 2,685
+|- [[Southern Europe]]
+| {{flag|Vatican City}} ([[Roman Catholicism in Vatican City|details]])
+| align="right" | 842
+| align="center" | 100%
+| align="right" | 842
+|- [[Oceania]]
+| {{flag|Vanuatu}} ([[Demographics of Vanuatu|details]])
+| align="right" | 293,963<ref name=":22">{{Cite web |date=October 2022 |title=Vanuatu 2020 National Population and Housing Census: Analytical Report Volume 2 |url=https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/ff/ff0f1b325c343d0d0974f485be3c82a8.pdf?sv=2015-12-11&sr=b&sig=jWe7o7dnfVNpUMneDFfkrf0MLiePY7V9c3vuHN%2FBEgA%3D&se=2026-12-06T15%3A43%3A16Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Vanuatu_2020_Census_Analytical_report_Vol_2.pdf%22 |access-date=9 June 2026 |website=[[Pacific Community]] |publisher=Vanuatu Bureau of Statistics |pages=49-50}}</ref>
+| align="center" | 12.11%<ref name=":22" />
+| align="right" | 35,602<ref name=":22" />
+|- [[South America]]
+| {{flag|Venezuela}} ([[Roman Catholicism in Venezuela|details]])
+| align="right" | 32,000,000
+| align="center" | 64.2%<ref name=":44" />–71%<ref name="grumilla">{{cite news|last1=Aguire|first1=Jesus Maria|language=es|title=Informe Sociográfico sobre la religión en Venezuela|url=http://www.gumilla.org/biblioteca/bases/biblo/texto/SIC2012745_211-222.pdf|access-date=5 April 2015|publisher=El Centro Gumilla|date=June 2012|archive-url=https://web.archive.org/web/20150924024236/http://www.gumilla.org/biblioteca/bases/biblo/texto/SIC2012745_211-222.pdf|archive-date=24 September 2015|url-status=dead}}</ref>–72%<ref name=":42" />–73%<ref name="PEWLAT" />
+| align="right" | 20,000,000–23,360,000
+|- [[Southeast Asia]]
+| {{flag|Vietnam}} ([[Roman Catholicism in Vietnam|details]])
+| align="right" | 104,800,000<ref name=":23">{{Cite web |title=2023 Report on International Religious Freedom: Vietnam |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/vietnam/ |access-date=2026-06-09 |website=United States Department of State |language=en-US}}</ref>
+| align="center" | 4.4%<ref name=":44" />–6.1%<ref name="Census">{{Cite web |title=Completed results of the 2019 Viet Nam population and housing census |url=https://www.gso.gov.vn/wp-content/uploads/2019/12/Ket-qua-toan-bo-Tong-dieu-tra-dan-so-va-nha-o-2019.pdf|date=2020|website=[[General Statistics Office of Vietnam]]|archive-url=https://web.archive.org/web/20251006043133/https://www.gso.gov.vn/wp-content/uploads/2019/12/Ket-qua-toan-bo-Tong-dieu-tra-dan-so-va-nha-o-2019.pdf|archive-date=6 October 2025|page=211}}</ref>–6.6%<ref name=":23" />
+| align="right" | 5,866,000<ref name="Census" />–7,000,000<ref name=":23" />
+|- [[North Africa]]
+| {{flag|Western Sahara}} ([[Roman Catholicism in Western Sahara|details]])
+| align="right" | 273,008
+| align="center" | 0.06%
+| align="right" | 163
+|- [[Middle East]]
+| {{flag|Yemen}} ([[Roman Catholicism in Yemen|details]])
+| align="right" | 20,727,063
+| align="center" | 0.02%
+| align="right" | 4,145
+|- [[Southern Africa]]
+| {{flag|Zambia}} ([[Roman Catholicism in Zambia|details]])
+| align="right" | 18,340,343<ref name=":6">{{Cite web |date=March 2026 |title=2022 Census of Population and Housing Series B - Religion Descriptive Tables |url=https://www.zamstats.gov.zm/wp-content/uploads/2026/04/Religion-Descriptive-Tables-Final.pdf |access-date=22 May 2026 |website=Zambia Statistics Agency |pages=1,26 |format=PDF}}</ref>
+| align="center" | 17.56%<ref name=":6" />–22.4%<ref name=":45" />
+| align="right" | 3,220,214<ref name=":6" />
+|- [[Southern Africa]]
+| {{flag|Zimbabwe}} ([[Roman Catholicism in Zimbabwe|details]])
+| align="right" | 15,178,957<ref name=":14">{{Cite web |title=Zimbabwe 2022 Population and Housing Census Report Volume 1 |url=https://www.zimstat.co.zw/wp-content/uploads/Census/2022_PHC_Report_27012023_Final.pdf |access-date=6 June 2026 |website=Zimstat |publisher=[[Zimbabwe National Statistics Agency]] |pages=15, 121}}</ref>
+| align="center" | 6.4%<ref name=":14" /><ref>{{Cite web |title=2023 Report on International Religious Freedom: Zimbabwe |url=https://www.state.gov/reports/2023-report-on-international-religious-freedom/zimbabwe/ |access-date=2026-06-06 |website=United States Department of State |language=en-US}}</ref>–8.4%<ref name=":45" />
+| align="right" | 975,488<ref name=":14" />
+|- colspan="2" |
+! Total
+! 8,000,000,000<ref>{{Cite news |last=Lukpat |first=Alyssa |last2=Sugden |first2=Joanna |date=2022-11-15 |title=World Population Hits 8 Billion, U.N. Says |url=https://www.wsj.com/articles/worlds-population-projected-to-reach-8-billion-today-11668508623 |access-date=2026-07-09 |work=Wall Street Journal |language=en-US |issn=0099-9660}}</ref><ref>{{Cite web |last=Hart |first=Robert |date=15 November 2022 |title=World’s Population Reaches 8 Billion—Here’s What You Need To Know |url=https://www.forbes.com/sites/roberthart/2022/11/15/worlds-population-reaches-8-billion-heres-what-you-need-to-know/ |access-date=2026-07-09 |website=Forbes |language=en}}</ref>
+! 13.57%–17.68%
+! 1,085,600,000–1,420,400,000
+|}
+
+== By dependent territory ==
+{| class="wikitable sortable"
+|+ '''[[Catholic Church]] by territory'''
+! Territory
+! Total population
+! data-sort-type="number" | % Catholic
+! data-sort-type="number" | Catholic total
+|- [[Caribbean]]
+| {{flag|U.S. Virgin Islands}} ([[:Category:Catholic Church in the United States Virgin Islands|details]])
+| align="right" | 104,377<ref name=":49">{{Cite web |title=Virgin Islands |url=https://www.cia.gov/the-world-factbook/countries/virgin-islands/ |archive-url=https://web.archive.org/web/20251120011716/https://www.cia.gov/the-world-factbook/countries/virgin-islands/#people-and-society |archive-date=20 November 2025 |website=[[CIA World Factbook]]}}</ref>
+| 27.1%<ref name=":49" />
+| align="right" | 28,000
+|- [[Caribbean]]
+| {{flag|Anguilla}} ([[Demographics of Anguilla|details]])
+| align="right" | 13,572<ref name=":50">{{Cite web |title=Census 2011|url=http://gov.ai/statistics/images/Press%20Release%20Census%20Findings%20no5%20-%20Preliminary%20Results%20-%20Nov%202014.pdf|publisher=Government of Anguilla|access-date=|archive-date=2022-10-14|archive-url=https://web.archive.org/web/20221014092838/http://gov.ai/statistics/images/Press%20Release%20Census%20Findings%20no5%20-%20Preliminary%20Results%20-%20Nov%202014.pdf|url-status=dead}}</ref>
+| 6.8%<ref name=":50" />
+| align="right" | 920<ref name=":50" />
+|- [[Caribbean]]
+| {{flag|Aruba}} ([[Demographics of Aruba|details]])
+| align="right" | 101,484
+| 75.3%<ref>[http://www.cbs.aw/index.php/products/publications/161-publications/population-society/population-society/census-2010/220-census2010results-aa1 Census 2010 Results], Cbs.aw, retrieved 3 April 2014.</ref>
+| align="right" | 76,464
+|- 
+| {{flag|Bermuda}} ([[Bermuda#Religion|details]])
+| align="right" | 64,237<ref name=":51">{{Cite web |date=July 2017 |title=2010 Census: Population and Housing: Report Revised |url=https://www.gov.bm/files/media-library/20260413/aff9aedb-census-2010---revised.pdf |access-date=18 August 2026 |publisher=[[Department of Statistics (Bermuda)|Department of Statistics]] |page=15}}</ref>
+| 14.5%<ref name=":51" />
+| align="right" | 9,340<ref name=":51" />
+|- [[Caribbean]]
+| {{flag|British Virgin Islands}} ([[British Virgin Islands|details]])
+| align="right" | 28,054<ref name=":52">{{Cite web |title=Virgin Islands 2010 Population and Housing Census Report |url=https://unstats.un.org/unsd/demographic/sources/census/wphc/BVI/VGB-2016-09-08.pdf |access-date=18 August 2026 |website=[[UNSD]] |pages=59-61}}</ref>
+| 8.9%<ref name=":52" />
+| align="right" | 2,492<ref name=":52" />
+|- [[Caribbean]]
+| {{flag|Cayman Islands}} ([[Cayman Islands|details]])
+| align="right" | 68,811<ref name=":53">{{Cite web |date=July 2022 |title=The Cayman Islands’ 2021 Census of Population and Housing Report |url=https://www.eso.ky/storage/page_docums/uploadFilePdf/685/The%20Cayman%20Islands'%202021%20Census%20of%20Population%20and%20Housing%20Report%20-%20July%202022.pdf |access-date=18 August 2026 |website=Economics and Statistics Office |pages=22, 112}}</ref>
+| 13.6%<ref name=":53" />
+| align="right" | 9,348<ref name=":53" />
+|- 
+| {{flag|Cook Islands}} ([[Religion in the Cook Islands|details]])
+| align="right" | 14,987<ref name=":54">{{Cite web |date=December 2022 |title=2021 Census of Population and Dwellings |url=https://stats.gov.ck/2021-census-of-population-and-dwellings/ |access-date=2026-08-18 |website=Cook Islands Statistics Office |pages=20-21 |language=en-US}}</ref>
+| 16.7%<ref name=":54" />
+| align="right" | 2,500<ref name=":54" />
+|- [[Caribbean]]
+| {{flag|Curaçao}} ([[Demographics of Curaçao|details]])
+| align="right" | 142,180
+| 72.8%<ref name="factbook">{{cite web|url=https://www.cia.gov/library/publications/resources/the-world-factbook/fields/401.html|archive-url=https://web.archive.org/web/20201016203251/https://www.cia.gov/library/publications/resources/the-world-factbook/fields/401.html|url-status=dead|archive-date=16 October 2020|title=The World Factbook|date=|website=[[CIA World Factbook]]|access-date=}}</ref>
+| align="right" | 103,507
+|- [[South America]]
+| {{flag|Falkland Islands}} ([[Roman Catholicism in Falkland Islands|details]])
+| align="right" | 3,000
+| 10%
+| align="right" | 300
+|- [[South America]]
+| {{flag|French Guiana|local}} ([[Roman Catholicism in French Guiana|details]])
+| align="right" | 221,500
+| 75%
+| align="right" | 166,500
+|- [[North America]]
+| {{flag|Greenland}} ([[Roman Catholicism in Greenland|details]])
+| align="right" | 55,984
+| 0.2%<ref name="PEW10" />
+| align="right" | 111
+|- [[Caribbean]]
+| {{flag|Guadeloupe|local}} ([[Guadeloupe|details]])
+| align="right" | 405,500
+| 85.2%<ref name="factbook" />
+| align="right" | 345,486
+|- [[Oceania]]
+| {{flag|Guam}} ([[Demographics of Guam|details]])
+| align="right" | 154,623
+| 85%<ref name="factbook" />
+| align="right" | 131,430
+|- [[Oceania]]
+| {{flag|Northern Mariana Islands}} ([[Demographics of the Northern Mariana Islands|details]])
+| align="right" | 51,659
+| 64.1%<ref name="factbook" />
+| align="right" | 33,113
+|- [[Asia]]
+| {{flag|Hong Kong}} ([[Demographics of Hong Kong|details]])
+| align="right" |7,409,800
+|4.1%<ref name=":44" />–5.3%
+| align="right" | 394,000<ref>{{Cite book|title=Hong Kong Catholic Church Directory 2018|publisher=Catholic Truth Society of Hong Kong|year=2018|location=Hong Kong|pages=538}}</ref>
+|- [[Caribbean]]
+| {{flag|Martinique|local}} ([[Roman Catholic Archdiocese of Fort-de-France|details]])
+| align="right" | 390,000
+| 80%
+| align="right" | 312,000
+|- [[Asia]]
+| {{flag|Macau}} ([[Demographics of Macau|details]])
+| align="right" | 650,000
+| 4.4%<ref name=":44" />–4.6%<ref name=Pew2011>Hacket, Conrad and Grim, Brian J. [http://www.pewforum.org/files/2011/12/Christianity-fullreport-web.pdf "Global Christianity A Report on the Size and Distribution of the World's Christian Population"] {{Webarchive|url=https://web.archive.org/web/20130805020311/http://www.pewforum.org/files/2011/12/Christianity-fullreport-web.pdf |date=5 August 2013}}, The Pew Forum on Religion and Public Life, Washington, D.C. December 2011. Accessed June 2014. Note: The Pew methodology produced an estimated world Catholic population of 1.1 Billion in 2010.</ref>
+| align="right" | 30,000
+|- [[Oceania]]
+| {{flag|New Caledonia|local}} ([[New Caledonia|details]])
+| align="right" | 249,000
+| 60.2%<ref name="factbook" />
+| align="right" | 150,000
+|- [[Caribbean]]
+| {{flag|Puerto Rico}} ([[Roman Catholicism in Puerto Rico|details]])
+| align="right" | 3,019,450<ref name=":48">{{Cite web |title=Puerto Rico - The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/puerto-rico/#people-and-society |archive-url=https://web.archive.org/web/20260109185928/https://www.cia.gov/the-world-factbook/countries/puerto-rico/#people-and-society |archive-date=2026-01-09 |access-date=2026-08-06 |website=www.cia.gov |language=en}}</ref>
+| 49.2%<ref name=":44" />–56%<ref>{{cite web |url=http://www.pewforum.org/2014/11/13/religion-in-latin-america/ |title=Religion in Latin America |author=<!--Not stated--> |date=November 13, 2014 |website=Pew Research |publisher=Pew Research Center |access-date=February 21, 2017}}</ref><ref name=":48" />
+| align="right" | 1,485,000–1,691,000
+|- [[East Africa]]
+| {{flag|Réunion|local}} ([[Religion in Réunion|details]])
+| align="right" | 839,500
+| 79.7%<ref name="clerus.org">{{cite web|url=http://www.clerus.org/clerus/dati/2008-12/05-6/proportioncathos08.htm|title= Data|publisher=[[Congregation for the Clergy]]|access-date=2 June 2013}}</ref>
+| align="right" | 669,249
+|- [[North America]]
+| {{flag|Saint Pierre and Miquelon|local}} ([[Demographics of Saint Pierre and Miquelon|details]])
+| align="right" | 6,025
+| 93%<ref name="PEW10" />
+| align="right" | 5,600
+|- [[Caribbean]]
+| {{flag|Turks and Caicos Islands}} ([[Religion in the Turks and Caicos Islands#Christianity|details]])
+| align="right" | 22,352
+| 11.4%<ref name="factbook" />
+| align="right" | 2,548
+|- [[Oceania]]
+| {{flag|Wallis and Futuna|local}} ([[Roman Catholic Diocese of Wallis et Futuna|details]])
+| align="right" | 14,231
+| 95.8%
+| align="right" | 13,631
+|}
+
+==See also==
+{{Portal|Catholicism|Christianity}}
+{{Div col}}
+* [[Roman Catholic (term)|The term ''Roman Catholic'']]
+* {{intitle|Roman Catholic}}
+* [[Christianity by country]]
+* [[List of Catholic archdioceses]] (by country and continent)
+* [[List of Catholic dioceses (alphabetical)]] (including archdioceses)
+* [[List of Catholic dioceses (structured view)]] (including archdioceses)
+* [[List of Christian denominations by number of members]]
+* [[List of current cardinals]] (sortable by name, country, and birthdate)
+* [[List of popes]]
+* [[List of religious populations]]
+* [[State religion#Roman Catholicism]]
+* [[Eastern Catholic Churches]]
+
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{commons category-inline}}
+
+{{Africa in topic|Catholic Church in}}
+{{Asia in topic|Catholic Church in}}
+{{Catholic Church in Europe}}
+{{North America in topic|Catholic Church in}}
+{{Oceania in topic|Catholic Church in}}
+{{South America in topic|Catholic Church in}}
+{{Catholic Church}}
+{{Religions by country}}
+{{Religion country lists}}
+
+[[Category:Catholic Church by country| ]]
+[[Category:Organisation of the Catholic Church| ]]

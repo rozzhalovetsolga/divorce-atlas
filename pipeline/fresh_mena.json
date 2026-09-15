@@ -1,0 +1,200 @@
+[
+  {
+    "country": "Turkey",
+    "year": 2025,
+    "marriage_rate": 6.43,
+    "divorce_rate": 2.26,
+    "ratio_pct": 35.1,
+    "marriages": 552237,
+    "divorces": 193793,
+    "source": "https://veriportali.tuik.gov.tr/tr/press/58165 (figures read via reprint https://www.alomaliye.com/2026/02/24/evlenme-ve-bosanma-istatistikleri-2025/)",
+    "note": "TUIK Evlenme ve Bosanma Istatistikleri 2025; couples; civil marriages + finalized court divorces. 2024: 569,983 marriages / 188,963 divorces."
+  },
+  {
+    "country": "Iran",
+    "year": 2023,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 42.0,
+    "marriages": 481394,
+    "divorces": 202183,
+    "source": "https://www.mehrnews.com/news/6151767/",
+    "note": "Iranian year 1402 (Mar 2023-Mar 2024), Civil Registration Org population monitoring center. Full-year 1403 divorces not found; 1403 H1: 239,206 marriages / 93,254 divorces; Deeds Org reports 471,440 marriage deeds in 1403 (+2.61%), divorces -4%. 1404 H1: 228,860 / 89,851. Crude rates not published in retrieved sources."
+  },
+  {
+    "country": "Saudi Arabia",
+    "year": 2020,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 38.4,
+    "marriages": 150117,
+    "divorces": 57595,
+    "source": "https://www.stats.gov.sa/documents/20117/2435265/Marriage+and+Divorce+Statistics+2020+EN.pdf (via https://vision2030.ai/encyclopedia/divorce-rate-saudi-arabia/)",
+    "note": "STALE: GASTAT's last published Marriage and Divorce bulletin covers 2020 (MoJ admin records: marriage contracts, divorce deeds). No verified 2021-2025 annual totals found; widely cited '12.6%' and '168/day' figures unsourced."
+  },
+  {
+    "country": "United Arab Emirates",
+    "year": null,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": "https://www.khaleejtimes.com/uae/uae-marriages-divorce-data-experts-concerned",
+    "note": "No national annual totals found. Fragments only: 473 divorces in 2024 in federal courts of Sharjah/Ajman/Fujairah/UAQ; Abu Dhabi civil-family-court civil marriages 16,200 (2024). Dubai DSC Emirati-only rate reports exist but were access-blocked."
+  },
+  {
+    "country": "Qatar",
+    "year": null,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": "https://www.npc.qa/en/statistics/pages/news/01092024.aspx",
+    "note": "No annual total retrieved. NPC monthly bulletins 2024 e.g. Jul: 348 marriage contracts / 244 divorce certificates; data.gov.qa marriage series ends 2022, no divorce series."
+  },
+  {
+    "country": "Kuwait",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 55.8,
+    "marriages": 14639,
+    "divorces": 8168,
+    "source": "https://www.arabtimesonline.com/news/more-love-more-loss-kuwaits-marriage-divorce-numbers-revealed/",
+    "note": "Ministry of Justice statistical yearbook; all nationalities (Kuwaiti couples 72.2% of marriages). 2023: 13,303 / 7,865."
+  },
+  {
+    "country": "Bahrain",
+    "year": 2025,
+    "marriage_rate": 3.5,
+    "divorce_rate": 1.2,
+    "ratio_pct": 36.3,
+    "marriages": 5690,
+    "divorces": 2066,
+    "source": "https://www.data.gov.bh/explore/dataset/19a-marriage-cases-by-classification-of-nationality-of-the-spouses/ ; https://www.data.gov.bh/explore/dataset/20a-divorce-cases-by-classification-of-nationality-of-the-spouses/ ; datasets 2a-crude-marriage-rate, 2c-crude-divorce-rate",
+    "note": "Bahrain Open Data Portal (iGA). 2024: 5,057 / 2,073, crude 3.2 / 1.3. GDN's '4.3pc' is the general marriage rate (dataset 2b), not crude."
+  },
+  {
+    "country": "Oman",
+    "year": 2025,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 18.2,
+    "marriages": 23117,
+    "divorces": 4208,
+    "source": "https://www.thearabianstories.com/2026/06/29/oman-sees-sharp-rise-in-marriages-as-registrations-jump-57-in-two-years/",
+    "note": "NCSI registered marriage contracts / divorce documents, via news report. 2024: 17,896 / 4,122; 2023: 14,716 / 3,828."
+  },
+  {
+    "country": "Jordan",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": 2.2,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": 25943,
+    "source": "https://www.alaraby.co.uk/society/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-53-%D9%81%D9%8A-%D8%B9%D8%A7%D9%85-2024",
+    "note": "Supreme Judge Dept (Sharia courts) annual report 2024; marriages +5.3% vs 2023 but absolute count not found. Divorces include pre-consummation, judicial separation (5,822) and iftida/khula-type (359). 2023: 25,887 divorces."
+  },
+  {
+    "country": "Lebanon",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 28.0,
+    "marriages": 30553,
+    "divorces": 8541,
+    "source": "https://www.skynewsarabia.com/varieties/1741424",
+    "note": "Information International from Directorate General of Personal Status (all sects' religious courts). Article dated 12 Sep 2024 labels figures '2024' - likely 2023 full year or partial; treat year as uncertain."
+  },
+  {
+    "country": "Israel",
+    "year": 2023,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 31.8,
+    "marriages": 48025,
+    "divorces": 15283,
+    "source": "https://www.cbs.gov.il/he/publications/DocLib/isr_in_n/isr_in_n25e.pdf",
+    "note": "CBS 'Israel in Figures 2025' (couples who married / divorced, 2023); registered with Population Authority, excludes civil marriages abroad not registered. 2024 CBS not yet out; Rabbinical Courts report 11,542 Jewish divorces in 2024 (10,838 in 2023)."
+  },
+  {
+    "country": "Egypt",
+    "year": 2024,
+    "marriage_rate": 8.8,
+    "divorce_rate": 2.6,
+    "ratio_pct": 29.2,
+    "marriages": 936739,
+    "divorces": 273892,
+    "source": "https://www.youm7.com/story/2025/11/30/%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-2-5%D9%AA-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%81%D9%89-%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D9%883-1%D9%AA/7216678",
+    "note": "CAPMAS Annual Bulletin of Marriage & Divorce 2024; divorces = 259,697 ma'dhun divorce certificates + 14,195 final court rulings (incl. khula). 2023: 961,220 / 265,606."
+  },
+  {
+    "country": "Algeria",
+    "year": 2023,
+    "marriage_rate": 6.0,
+    "divorce_rate": 2.02,
+    "ratio_pct": 33.5,
+    "marriages": 278664,
+    "divorces": 93402,
+    "source": "https://lesenjeuxeco.dz/474-millions-dhabitants-en-algerie-en-janvier-2025/",
+    "note": "ONS Demographie algerienne; divorces from Ministry of Justice (all types incl. khula). 2024: ~282,000 marriages reported, divorces 2024 not found."
+  },
+  {
+    "country": "Morocco",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 16.7,
+    "marriages": 240089,
+    "divorces": 40214,
+    "source": "https://www.bladi.net/maroc-vit-mutation-historique-facon-divorcer,117568.html ; https://telquel.ma/instant-t/2024/11/06/24-000-cas-de-divorce-contre-plus-de-240-000-mariages-en-2024-selon-ouahbi_1903015/",
+    "note": "Divorces = CSPJ talaq cases 2024 (96.8% mutual consent); EXCLUDES 107,681 tatliq (judicial dissolution) cases - with tatliq total dissolutions 147,895. Marriage count from Justice Minister statement Nov 2024 (may be partial year). HCP cites >65,000 divorces 2024. Ratio not like-for-like."
+  },
+  {
+    "country": "Tunisia",
+    "year": 2023,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 21.9,
+    "marriages": 72953,
+    "divorces": 16012,
+    "source": "https://www.lapresse.tn/2026/07/10/35-000-divorces-517-000-recherches-80-de-celibat-les-statistiques-officielles-racontent-une-autre-realite/",
+    "note": "INS: marriage contracts and divorce judgments of first-instance courts. Viral '35,000 divorces' claim is not INS data."
+  },
+  {
+    "country": "Libya",
+    "year": null,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": null,
+    "note": "No national registry totals found; only municipal fragments (e.g. Tajoura 2024: 1,460 marriages / 327 divorces)."
+  },
+  {
+    "country": "South Africa",
+    "year": 2024,
+    "marriage_rate": 1.6,
+    "divorce_rate": 0.39,
+    "ratio_pct": 23.6,
+    "marriages": 102373,
+    "divorces": 24202,
+    "source": "https://www.statssa.gov.za/publications/P0307/P03072024.pdf",
+    "note": "Stats SA P0307 (released 19 Mar 2026). Marriages = 97,510 civil + 2,634 customary + 2,229 civil unions registered at DHA; divorces = completed forms processed (undercount, late reports). Divorce rate given as 39 per 100,000."
+  },
+  {
+    "country": "Mauritius",
+    "year": 2023,
+    "marriage_rate": 6.85,
+    "divorce_rate": 2.15,
+    "ratio_pct": 31.4,
+    "marriages": null,
+    "divorces": null,
+    "source": "https://gender.govmu.org/Documents/Statistics/Statistics%20in%20Mauritius%20A%20Gender%20Approach%20Year%202023%20FINAL.pdf",
+    "note": "Source rates are PERSONS per 1,000 (13.7 married, 4.3 divorced); halved here to events per 1,000; ratio from rates. Divorce counts not found. Newer marriage data: 2024 8,220 (13.2 persons/1000), 2025 7,715 (12.4) - https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr25.aspx"
+  }
+]

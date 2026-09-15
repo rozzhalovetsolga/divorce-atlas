@@ -589,10 +589,15 @@ function showTip(event, html) {
   placeTip(event);
 }
 const hideTip = () => { tip.hidden = true; };
+document.addEventListener('pointerdown', event => {
+  if (event.pointerType !== 'mouse' && !event.target.closest('svg')) hideTip();
+});
+window.addEventListener('scroll', hideTip, {passive: true});
 
 DATA.forEach(row => { row.display = ruName(row.iso2, row.name_en); });
 const byIso = new Map(DATA.map(row => [row.iso2, row]));
 const BINS = [20, 30, 40, 50, 60];
+const STALE_YEAR = 2015;
 const BIN_LABELS = ['меньше 20', '20–30', '30–40', '40–50', '50–60', '60+'];
 
 const bySeries = id => (BY_DATA.timeseries || []).find(series => series.id === id);
@@ -643,13 +648,14 @@ const medianAll = d3.median(medians);
       const iso = isoOf(feature);
       if (iso === 'PH') return 'country banned';
       const row = byIso.get(iso);
+      if (row && row.ratio != null && row.year < STALE_YEAR) return 'country has nodata';
       return 'country ' + (row && row.ratio != null ? 'has q' + binOf(row.ratio, BINS) : 'nodata');
     })
     .on('pointerenter', (event, feature) => {
       const iso = isoOf(feature);
       const row = byIso.get(iso);
       showTip(event, row && row.ratio != null
-        ? `<div class="tip-name">${esc(row.display)}</div><div class="tip-big">${fmt0(row.ratio)}<small>разводов на 100 свадеб</small></div><div class="tip-row">${row.year} год</div>`
+        ? `<div class="tip-name">${esc(row.display)}</div><div class="tip-big">${fmt0(row.ratio)}<small>разводов на 100 свадеб</small></div><div class="tip-row">${row.year} год</div>${row.year < STALE_YEAR ? '<div class="tip-note">Данные старше 2015 года — на карте не раскрашены</div>' : ''}${row.note ? `<div class="tip-note">${esc(row.note)}</div>` : ''}`
         : `<div class="tip-name">${esc(ruName(iso, feature.properties.name))}</div><div class="tip-note">${iso === 'PH' ? 'Гражданского развода нет' : 'Нет данных'}</div>`);
     })
     .on('pointermove', placeTip)
@@ -669,7 +675,7 @@ const medianAll = d3.median(medians);
   const labels = [];
   for (const feature of features) {
     const row = byIso.get(isoOf(feature));
-    if (!row || row.ratio == null) continue;
+    if (!row || row.ratio == null || row.year < STALE_YEAR) continue;
     const part = mainPart(feature);
     if (path.area(part) < 900) continue;
     const [x, y] = path.centroid(part);
@@ -677,7 +683,7 @@ const medianAll = d3.median(medians);
   }
   svg.append('g').selectAll('text').data(labels).join('text').attr('class', 'lab').attr('x', label => label.x).attr('y', label => label.y).text(label => label.text);
   document.getElementById('legend').innerHTML = BIN_LABELS.map((label, index) => `<span><i style="background:var(--q${index})"></i>${label}</span>`).join('') +
-    '<span><i style="background:var(--nodata)"></i>нет данных</span>';
+    '<span><i style="background:var(--nodata)"></i>нет данных или они старше 2015 года</span>';
   const top = DATA.filter(row => row.year >= 2023 && row.ratio != null).sort((a, b) => b.ratio - a.ratio).slice(0, 5);
   document.getElementById('top5').innerHTML = top.map(row => `<span>${esc(row.display)} <b>${fmt0(row.ratio)}</b></span>`).join('');
 })();

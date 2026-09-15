@@ -1,0 +1,200 @@
+[
+  {
+    "country": "United States",
+    "year": 2023,
+    "marriage_rate": 6.1,
+    "divorce_rate": 2.4,
+    "ratio_pct": 39.3,
+    "marriages": 2041926,
+    "divorces": 672502,
+    "source": "https://www.cdc.gov/nchs/data/dvs/marriage-divorce/national-marriage-divorce-rates-00-23.pdf ; https://www.bgsu.edu/ncfmr/resources/data/family-profiles/fp-25-32.html",
+    "note": "Measure used: CDC/NCHS NVSS provisional 2023 (the latest CDC table; there is no 2024 CDC table). Divorce count and rate cover only 45 states + DC (CA, HI, IN, MN, NM excluded), so ratio_pct uses the rates (2.4/6.1) rather than the non-comparable counts (32.9%). Alternative BGSU NCFMR 2024 (ACS, women marrying/divorcing in the past year): 2,390,482 marriages and 986,810 divorces (M/D ratio 2.42, i.e. 41.3%); refined rates 31.2 and 14.2 per 1,000 women; NCFMR gives no crude rates."
+  },
+  {
+    "country": "Canada",
+    "year": 2020,
+    "marriage_rate": 2.6,
+    "divorce_rate": 1.1,
+    "ratio_pct": 43.7,
+    "marriages": 98355,
+    "divorces": 42933,
+    "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3910005501 ; https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3910005101",
+    "note": "Latest StatCan tables 39-10-0055 and 39-10-0051 (released 2022) stop at 2020; exact crude divorce rate 1.129. The year is COVID-depressed (2019: 146,121 marriages at 3.9; 56,937 divorces at 1.51). No official 2021+ national data found; the '~42k divorces in 2023' figure on secondary sites could not be verified."
+  },
+  {
+    "country": "Mexico",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 33.3,
+    "marriages": 486645,
+    "divorces": 161932,
+    "source": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/emat/emat2024_CP.pdf ; https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ed/ed2024_CP.pdf",
+    "note": "INEGI publishes rates per 1,000 population aged 18+ only: marriages 5.4, divorces 1.79 (not crude rates, so left null). INEGI's own ratio is 33.3 divorces per 100 marriages. DYB crude rates for 2023: 3.8 and 1.2."
+  },
+  {
+    "country": "Brazil",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 45.1,
+    "marriages": 948925,
+    "divorces": 428301,
+    "source": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/031ad256f70356ed66b25e4ff01767cc.pdf",
+    "note": "IBGE Estatisticas do Registro Civil 2024 (released Dec 2025). Civil marriages include 12,187 same-sex. Divorces are 350,407 judicial (1st instance) plus 77,894 extrajudicial. IBGE's legal nuptiality rate is 5.6 per 1,000 population aged 15+ (7.1 in 2014) (not crude, so left null)."
+  },
+  {
+    "country": "Chile",
+    "year": 2023,
+    "marriage_rate": 3.2,
+    "divorce_rate": null,
+    "ratio_pct": 59.3,
+    "marriages": 64285,
+    "divorces": 38093,
+    "source": "https://www.ine.gob.cl/docs/default-source/nacimientos-matrimonios-y-defunciones/publicaciones-y-anuarios/anuarios-de-estad%C3%ADsticas-vitales/estad%C3%ADsticas-vitales-cifras-provisionales-2025.pdf ; https://www.emol.com/noticias/Nacional/2024/05/07/1130103/divorcios-chile-cifras-evolucion-matrimonios.html",
+    "note": "2023 is used because it is the latest year with a divorce count (38,093, Registro Civil via Emol; lowest since 2008). Marriages are from INE (provisional; DYB rate 3.22). Newer marriages-only data: 2024 61,119 (3.0), 2025p 60,293 (3.0). No official crude divorce rate found."
+  },
+  {
+    "country": "Argentina",
+    "year": 2023,
+    "marriage_rate": 2.8,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": 132310,
+    "divorces": null,
+    "source": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table22.xls",
+    "note": "UN DYB 2024 Table 22 (crude rate 2.84). No national divorce statistics published (INDEC/DEIS don't compile them; the DYB has no Argentina divorce row). Only city/province series, e.g. CABA 2024."
+  },
+  {
+    "country": "Colombia",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 39.8,
+    "marriages": 52248,
+    "divorces": 20769,
+    "source": "https://www.infobae.com/colombia/2024/12/31/los-colombianos-ya-no-se-quieren-casar-se-revelaron-las-cifras-de-la-caida-del-numero-de-matrimonios-en-el-pais/",
+    "note": "Superintendencia de Notariado y Registro (notarial) figures as reported by the press. Divorces run only to 15 Dec 2024, and the marriage count is also reported as 52,348. SNR 2023: 69,456 marriages, 25,427 divorces (36.6%). Registraduria registered 85,822 marriages in 2024. DANE publishes no marriage/divorce statistics and there are no official crude rates. Low reliability."
+  },
+  {
+    "country": "Peru",
+    "year": 2024,
+    "marriage_rate": 2.0,
+    "divorce_rate": null,
+    "ratio_pct": 25.0,
+    "marriages": 69116,
+    "divorces": 17294,
+    "source": "https://cdn.www.gob.pe/uploads/document/file/9189787/7545255-estadisticas-vitales-nacimientos-defunciones-matrimonios-y-divorcios-2024.pdf",
+    "note": "INEI/RENIEC registered marriages and divorces. Marriage rate is 20 per 10,000 inhabitants. INEI gives no divorce rate (DYB 2023: 0.49). The ratio matches INEI's '25 divorces per 100 marriages'."
+  },
+  {
+    "country": "Uruguay",
+    "year": 2023,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": 9505,
+    "divorces": null,
+    "source": "https://www.gub.uy/instituto-nacional-estadistica/comunicacion/publicaciones/anuario-estadistico-nacional-2024-volumen-n-101/23-indicadores-5",
+    "note": "INE Anuario 2024, DGREC marriages occurring and registered. No national divorce series: the latest DYB figure is 2020 (2,555, 0.73), and the Anuario only has Montevideo divorce cases initiated (2,931 in 2023). Latest DYB marriage rate: 2022, 2.78."
+  },
+  {
+    "country": "Costa Rica",
+    "year": 2024,
+    "marriage_rate": 4.2,
+    "divorce_rate": 2.5,
+    "ratio_pct": 59.5,
+    "marriages": 22136,
+    "divorces": 13181,
+    "source": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table22.xls ; https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table24.xls",
+    "note": "UN DYB 2024 (exact rates 4.17 and 2.48). Marriage count flagged provisional. INEC counts marriages registered in the year, including ones that took place up to 10 years earlier."
+  },
+  {
+    "country": "Cuba",
+    "year": 2024,
+    "marriage_rate": 6.8,
+    "divorce_rate": 2.1,
+    "ratio_pct": 31.4,
+    "marriages": 67315,
+    "divorces": 21113,
+    "source": "https://www.onei.gob.cu/sites/default/files/publicaciones/2025-07/00-anuario-demografico-2024.pdf ; https://www.redsemlac-cuba.net/redsemlac/sociedad-y-cultura/menos-matrimonios-y-divorcios-que-una-decada-atras/",
+    "note": "ONEI Anuario Demografico 2024. The ONEI PDF returned HTTP 500, so figures were taken from press coverage of it; they are consistent with the DYB 2023 figures (79,823 marriages, 20,570 divorces)."
+  },
+  {
+    "country": "Dominican Republic",
+    "year": 2025,
+    "marriage_rate": 3.75,
+    "divorce_rate": 2.27,
+    "ratio_pct": 60.6,
+    "marriages": 40750,
+    "divorces": 24711,
+    "source": "https://www.diariolibre.com/actualidad/nacional/2026/05/16/matrimonios-en-republica-dominicana-caen-87--en-2025/3536088 ; https://hoy.com.do/el-pais/divorcios-republica-dominicana-cifras-dejo-2025_1088030.html",
+    "note": "ONE Anuario de Estadisticas Vitales 2025, via press. 2024 per ONE/DYB: 44,349 marriages (4.11) and 26,210 divorces (2.43), revised in the 2025 release to 44,645 and 26,369."
+  },
+  {
+    "country": "Panama",
+    "year": 2023,
+    "marriage_rate": 2.2,
+    "divorce_rate": 0.7,
+    "ratio_pct": 33.0,
+    "marriages": 9940,
+    "divorces": 3281,
+    "source": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table22.xls ; https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table24.xls",
+    "note": "UN DYB 2024 (exact rates 2.23 and 0.74). The INEC Panama site was unreachable. The DYB also has 2024 marriages (7,857, rate 1.74) but no 2024 divorces."
+  },
+  {
+    "country": "Puerto Rico",
+    "year": 2024,
+    "marriage_rate": 3.7,
+    "divorce_rate": 1.9,
+    "ratio_pct": 52.4,
+    "marriages": 11859,
+    "divorces": 6214,
+    "source": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table22.xls ; https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table24.xls ; https://www.metro.pr/noticias/2024/09/12/a-la-baja-los-matrimonios-asi-como-los-divorcios/",
+    "note": "UN DYB 2024 (exact rates 3.70 and 1.94). The Registro Demografico's 2023 figures reported in the press (11,801 marriages, 6,266 divorces) differ from the DYB's 2023 values (11,811 and 6,672)."
+  },
+  {
+    "country": "Ecuador",
+    "year": 2025,
+    "marriage_rate": 2.87,
+    "divorce_rate": 1.38,
+    "ratio_pct": 48.0,
+    "marriages": 52044,
+    "divorces": 24991,
+    "source": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Poblacion_y_Demografia/Matrimonios_Divorcios/2025/Principales_resultados_MYD_2025.pdf",
+    "note": "INEC Registro Estadistico de Matrimonios y Divorcios 2025. INEC's rates of 28.7 and 13.8 per 10,000 were converted to per 1,000. 2024: 53,813 marriages, 25,555 divorces."
+  },
+  {
+    "country": "Guatemala",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 15.2,
+    "marriages": 70294,
+    "divorces": 10715,
+    "source": "https://datos.ine.gob.gt/dataset/f4a94d22-9581-428f-8a70-af1b877cd8ee ; https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table24.xls",
+    "note": "Marriages: INE microdata for 2024 (70,294 records, matching the DYB). Divorces: DYB 2024, because INE's '2024 divorces' file link actually serves the marriage file. No 2024 rates; DYB 2023 rates are 4.21 marriages and 0.58 divorces. Divorce registration is low."
+  },
+  {
+    "country": "El Salvador",
+    "year": null,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": null,
+    "note": "No data found. El Salvador is absent from UN DYB 2023/2024 tables 22-25, and no recent ONEC/DIGESTYC marriage or divorce publication could be retrieved."
+  },
+  {
+    "country": "Venezuela",
+    "year": 2019,
+    "marriage_rate": 1.4,
+    "divorce_rate": 0.2,
+    "ratio_pct": 11.2,
+    "marriages": 45834,
+    "divorces": 5126,
+    "source": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/dyb2023/table23.pdf ; https://unstats.un.org/unsd/demographic-social/products/dyb/documents/dyb2023/table25.pdf",
+    "note": "UN DYB 2023, provisional, the latest available. Very likely under-registered: an unverified press figure for 2019 was 82,037 marriages and 22,667 divorces. INE Venezuela has not published anything since. Treat as unreliable."
+  }
+]

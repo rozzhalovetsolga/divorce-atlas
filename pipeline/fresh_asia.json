@@ -1,0 +1,167 @@
+[
+  {
+    "country": "China",
+    "year": 2025,
+    "marriage_rate": 4.81,
+    "divorce_rate": 1.95,
+    "ratio_pct": 40.6,
+    "marriages": 6763000,
+    "divorces": 2743000,
+    "source": "https://www.guancha.cn/politics/2026_02_11_806856.shtml (MCA 2025 Q4 civil-affairs statistics, released 2026-02-11)",
+    "note": "Divorces = civil-affairs REGISTRATIONS ONLY (agreement divorces, subject to the 30-day cooling-off period since 2021); court divorces are NOT included and the 2025 annual bulletin with court divorces is not yet published. Rates are DERIVED here from NBS end-2025 population 1,404.89 mn (stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html); MCA itself did not publish 2025 rates. For comparison, 2024 MCA bulletin: 6.106 mn marriages (4.3 per 1000), 3.513 mn total divorces (2.5 per 1000) = 2.622 mn registered + 0.891 mn court judgment/mediation; ratio 57.5% (nbd.com.cn/articles/2025-07-30/3994187.html). Some media wrongly reported 2025 divorces as -770k/-21.9% by comparing 2025 registrations with 2024 total incl. court; registrations actually rose from 2.621 mn (2024) to 2.743 mn."
+  },
+  {
+    "country": "Japan",
+    "year": 2025,
+    "marriage_rate": 4.1,
+    "divorce_rate": 1.5,
+    "ratio_pct": 36.6,
+    "marriages": 489119,
+    "divorces": 179068,
+    "source": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/dl/gaikyouR7.pdf",
+    "note": "MHLW vital statistics, 2025 annual preliminary figures (gaisu), published 2026-06-03; Japanese nationals in Japan. 2024: 485,092 marriages (4.0), 185,904 divorces (1.55)."
+  },
+  {
+    "country": "South Korea",
+    "year": 2025,
+    "marriage_rate": 4.7,
+    "divorce_rate": 1.7,
+    "ratio_pct": 36.7,
+    "marriages": 240300,
+    "divorces": 88100,
+    "source": "https://mods.go.kr/board.es?mid=a20108110000&bid=11774&tag=&act=view&list_no=445185&ref_bid=",
+    "note": "Ministry of Data and Statistics (formerly KOSTAT), 'Marriage and Divorce Statistics in 2025', released 2026-03-19. Official release rounds to 240 thousand / 88 thousand; 240,300 per Korea Times, 88,100 and CMR 4.7 / CDR 1.7 per Seoul Economic Daily and Korea.net. Marriages +8.1%, divorces -3.3%."
+  },
+  {
+    "country": "Taiwan",
+    "year": 2025,
+    "marriage_rate": 4.47,
+    "divorce_rate": 2.23,
+    "ratio_pct": 49.9,
+    "marriages": 104376,
+    "divorces": null,
+    "source": "https://udn.com/news/story/7241/9516786 (MOI Department of Household Registration data)",
+    "note": "Marriages 104,376 (record low since 1981; per fuhouse.setn.com/news/1797368 citing MOI). Divorces reported only as 'about 52,000' (約5.2萬對), so the exact count is left null and the ratio is computed from the crude rates. Rates are per 1000 population."
+  },
+  {
+    "country": "Hong Kong",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": 2.52,
+    "ratio_pct": 42.9,
+    "marriages": 44196,
+    "divorces": 18938,
+    "source": "https://www.censtatd.gov.hk/en/data/stat_report/product/FA100055/att/B72601FA2026XXXXB0100.pdf",
+    "note": "C&SD 'Marriage and Divorce Trends in Hong Kong, 1991 to 2024' (Jan 2026). Divorces = divorce decrees granted (Judiciary). C&SD publishes only sex-specific crude marriage rates (2024: males 12.9, females 10.8 per 1000 of same sex), so the total-population rate is null. 2025 marriages already published: 42,242 (C&SD table 115-01015), but 2025 divorce decrees are not yet in table 115-92001, so 2024 is the latest complete year."
+  },
+  {
+    "country": "Macau",
+    "year": 2024,
+    "marriage_rate": 4.6,
+    "divorce_rate": 2.0,
+    "ratio_pct": 43.5,
+    "marriages": 3187,
+    "divorces": null,
+    "source": "https://www.dsec.gov.mo/getAttachment/a87ad201-3d28-4a4e-b4ae-da183c06e915/E_DEM_FR_2024_Q4.aspx",
+    "note": "Marriage registrations 3,187 from DSEC Demographic Statistics Q4 2024. Rates per 1000 residents from Macao Yearbook 2025 (yearbook.gcs.gov.mo/yearbook_pdf/2025/myb2025cBN05.pdf). Divorce count not published in the retrieved DSEC release; ratio is from the rounded crude rates, so approximate. The 2025 full-year DSEC release exists (gov.mo/en/news/394812) but its marriage/divorce counts could not be retrieved."
+  },
+  {
+    "country": "Singapore",
+    "year": 2025,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 29.3,
+    "marriages": 24688,
+    "divorces": 7242,
+    "source": "https://www.asiaone.com/singapore/marriage-divorce-rate-2025-singstat (SingStat 'Statistics on Marriages and Divorces, 2025', released 2026-07-10)",
+    "note": "Divorces include annulments. SingStat publishes general rates, not crude rates: general marriage rate 39.1 (male) / 38.1 (female) per 1000 unmarried residents aged 15-49; general divorce rate 6.1 (male) / 5.8 (female) per 1000 married residents aged 20+ (data.gov.sg d_6e50a06c6be69b2f72ec0f4ab1cb5d84). 2024: 26,328 marriages, 7,382 divorces+annulments."
+  },
+  {
+    "country": "Malaysia",
+    "year": 2024,
+    "marriage_rate": 5.6,
+    "divorce_rate": 1.8,
+    "ratio_pct": 31.8,
+    "marriages": 190304,
+    "divorces": 60457,
+    "source": "https://www.dosm.gov.my/uploads/release-content/file_20260319120756.pdf",
+    "note": "DOSM 'Marriages, Divorces and Rujuk Statistics, Malaysia, 2025' (reference year 2024; released Nov 2025). Includes Muslim and non-Muslim marriages and divorces; Muslim share 72.3% of marriages. The next release (reference 2025) is scheduled for 2026-11-19."
+  },
+  {
+    "country": "Thailand",
+    "year": 2024,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 56.1,
+    "marriages": 263087,
+    "divorces": 147621,
+    "source": "https://www.thairath.co.th/scoop/infographic/2836542 (data: Bureau of Registration Administration, DOPA, Ministry of Interior)",
+    "note": "Registered marriages/divorces (BE 2567). 263,087 marriages is the lowest in 10 years. No official crude rates found. National 2025 (BE 2568) totals were not found; only top-5 provinces were published (e.g. Bangkok 40,231 marriages / 15,118 divorces). Same-sex marriage has been legal since 2025-01-23."
+  },
+  {
+    "country": "Vietnam",
+    "year": null,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": "https://dantri.com.vn/doi-song/tphcm-ha-noi-ly-hon-cao-nhat-nuoc-nhieu-doi-sang-ket-hon-chieu-doi-ra-toa-20250304102813671.htm",
+    "note": "No retrievable official national annual marriage/divorce counts or crude rates. Divorces go through the courts, and GSO publishes only provincial 'number of divorces' indicators. The 2024 mid-term census gives a stock, not a flow: about 2.2-2.3 mn divorced/separated persons (2.6% of population aged 15+; urban 2.9%, rural 2.4%). The GSO/MOJ 'National report on civil registration 2021-2024' (nso.gov.vn, Apr 2025) exists but was unreachable."
+  },
+  {
+    "country": "Indonesia",
+    "year": 2025,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 29.6,
+    "marriages": 1480048,
+    "divorces": 438168,
+    "source": "https://www.yayasan-iki.or.id/opini/kajian/27/07/2026/perkawinan-menurun-perceraian-meningkat-data-bps-2020-2025/ (BPS table: bps.go.id statistics-table 3 'Jumlah Perceraian Menurut Provinsi', year=2025)",
+    "note": "BPS administrative data: marriages from KUA (Muslim) plus Dukcapil (other religions); divorces = court divorce cases (cerai talak + cerai gugat, religious and district courts). No official crude rates published. 2024: 1,478,302 marriages, 399,921 divorces (another outlet cites 394,608)."
+  },
+  {
+    "country": "India",
+    "year": 2011,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": null,
+    "divorces": null,
+    "source": "https://www.epw.in/journal/2016/33/commentary/marriage-dissolution-india.html",
+    "note": "NO national marriage or divorce registry and no annual flow statistics; crude rates are unavailable. Best credible estimate is a stock measure from Census 2011 (Jacob & Chattopadhyay, EPW 2016): about 1.36 mn divorced persons = 0.24% of the married population (0.11% of total population), and about 3.5 mn separated (0.61% of married). Divorced plus separated is at most about 1% of married couples."
+  },
+  {
+    "country": "Philippines",
+    "year": 2024,
+    "marriage_rate": 3.3,
+    "divorce_rate": null,
+    "ratio_pct": null,
+    "marriages": 371825,
+    "divorces": null,
+    "source": "https://psa.gov.ph/content/2024-registered-marriages-philippines",
+    "note": "DIVORCE IS NOT LEGAL for non-Muslims (only annulment or declaration of nullity). Muslims may divorce under PD 1083 (Shari'a courts), but no national divorce statistic is published. Marriages -10.2% vs 414,213 in 2023 (CMR 3.7)."
+  },
+  {
+    "country": "Australia",
+    "year": 2025,
+    "marriage_rate": 5.3,
+    "divorce_rate": 2.2,
+    "ratio_pct": 41.4,
+    "marriages": 118804,
+    "divorces": 49158,
+    "source": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+    "note": "ABS 'Marriages and Divorces, Australia, 2025'. Marriages = registered marriages; divorces = divorces granted (Federal Circuit and Family Court). 2024: 120,844 marriages (5.5), 47,216 divorces (2.1)."
+  },
+  {
+    "country": "New Zealand",
+    "year": 2025,
+    "marriage_rate": null,
+    "divorce_rate": null,
+    "ratio_pct": 45.1,
+    "marriages": 17481,
+    "divorces": 7887,
+    "source": "https://www.stats.govt.nz/information-releases/marriages-civil-unions-and-divorces-year-ended-december-2025/",
+    "note": "Marriages include civil unions and cover NZ residents only (444 same-sex). Stats NZ publishes general rates, not crude rates: 7.6 marriages+civil unions per 1000 unmarried people aged 16+, and 7.9 divorces per 1000 married/civil-union couples. Figures retrieved via the Mirage News republication of the Stats NZ release. 2024: 18,033 marriages+CU, 7,497 divorces."
+  }
+]

@@ -1,0 +1,286 @@
+{{Short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Multiple issues|
+{{One source|date=February 2022}}
+{{Refimprove|date=February 2022}}
+{{Notability|date=August 2023}}
+}}
+[[File:Countries by importance of religion.png|thumb|550px|Results of a 2008/2009 Gallup poll on whether respondents said that religion was "important in [their] daily life."<ref name=gallup-religiosity-poor-nations>{{cite web|last1=Crabtree|first1=Steve|title=Religiosity Highest in World's Poorest Nations|date=31 August 2010 |url=http://www.gallup.com/poll/142727/religiosity-highest-world-poorest-nations.aspx|publisher=Gallup|access-date=27 May 2015}} (in which numbers have been rounded)</ref><ref name="Gallup2">[https://worldview.gallup.com/default.aspx GALLUP WorldView] - data accessed on 17 January 2009</ref>
+{| border="0" cellspacing="0" cellpadding="0" style="width:100%;"
+|-
+|valign="top"|
+{{legend|#002255|90%-100%}}
+{{legend|#0044aa|80%-89%}}
+{{legend|#0055d4|70%-79%}}
+{{legend|#0066ff|60%-69%}}
+| valign=top |
+{{legend|#2a7fff|50%-59%}}
+{{legend|#5599ff|40%-49%}}
+{{legend|#80b3ff|30%-39%}}
+{{legend|#aaccff|20%-29%}}
+| valign=top |
+{{legend|#d5e5ff|10%-19%}}
+{{legend|white|0%-9%}}
+{{legend|#c0c0c0ff|No data}}
+|}]]
+
+This article charts a '''list of countries by importance of religion'''.
+
+== Methodology ==                                                                    
+The table below is based on the global [[Gallup Poll]] in 2009 research which asked "Is religion important in your daily life?". Percentages for "yes" and "no" answers are listed below; they often do not add up to 100% because some answered "don't know" or did not answer.<ref name=gallup-religiosity-poor-nations/>
+
+== Countries/districts==
+{{srn}}
+{| class="wikitable sortable static-row-numbers" style="text-align:right;"
+|-
+! Country/district
+!Yes, important<ref name="gallup-religiosity-poor-nations" />
+!No, unimportant<ref name="gallup-religiosity-poor-nations" />     
+|-
+| align="left" |{{AFG}}||97%||3%
+|-
+| align="left" |{{ALB}}||39%||53%
+|-
+| align="left" |{{DZA}}||95%||4%
+|-
+| align="left" |{{ARG}}||66%||33%
+|-
+| align="left" |{{ARM}}||73%||25%
+|-
+| align="left" |{{AZE}}||50%||49%
+|-
+| align="left" | {{flag|Bahrain}}||94%||4%
+|-
+| align="left" |{{flag|Bangladesh}}||99%||1%
+|-
+| align="left" |{{BLR}}||34%||56%
+|-
+| align="left" |{{flag|Bolivia}}||89%||10%
+|-
+| align="left" |{{BIH}}||77%||21%
+|-
+| align="left" | {{BRA}}||87%||13%
+|-
+| align="left" |{{BDI}}||98%||2%
+|-
+| align="left" |{{KHM}}||96%||3%
+|-
+| align="left" |{{CMR}}||96%||4%
+|-
+| align="left" |{{CAN}}||42%||57%
+|-
+| align="left" | {{TCD}}||95%||5%
+|-
+| align="left" |{{CHL}}||70%||29%
+|-
+| align="left" |{{COL}}||83%||16%
+|-
+| align="left" |{{COM}}||97%||2%
+|-
+| align="left" |{{CRI}}||79%||19%
+|-
+| align="left" |{{flag|Cote d'Ivoire}}||88%||12%
+|-
+| align="left" |{{HRV}}||70%||28%
+|-
+| align="left" |{{CYP}}||75%||24%
+|-
+| align="left" |{{COD}}||94%||5%
+|-
+| align="left" |{{DNK}}||19%||80%
+|-
+| align="left" |{{flag|Dominican Republic}}||87%||13%
+|-
+| align="left" |{{DJI}}||96%||2%
+|-
+| align="left" |{{ECU}}||82%||17%
+|-
+| align="left" |{{EGY}}||97%||2%
+|-
+| align="left" |{{SLV}}||83%||16%
+|-
+| align="left" |{{EST}}||16%||78%
+|-
+| align="left" |{{FRA}}||30%||69%
+|-
+| align="left" | {{GEO}}||81%||16%
+|-
+| align="left" |{{DEU}}||40%||59%
+|-
+| align="left" |{{GHA}}||95%||5%
+|-
+| align="left" |{{GRC}}||71%||28%
+|-
+| align="left" |{{flag|Guatemala}}||88%||9%
+|-
+| align="left" |{{flag|Honduras}}||84%||15%
+|-
+| align="left" |{{HKG}}||24%||74%
+|-
+| align="left" |{{HUN}}||39%||58%
+|-
+| align="left" | {{IND}}||90%||9%
+|-
+| align="left" |{{IDN}}||99%||0%
+|-
+| align="left" | {{IRQ}}||84%||11%
+|-
+| align="left" |{{IRL}}||54%||46%
+|-
+| align="left" |{{ISR}}||51%||48%
+|-
+| align="left" |{{ITA}}||72%||25%
+|-
+| align="left" |{{JPN}}||24%||75%
+|-
+| align="left" |{{KAZ}}||43%||58%
+|-
+| align="left" |{{flag|Kenya}}||94%||6%
+|-
+| align="left" | {{Flag|Kosovo}}||90%||8%
+|-
+| align="left" |{{flag|Kuwait}}||91%||6%
+|-
+| align="left" |{{KGZ}}||72%||25%
+|-
+| align="left" |{{LVA}}||39%||58%
+|-
+| align="left" |{{flag|Lebanon}}||87%||12%
+|-
+| align="left" |{{LTU}}||42%||49%
+|-
+| align="left" | {{LUX}}||39%||59%
+|-
+| align="left" |{{MWI}}||99%||1%
+|-
+| align="left" |{{MYS}}||96%||3%
+|-
+| align="left" |{{MLI}}||95%||4%
+|-
+| align="left" |{{flag|Malta}}||86%||10%
+|-
+| align="left" |{{MRT}}||98%||2%
+|-
+| align="left" |{{MEX}}||73%||25%
+|-
+| align="left" |{{MDA}}||72%||19%
+|-
+| align="left" |{{flag|Montenegro}}||71%||28%
+|-
+| align="left" |{{MAR}}||97%||1%
+|-
+| align="left" |{{flag|Nepal}}||93%||6%
+|-
+| align="left" |{{NIC}}||84%||15%
+|-
+| align="left" | {{NER}}||99%||0%
+|-
+| align="left" |{{NGA}}||96%||3%
+|-
+| align="left" |{{MKD}}||76%||22%
+|-
+| align="left" |{{PAK}}||92%||6%
+|-
+| align="left" |{{flag|Palestine}}||93%||7%
+|-
+| align="left" | {{flag|Panama}}||88%||11%
+|-
+| align="left" |{{PAR}}||92%||8%
+|-
+| align="left" |{{PER}}||84%||14%
+|-
+| align="left" |{{PHL}}||96%||4%
+|-
+| align="left" |{{POL}}||75%||19%
+|-
+| align="left" | {{QAT}}||95%||4%
+|-
+| align="left" |{{ROM}}||84%||12%
+|-
+| align="left" |{{RUS}}||34%||56%
+|-
+| align="left" |{{RWA}}||95%||5%
+|-
+| align="left" |{{SAU}}||93%||4%
+|-
+| align="left" |{{SEN}}||96%||4%
+|-
+| align="left" | {{SRB}}||54%||44%
+|-
+| align="left" |{{SGP}}||70%||29%
+|-
+| align="left" |{{SVN}}||47%||52%
+|-
+| align="left" |{{flag|South Africa}}||85%||15%
+|-
+| align="left" |{{Flag|South Korea}}||43%||56%
+|-
+| align="left" |{{ESP}}||49%||50%
+|-
+| align="left" | {{LKA}}||99%||1%
+|-
+| align="left" |{{flag|Sudan}}||93%||7%
+|-
+| align="left" |{{SWE}}||17%||82%
+|-
+| align="left" |{{CHE}}||41%||57%
+|-
+| align="left" |{{flag|Syria}}||89%||9%
+|-
+| align="left" | {{flag|Tajikistan}}||85%||12%
+|-
+| align="left" |{{flag|Tanzania}}||89%||11%
+|-
+| align="left" |{{THA}}||97%||2%
+|-
+| align="left" |{{flag|Tunisia}}||93%||5%
+|-
+| align="left" |{{TUR}}||82%||15%
+|-
+| align="left" |{{flag|Turkmenistan}}||80%||18%
+|-
+| align="left" |{{flag|Uganda}}||93%||7%
+|-
+| align="left" |{{UKR}}||46%||48%
+|-
+| align="left" |{{flag|United Arab Emirates}}||91%||8%
+|-
+| align="left" |{{UK}}||27%||73%
+|-
+| align="left" |{{USA}}||65%||34%
+|-
+| align="left" |{{URY}}||41%||59%
+|-
+| align="left" |{{UZB}}||51%||46%
+|-
+| align="left" |{{VEN}}||79%||21%
+|-
+| align="left" |{{VNM}}||30%||69%
+|-
+| align="left" | {{YEM}}||99%||1%
+|-
+| align="left" |{{ZMB}}||95%||5%
+|-
+| align="left" |{{flag|Zimbabwe}}||88%||12%
+|}
+{{notelist}}
+
+== See also ==
+* [[Demographics of atheism]]
+* [[Demographics of religion]]
+* [[List of countries by irreligion]]
+* [[List of religious populations]]
+* [[Religions by country]]
+* [[Religiosity and intelligence]]
+* [[Wealth and religion]]
+
+==References==
+{{Reflist|30em}}
+
+{{Religion country lists}}
+{{Religion topics}}
+
+{{DEFAULTSORT:Importance Of Religion By Country}}
+[[Category:Religion-related lists by country]]
+[[Category:Religion by country]]
+[[Category:Religious practices]]
+[[Category:Religious demographics]]

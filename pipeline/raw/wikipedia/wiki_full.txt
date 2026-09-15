@@ -1,0 +1,179 @@
+{{Short description|Statistics on divorces by country/region}}
+This is a '''list of countries by [[marriage]] and [[divorce]] rates''', where divorce demography is the study of divorce statistics in a population.
+
+==Metrics ==
+There are three ratios used for divorce rate calculations: crude divorce rate, refined divorce rate, and divorce-to-marriage ratio. Each of these calculations has weaknesses and can be misleading.<ref name="england">{{citation |last1=England |first1=J. Lynn |title=The Application of Age-Specific Rates to Divorce |date=February 1975 |journal=Journal of Marriage and the Family |volume=37 |issue=1 |pages=40–46 |publisher=Journal of Marriage and Family, Vol. 37, No. 1 |doi=10.2307/351029 |jstor=351029 |last2=Kunz |first2=Phillip R.}}</ref>
+
+===Crude divorce rate===
+
+This is divorces per 1,000 population per year.<ref name="england" /> For example, if a city has 10,000 people living in it, and 30 couples divorce in one year, then the crude divorce rate for that year is 3 divorces per 1,000 residents.<math display="block">\text{Crude Divorce Rate} =  \frac {\text{Number  of  divorces}}{\text{Population}} \times 1000
+</math>The crude divorce rate can give a general overview of [[marriage]] in an area, but it does not take people who cannot marry into account. For example, it would include young children, who are clearly not of marriageable age in its sample. In a place with large numbers of children or single adults, the crude divorce rate can seem low. In a place with few children and single adults, the crude divorce rate can seem high.
+
+===Refined divorce rate ===
+This measures the number of divorces per 1,000 women married to men, so that all unmarried persons are left out of the calculation.<ref name="england" /> For example, if that same city of 10,000 people has 3,000 married women, and 30 couples divorce in one year, then the refined divorce rate is 10 divorces per 1,000 married women.<math display="block">\text{Refined Divorce Rate} = \frac {\text{Number  of  divorces}}{\text{Number of married women}} \times 1000
+</math>
+=== Divorce-to-marriage ratio ===
+This compares the number of divorces in a given year to the number of marriages in that same year (the ratio of the crude divorce rate to the crude marriage rate).<ref name="england" /> For example, if there are 500 divorces and 1,000 marriages in a given year in a given area, the ratio would be one divorce for every two marriages, e.g. a ratio of 0.50 (50%).<math display="block">\text{Divorce-to-marriage ratio} = \frac {\text{Number  of  divorces}}{\text{Number of marriages}}
+</math>However, this measurement compares two unlike populations – those who can marry and those who can divorce. Say there exists a community with 100,000 married couples, and very few people capable of marriage, for reasons such as age. If 1,000 people obtain divorces and 1,000 people get married in the same year, the ratio is one divorce for every marriage, which may lead people to think that the community's relationships are extremely unstable, despite the number of married people not changing. This is also true in reverse: a community with very many people of marriageable age may have 10,000 marriages and 1,000 divorces, leading people to believe that it has very stable relationships.
+
+Furthermore, these two rates are not directly comparable since the marriage rate only examines the current year, while the divorce rate examines the outcomes of marriages for many previous years. This does not equate to the proportion of marriages in a given single-year cohort that will ultimately end in divorce. In any given year, underlying rates may change, and this can affect the ratio. For example, during an economic downturn, some couples might postpone a divorce because they can't afford to live separately. These individual choices could seem to temporarily improve the divorce-to-marriage ratio.
+
+== Statistics==
+{{srn}}{{table alignment}}{{Sticky header}}
+{| class="wikitable sortable static-row-numbers sticky-header-multi col1left col2center col7left" style="text-align:right;"
+|+Divorce statistics by country/region (per 1,000 population / year)
+|-
+! rowspan="2" | Country/region
+! rowspan="2" | Continent
+! colspan="2" | Rate
+! colspan="1" rowspan="2" | Ratio (%)
+! colspan="1" rowspan="2" | Data Source Year
+|- class="static-row-header"
+! Marriage !! Divorce
+{{DDSC|Albania|7.0|1.1|2021<ref name=Eurostat>{{cite web|title=Marriage and divorce statistics|url=http://ec.europa.eu/eurostat/statistics-explained/index.php/Marriage_and_divorce_statistics|publisher=Eurostat}}</ref>}}
+{{DDSC|Algeria|10.1|1.6|2013<ref name="ONS2013" >{{cite web|title=Office National des statistiques - Démographie Algérienne 2014|url=http://www.ons.dz/IMG/pdf/Demographie_algerienne_2014.pdf|publisher=Office National des Statistiques (ONS) 2013}}</ref>}}
+{{DDSC|Andorra|4.7|2.7|2023<ref name="World Population Review">{{Cite web|url=https://worldpopulationreview.com/country-rankings/divorce-rates-by-country|title=Divorce Rates by Country|access-date=10 July 2026|website=worldpopulationreview.com}}</ref>}}
+{{DDSC|Australia|3.5|2.2|2021<ref name="World Population Review" />}}
+{{DDSC|Austria|5.0|1.6|2023<ref name="Eurostat" />}}
+{{DDSC|Azerbaijan|5.6|1.7|2021<ref name="World Population Review" />}}
+{{DDSC|Bahamas|6.1|1.0|2007<ref name="UNSTAT2011marriage">{{cite web|title=Marriages and crude marriage rates|url=http://unstats.un.org/unsd/demographic/products/dyb/dyb2011/Table23.pdf|publisher=United Nations Statistical Division (UNSTAT)|accessdate=10 January 2013}}</ref><ref name="UNSTAT2011divorce">{{cite web|title=Divorces and crude divorce rates|url=http://unstats.un.org/unsd/demographic/products/dyb/dyb2011/Table25.pdf|publisher=United Nations Statistical Division (UNSTAT)|accessdate=10 January 2013}}</ref>}}
+{{DDSC|Belarus|6.1|3.7|2023<ref name="World Population Review" />}}
+{{DDSC|Belgium|4.0|1.7|2023<ref name="Eurostat" />}}
+{{DDSC|Bermuda|4.9|1.9|2021<ref name="World Population Review" />}}
+{{DDSC|Bosnia and Herzegovina|5.4|0.8|2019<ref name="World Population Review" />}}
+{{DDSC|Brazil|6.6|1.4|2009<ref name=BRICS2012>{{cite book|title=BRICS Joint Statistical Publication 2012, Chapter 3: Population|year=2012|pages=18|url=http://www.bricsindia.in/publication/chapter3.pdf|access-date=2013-01-20|archive-url=https://web.archive.org/web/20130228195418/http://www.bricsindia.in/publication/chapter3.pdf|archive-date=2013-02-28|url-status=dead}}</ref>}}
+{{DDSC|Brunei|5.6|1.6|2023<ref name="World Population Review" />}}
+{{DDSC|Bulgaria|3.4|1.4|2023<ref name="World Population Review" />}}
+{{DDSC|Canada|2.6|1.1|2020<ref name="World Population Review" />}}
+{{DDSC|Chile|2.7|1.8|2021<ref name="Our World in Data">{{Cite web|url=https://ourworldindata.org/marriages-and-divorces|title=Marriages and Divorces|access-date=11 January 2026|website=ourworldindata.org}}</ref>}}
+{{DDSC|China|4.3|2.5|2024<ref>{{Cite book|url=http://english.scio.gov.cn/pressroom/2025-07/31/content_118005719.html|title=China's tally of marriage registrations down in 2024|publisher=The State Council Information Office|year=2025}}</ref>}}
+{{DDSC|Colombia|1.4|0.6|2022<ref name="Our World in Data" />}}
+{{DDSC|Costa Rica|4.2|2.6|2023<ref name="World Population Review" />}}
+{{DDSC|Croatia|4.5|1.1|2023<ref name="World Population Review" />}}
+{{DDSC|Cuba|3.7|1.6|2021<ref name="World Population Review" />}}
+{{DDSC|Cyprus|8.9|2.6|2019<ref name="Eurostat" />}}
+{{DDSC|Czech Republic|4.5|1.8|2023<ref name="World Population Review" />}}
+{{DDSC|Denmark|5.3|2.2|2023<ref name="World Population Review" />}}
+{{DDSC|Dominican Republic|4.4|2.4|2023<ref name="World Population Review" />}}
+{{DDSC|Ecuador|5.6|1.1|2006<ref name="UNPD2008" />}}
+{{DDSC|Egypt|8.6|2.4|2021<ref name="World Population Review" />}}
+{{DDSC|El Salvador|3.5|0.8|2006<ref name=UNPD2008>{{cite web|title=World Marriage Data 2008|url=https://www.un.org/esa/population/publications/WMD2008/Main.html|publisher=United Nations, Department of Economic and Social Affairs, Population Division (2009)|access-date=19 January 2013}}</ref>}}
+{{DDSC|Estonia|4.8|1.9|2023<ref name="World Population Review" />}}
+{{DDSC|European Union|4.0|1.6|2023<ref name="Eurostat" />}}
+{{DDSC|Faroe Islands|4.1|1.2|2023<ref name="World Population Review" />}}
+{{DDSC|Finland|3.7|2.1|2023<ref name="World Population Review" />}}
+{{DDSC|France|3.7|1.9|2016<ref name="Eurostat" />}}
+{{DDSC|Georgia|6.0|3.7|2023<ref name="World Population Review" />}}
+{{DDSC|Germany|4.3|1.5|2023<ref name="World Population Review" />}}
+{{DDSC|Gibraltar|6.7|3.2|2010<ref name="UNSTAT2011marriage" /><ref name="UNSTAT2011divorce" />}}
+{{DDSC|Grenada|5.0|1.1|2001<ref name="UNPD2008" />}}
+{{DDSC|Greece|3.9|1.5|2023<ref name="Eurostat" />}}
+{{DDSC|Greenland|5.3|2.4|2023<ref name="World Population Review" />}}
+{{DDSC|Guam|6.3|4.3|2019<ref name="World Population Review" />}}
+{{DDSC|Guatemala|3.8|1.2|2008<ref name="UNSTAT2011marriage" /><ref name="UNSTAT2011divorce" />}}
+{{DDSC|Hungary|5.2|1.7|2023<ref name="World Population Review" />}}
+{{DDSC|Iceland|5.0|1.9|2020<ref name="Eurostat" />}}
+{{DDSC|India|10|0.6|2025<ref>{{cite web |url=https://worldpopulationreview.com/country-rankings/marriage-rates-by-country|title=Marriage Rates by Country|access-date=12 September 2026|website=World Population Review}}</ref>}}<ref>{{cite web |url=https://indiadatamap.com/2025/09/14/divorce-rates-in-india-2025-state-wise-insights|title=Divorce Rates in India 2025: State-Wise Insights|date=14 September 2025|access-date=12 September 2026|website=India Data Map}}</ref>
+{{DDSC|Iran|6.5|2.4|2021<ref name="World Population Review" />}}
+{{DDSC|Iraq|{{unknown}}|2.24|2024<ref name="WPR2024">{{cite web |title=Divorce Rates by Country 2024 |url=https://worldpopulationreview.com/country-rankings/divorce-rates-by-country |website=World Population Review |access-date=11 January 2024 |archive-url=https://web.archive.org/web/20240205165354/https://worldpopulationreview.com/country-rankings/divorce-rates-by-country |archive-date=5 February 2024 |language=En |url-status=live}}</ref>}}
+{{DDSC|Ireland|1.9|0.6|2020<ref name="World Population Review" />}}
+{{DDSC|Israel|5.5|1.7|2021<ref name="World Population Review" />}}
+{{DDSC|Italy|3.1|1.4|2023<ref name="Eurostat" />}}
+{{DDSC|Jamaica|6.1|1.2|2018<ref name="World Population Review" />}}
+{{DDSC|Japan|4.1|1.5|2022<ref name="Our World in Data" />}}
+{{DDSC|Jordan|5.6|1.7|2022<ref name="World Population Review" />}}
+{{DDSC|Kazakhstan|6.1|2.0|2023<ref name="World Population Review" />}}
+{{DDSC|Kuwait|2.8|1.6|2023<ref name="World Population Review" />}}
+{{DDSC|Kyrgyzstan|6.4|1.8|2023<ref name="World Population Review" />}}
+{{DDSC|Latvia|5.5|2.8|2024<ref>{{Cite book|url=https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Marriage_and_divorce_statistics|title=Marriage and divorce statistics|publisher=Eurostat|year=2026}}</ref>}}
+{{DDSC|Lebanon|9.5|1.6|2007<ref name="UNSTAT2011marriage" /><ref name="UNSTAT2011divorce" />}}
+{{DDSC|Libya|10.8|2.5|2008<ref>[https://www.unescwa.org/publications/bulletin-population-and-vital-statistics-escwa-region-issue-no-16 UNESCWA Population Statistics]</ref>}}
+{{DDSC|Liechtenstein|5.5|2.1|2020<ref name="World Population Review" />}}
+{{DDSC|Lithuania|4.9|2.5|2023<ref name="World Population Review" />}}
+{{DDSC|Luxembourg|3.8|2.1|2023<ref name="World Population Review" />}}
+{{DDSC|Macau|4.6|1.9|2023<ref name="World Population Review" />}}
+{{DDSC|Malaysia|6.6|1.3|2021<ref name="World Population Review" />}}
+{{DDSC|Maldives|{{unknown}}|5.52|2023<ref name="World Population Review" />}}
+{{DDSC|Malta|4.8|0.9|2022<ref name="Eurostat" />}}
+{{DDSC|Mauritius|6.9|2.1|2023<ref name="World Population Review" />}}
+{{DDSC|Mexico|3.9|1.3|2022<ref name="Our World in Data" />}}
+{{DDSC|Moldova|6.4|3.9|2023<ref name="Eurostat" />}}
+{{DDSC|Mongolia|5.0|1.4|2023<ref name="World Population Review" />}}
+{{DDSC|Montenegro|5.6|1.3|2023<ref name="World Population Review" />}}
+{{DDSC|Netherlands|3.8|1.4|2023<ref name="World Population Review" />}}
+{{DDSC|New Zealand|3.6|1.5|2023<ref name="World Population Review" />}}
+{{DDSC|Nicaragua|4.5|0.8|2005<ref name="UNPD2008" />}}
+{{DDSC|North Macedonia|6.9|1.0|2023<ref name="World Population Review" />}}
+{{DDSC|Norway|3.6|1.6|2023<ref name="World Population Review" />}}
+{{DDSC|Panama|3.0|1.2|2021<ref name="World Population Review" />}}
+{{DDSC|Peru|2.3|0.4|2021<ref name="World Population Review" />}}
+{{DDSC|Poland|4.0|1.5|2023<ref name="World Population Review" />}}
+{{DDSC|Portugal|3.5|1.6|2023<ref name="Eurostat" />}}
+{{DDSC|Puerto Rico|4.0|2.6|2019<ref name="World Population Review" />}}
+{{DDSC|Qatar|3.3|1.1|2011<ref name="UNSTAT2011marriage" /><ref name="UNSTAT2011divorce" />}}
+{{DDSC|Romania|5.8|1.2|2023<ref name="Eurostat" />}}
+{{DDSC|Russia|5.3|3.9|2020<ref>{{Cite book|url=https://rosstat.gov.ru/storage/mediabank/v3C6UoJx/demo31.xls|title=Обновлено БРАКИ|publisher=Федеральная служба государственной статистики (Federal State Statistics Service)|year=2020|access-date=2021-08-24|archive-date=2022-03-31|archive-url=https://web.archive.org/web/20220331213047/https://rosstat.gov.ru/storage/mediabank/v3C6UoJx/demo31.xls|url-status=dead}}</ref><ref>{{Cite book|url=https://rosstat.gov.ru/storage/mediabank/cfFTRFuE/demo32.xls|title=Обновлено - 09.07.2021: РАЗВОДЫ|publisher=Федеральная служба государственной статистики (Federal State Statistics Service)|year=2020|access-date=2021-08-24|archive-date=2022-04-01|archive-url=https://web.archive.org/web/20220401110258/https://rosstat.gov.ru/storage/mediabank/cfFTRFuE/demo32.xls|url-status=dead}}</ref>}}
+{{DDSC|Saint Lucia|2.8|0.7|2004<ref name="UNPD2008" />}}
+{{DDSC|Saint Vincent and the Grenadines|5.8|0.8|2007<ref name="UNSTAT2011marriage" /><ref name="UNSTAT2011divorce" />}}
+{{DDSC|San Marino|3.3|1.5|2020<ref name="World Population Review" />}}
+{{DDSC|Saudi Arabia|5.6|2.1|2020<ref>{{Cite book|url=https://www.stats.gov.sa/sites/default/files/Marriage%20and%20Divorce%20Statistics%202020%20EN.pdf|title=Marriage and Divorce Statistics 2020|publisher=General Authority for Statistics - Kingdom of Saudi Arabia|year=2020}}</ref>}}
+{{DDSC|Serbia|4.8|1.5|2023<ref name="Eurostat" />}}
+{{DDSC|Seychelles|13.7|1.8|2023<ref name="World Population Review" />}}
+{{DDSC|Singapore|7.1|1.9|2021<ref name="World Population Review" />}}
+{{DDSC|Slovakia|4.9|1.5|2023<ref name="Eurostat" />}}
+{{DDSC|Slovenia|3.0|1.0|2023<ref name="Eurostat" />}}
+{{DDSC|South Africa|3.5|0.6|2009<ref name="BRICS2012" />}}
+{{DDSC|South Korea|4.7|1.7|2025<ref>{{Cite book|url=https://www.businesskorea.co.kr/news/articleView.html?idxno=265642|title=Marriage Rates Climb in South Korea for Third Year|publisher=Business Korea|year=2026}}</ref>}}
+{{DDSC|Spain|3.5|1.6|2023<ref name="Eurostat" />}}
+{{DDSC|Sri Lanka|6.9|{{dunno}}|2023<ref name="World Population Review" />}}
+{{DDSC|Sudan|4.6|1.5|2018<ref name="World Population Review" />}}
+{{DDSC|Suriname|4.2|1.3|2007<ref name="UNSTAT2011marriage" /><ref name="UNSTAT2011divorce" />}}
+{{DDSC|Sweden|4.2|2.1|2024<ref>{{Cite book|url=https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Marriage_and_divorce_statistics|title=Marriage and divorce statistics|publisher=Eurostat|year=2026}}</ref>}}
+{{DDSC|Switzerland|4.7|1.8|2022<ref name="Eurostat" />}}
+{{DDSC|Syria|10.6|1.3|2006<ref name="UNPD2008" />}}
+{{DDSC|Taiwan|5.7|2.3|2018<ref>{{Cite web|url=https://www.taiwannews.com.tw/en/news/3730261|title = An average of 149 couples file for divorce per day in Taiwan in 2018: Data &#124; Taiwan News| date=23 June 2019}}</ref>}}
+{{DDSC|Tajikistan|8.8|1.4|2019<ref name="World Population Review" />}}
+{{DDSC|Thailand|5.5|1.4|2005<ref name="UNPD2008" />}}
+{{DDSC|Tonga|7.1|1.2|2003<ref name="UNPD2008" />}}
+{{DDSC|Trinidad and Tobago|6.3|2.2|2005<ref name="UNPD2008" /><ref name="UNSTAT">[http://unstats.un.org/unsd/demographic/products/dyb/dyb2008/Table25.pdf United Nations Statistical Division (UNSTAT) 2010]</ref>}}
+{{DDSC|Turkey|6.6|2.0|2023<ref name="Eurostat" />}}
+{{DDSC|Ukraine|4.5|3.1|2020<ref>{{cite web |url=https://stat.gov.ua/en/explorer?md5=645a5fb20bfdef65d43120d04c04fc65|title=Data Bank|website=Ukrstat|access-date=11 January 2026}}</ref><ref>{{cite web |url=https://stat.gov.ua/en/explorer?md5=f097421af1ad03559c4dbdafe4619a13|title=Data Bank|website=Ukrstat|access-date=11 January 2026}}</ref>}}
+{{DDSC|United Arab Emirates|2.8|0.7|2005<ref>[https://www.unescwa.org/sites/www.unescwa.org/files/uploads/bulletin_on_population_and_vital_statistics_issue_10.pdf UNESCWA Population Statistics]</ref>}}
+{{DDSC|United Kingdom|1.3|1.5|2020<ref name="World Population Review" />}}
+{{DDSC|United States|6.0|2.5|2021<ref name="Our World in Data" />}}
+{{DDSC|Uzbekistan|7.8|1.4|2023<ref name="World Population Review" />}}
+{{DDSC|Venezuela|1.4|0.2|2019<ref name="World Population Review" />}}
+{{DDSC|Vietnam|5.1|0.2|2021<ref name="World Population Review" />}}
+|}
+
+== Worldwide ==
+{| class="wikitable sortable"
+|-
+|+Worldwide share of women aged 15–49 who are married or in a union<ref>{{cite web|url=https://ourworldindata.org/grapher/share-of-women-aged-1549-who-are-married-or-in-a-union?tab=line&country=OWID_WRL~North+America+%28UN%29|title=Share of women aged 15–49 who are married or in a union|website=ourworldindata.org|access-date=11 January 2026}}</ref>
+! 1970
+! 1980
+! 1990
+! 2000
+! 2010
+! 2020
+! 2024
+|-
+|style="text-align: left" | 69.4% || style="text-align: right;" | 68.5% || style="text-align: right;" | 67.6% || style="text-align: right;" | 67.5% || style="text-align: right;" | 66% || style="text-align: right;" | 64.7% || style="text-align: right;" | 63.8%
+|}
+
+==See also==
+* [[List of countries by age at first marriage]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf Authorship: United States CDC National Center for Health Statistics; Contents: Longitudinal study of first-marriage outcomes in the United States, 2012]
+
+{{Population country lists}}
+{{Authority control}}
+
+{{DEFAULTSORT:Divorce Demography}}
+[[Category:Demography]]
+[[Category:Divorce]]
+[[Category:Family law]]

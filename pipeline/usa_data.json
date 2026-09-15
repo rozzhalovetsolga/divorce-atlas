@@ -1,0 +1,3732 @@
+{
+ "timeseries": [
+  {
+   "id": "crude_divorce_rate",
+   "title_ru": "Общий коэффициент разводимости, США",
+   "unit": "разводов (вкл. аннулирования) на 1000 жителей",
+   "source": "NCHS «100 Years of Marriage and Divorce Statistics 1867–1967» (Series 21 No. 24, табл. 1) — 1867–1939; NCHS MVSR 43(9)S, табл. 1 — 1940–1990; Statistical Abstract 2012, табл. 78 — 1991–1999; CDC/NCHS NVSS provisional — 2000–2023",
+   "url": "https://www.cdc.gov/nchs/data/series/sr_21/sr21_024.pdf",
+   "note": "Склейка источников. 1867–1939 — OCR скана 1973 г.; годы с нечитаемыми значениями опущены (напр., 1868–69, 1883–84, 1894–95, 1903–04, 1910–14, 1929–30). С 1998 г. числитель и знаменатель без неотчитавшихся штатов (с 2000 г. нет Калифорнии, Индианы и др.; 2017–2023 — без CA, HI, IN, MN, NM), поэтому уровень после 1998 г. не строго сопоставим с ранним. Пик 5.3 в 1979 и 1981 гг.; послевоенный всплеск 4.3 в 1946 г. Для 1975 г. взято 4.8 (как в Stat. Abstract): в OCR MVSR ряд не читается однозначно. Доп. URL: https://www.cdc.gov/nchs/data/mvsr/supp/mv43_09s.pdf ; https://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s0078.xls ; https://www.cdc.gov/nchs/nvss/marriage-divorce.htm",
+   "points": [
+    {
+     "year": 1867,
+     "value": 0.3
+    },
+    {
+     "year": 1870,
+     "value": 0.3
+    },
+    {
+     "year": 1871,
+     "value": 0.3
+    },
+    {
+     "year": 1872,
+     "value": 0.3
+    },
+    {
+     "year": 1873,
+     "value": 0.3
+    },
+    {
+     "year": 1874,
+     "value": 0.3
+    },
+    {
+     "year": 1875,
+     "value": 0.3
+    },
+    {
+     "year": 1876,
+     "value": 0.3
+    },
+    {
+     "year": 1877,
+     "value": 0.3
+    },
+    {
+     "year": 1878,
+     "value": 0.3
+    },
+    {
+     "year": 1879,
+     "value": 0.3
+    },
+    {
+     "year": 1880,
+     "value": 0.4
+    },
+    {
+     "year": 1881,
+     "value": 0.4
+    },
+    {
+     "year": 1882,
+     "value": 0.4
+    },
+    {
+     "year": 1885,
+     "value": 0.4
+    },
+    {
+     "year": 1886,
+     "value": 0.4
+    },
+    {
+     "year": 1887,
+     "value": 0.5
+    },
+    {
+     "year": 1888,
+     "value": 0.5
+    },
+    {
+     "year": 1889,
+     "value": 0.5
+    },
+    {
+     "year": 1890,
+     "value": 0.5
+    },
+    {
+     "year": 1891,
+     "value": 0.6
+    },
+    {
+     "year": 1892,
+     "value": 0.6
+    },
+    {
+     "year": 1893,
+     "value": 0.6
+    },
+    {
+     "year": 1896,
+     "value": 0.6
+    },
+    {
+     "year": 1897,
+     "value": 0.6
+    },
+    {
+     "year": 1898,
+     "value": 0.7
+    },
+    {
+     "year": 1899,
+     "value": 0.7
+    },
+    {
+     "year": 1900,
+     "value": 0.7
+    },
+    {
+     "year": 1901,
+     "value": 0.8
+    },
+    {
+     "year": 1902,
+     "value": 0.8
+    },
+    {
+     "year": 1905,
+     "value": 0.8
+    },
+    {
+     "year": 1906,
+     "value": 0.8
+    },
+    {
+     "year": 1907,
+     "value": 0.9
+    },
+    {
+     "year": 1908,
+     "value": 0.9
+    },
+    {
+     "year": 1909,
+     "value": 0.9
+    },
+    {
+     "year": 1915,
+     "value": 1.0
+    },
+    {
+     "year": 1916,
+     "value": 1.1
+    },
+    {
+     "year": 1917,
+     "value": 1.2
+    },
+    {
+     "year": 1918,
+     "value": 1.1
+    },
+    {
+     "year": 1919,
+     "value": 1.3
+    },
+    {
+     "year": 1920,
+     "value": 1.6
+    },
+    {
+     "year": 1921,
+     "value": 1.5
+    },
+    {
+     "year": 1922,
+     "value": 1.4
+    },
+    {
+     "year": 1923,
+     "value": 1.5
+    },
+    {
+     "year": 1924,
+     "value": 1.5
+    },
+    {
+     "year": 1925,
+     "value": 1.5
+    },
+    {
+     "year": 1926,
+     "value": 1.6
+    },
+    {
+     "year": 1927,
+     "value": 1.6
+    },
+    {
+     "year": 1928,
+     "value": 1.7
+    },
+    {
+     "year": 1931,
+     "value": 1.5
+    },
+    {
+     "year": 1932,
+     "value": 1.3
+    },
+    {
+     "year": 1933,
+     "value": 1.3
+    },
+    {
+     "year": 1934,
+     "value": 1.6
+    },
+    {
+     "year": 1935,
+     "value": 1.7
+    },
+    {
+     "year": 1936,
+     "value": 1.8
+    },
+    {
+     "year": 1937,
+     "value": 1.9
+    },
+    {
+     "year": 1938,
+     "value": 1.9
+    },
+    {
+     "year": 1939,
+     "value": 1.9
+    },
+    {
+     "year": 1940,
+     "value": 2.0
+    },
+    {
+     "year": 1941,
+     "value": 2.2
+    },
+    {
+     "year": 1942,
+     "value": 2.4
+    },
+    {
+     "year": 1943,
+     "value": 2.6
+    },
+    {
+     "year": 1944,
+     "value": 2.9
+    },
+    {
+     "year": 1945,
+     "value": 3.5
+    },
+    {
+     "year": 1946,
+     "value": 4.3
+    },
+    {
+     "year": 1947,
+     "value": 3.4
+    },
+    {
+     "year": 1948,
+     "value": 2.8
+    },
+    {
+     "year": 1949,
+     "value": 2.7
+    },
+    {
+     "year": 1950,
+     "value": 2.6
+    },
+    {
+     "year": 1951,
+     "value": 2.5
+    },
+    {
+     "year": 1952,
+     "value": 2.5
+    },
+    {
+     "year": 1953,
+     "value": 2.5
+    },
+    {
+     "year": 1954,
+     "value": 2.4
+    },
+    {
+     "year": 1955,
+     "value": 2.3
+    },
+    {
+     "year": 1956,
+     "value": 2.3
+    },
+    {
+     "year": 1957,
+     "value": 2.2
+    },
+    {
+     "year": 1958,
+     "value": 2.1
+    },
+    {
+     "year": 1959,
+     "value": 2.2
+    },
+    {
+     "year": 1960,
+     "value": 2.2
+    },
+    {
+     "year": 1961,
+     "value": 2.3
+    },
+    {
+     "year": 1962,
+     "value": 2.2
+    },
+    {
+     "year": 1963,
+     "value": 2.3
+    },
+    {
+     "year": 1964,
+     "value": 2.4
+    },
+    {
+     "year": 1965,
+     "value": 2.5
+    },
+    {
+     "year": 1966,
+     "value": 2.5
+    },
+    {
+     "year": 1967,
+     "value": 2.6
+    },
+    {
+     "year": 1968,
+     "value": 2.9
+    },
+    {
+     "year": 1969,
+     "value": 3.2
+    },
+    {
+     "year": 1970,
+     "value": 3.5
+    },
+    {
+     "year": 1971,
+     "value": 3.7
+    },
+    {
+     "year": 1972,
+     "value": 4.0
+    },
+    {
+     "year": 1973,
+     "value": 4.3
+    },
+    {
+     "year": 1974,
+     "value": 4.6
+    },
+    {
+     "year": 1975,
+     "value": 4.8
+    },
+    {
+     "year": 1976,
+     "value": 5.0
+    },
+    {
+     "year": 1977,
+     "value": 5.0
+    },
+    {
+     "year": 1978,
+     "value": 5.1
+    },
+    {
+     "year": 1979,
+     "value": 5.3
+    },
+    {
+     "year": 1980,
+     "value": 5.2
+    },
+    {
+     "year": 1981,
+     "value": 5.3
+    },
+    {
+     "year": 1982,
+     "value": 5.1
+    },
+    {
+     "year": 1983,
+     "value": 5.0
+    },
+    {
+     "year": 1984,
+     "value": 5.0
+    },
+    {
+     "year": 1985,
+     "value": 5.0
+    },
+    {
+     "year": 1986,
+     "value": 4.9
+    },
+    {
+     "year": 1987,
+     "value": 4.8
+    },
+    {
+     "year": 1988,
+     "value": 4.8
+    },
+    {
+     "year": 1989,
+     "value": 4.7
+    },
+    {
+     "year": 1990,
+     "value": 4.7
+    },
+    {
+     "year": 1991,
+     "value": 4.7
+    },
+    {
+     "year": 1992,
+     "value": 4.8
+    },
+    {
+     "year": 1993,
+     "value": 4.6
+    },
+    {
+     "year": 1994,
+     "value": 4.6
+    },
+    {
+     "year": 1995,
+     "value": 4.4
+    },
+    {
+     "year": 1996,
+     "value": 4.3
+    },
+    {
+     "year": 1997,
+     "value": 4.3
+    },
+    {
+     "year": 1998,
+     "value": 4.2
+    },
+    {
+     "year": 1999,
+     "value": 4.1
+    },
+    {
+     "year": 2000,
+     "value": 4.0
+    },
+    {
+     "year": 2001,
+     "value": 4.0
+    },
+    {
+     "year": 2002,
+     "value": 3.9
+    },
+    {
+     "year": 2003,
+     "value": 3.8
+    },
+    {
+     "year": 2004,
+     "value": 3.7
+    },
+    {
+     "year": 2005,
+     "value": 3.6
+    },
+    {
+     "year": 2006,
+     "value": 3.7
+    },
+    {
+     "year": 2007,
+     "value": 3.6
+    },
+    {
+     "year": 2008,
+     "value": 3.5
+    },
+    {
+     "year": 2009,
+     "value": 3.5
+    },
+    {
+     "year": 2010,
+     "value": 3.6
+    },
+    {
+     "year": 2011,
+     "value": 3.6
+    },
+    {
+     "year": 2012,
+     "value": 3.4
+    },
+    {
+     "year": 2013,
+     "value": 3.3
+    },
+    {
+     "year": 2014,
+     "value": 3.2
+    },
+    {
+     "year": 2015,
+     "value": 3.1
+    },
+    {
+     "year": 2016,
+     "value": 3.0
+    },
+    {
+     "year": 2017,
+     "value": 2.9
+    },
+    {
+     "year": 2018,
+     "value": 2.9
+    },
+    {
+     "year": 2019,
+     "value": 2.7
+    },
+    {
+     "year": 2020,
+     "value": 2.3
+    },
+    {
+     "year": 2021,
+     "value": 2.5
+    },
+    {
+     "year": 2022,
+     "value": 2.4
+    },
+    {
+     "year": 2023,
+     "value": 2.4
+    }
+   ]
+  },
+  {
+   "id": "crude_marriage_rate",
+   "title_ru": "Общий коэффициент брачности, США",
+   "unit": "браков на 1000 жителей",
+   "source": "NCHS Series 21 No. 24, табл. 1 — 1867–1884; Our World in Data (marriage-rate-per-1000-inhabitants) — 1886–2022; CDC/NCHS NVSS provisional — 2023",
+   "url": "https://ourworldindata.org/grapher/marriage-rate-per-1000-inhabitants",
+   "note": "Склейка источников; значения OWID совпадают с NCHS в пересекающихся годах (напр., 1887 — 8.7; 1946 — 16.4; 2019 — 6.1). В ряду OWID нет ряда лет (1888, 1891, 1900–01, 1911, 1921, 1931, 1941, 1990). Нечитаемые годы 1867–1885 опущены. Пик 16.4 в 1946 г.; минимум 5.1 в 2020 г. (COVID).",
+   "points": [
+    {
+     "year": 1867,
+     "value": 9.6
+    },
+    {
+     "year": 1868,
+     "value": 9.0
+    },
+    {
+     "year": 1869,
+     "value": 8.9
+    },
+    {
+     "year": 1870,
+     "value": 8.8
+    },
+    {
+     "year": 1871,
+     "value": 8.8
+    },
+    {
+     "year": 1872,
+     "value": 9.0
+    },
+    {
+     "year": 1873,
+     "value": 9.0
+    },
+    {
+     "year": 1876,
+     "value": 8.8
+    },
+    {
+     "year": 1881,
+     "value": 9.0
+    },
+    {
+     "year": 1882,
+     "value": 9.2
+    },
+    {
+     "year": 1883,
+     "value": 9.3
+    },
+    {
+     "year": 1884,
+     "value": 8.8
+    },
+    {
+     "year": 1886,
+     "value": 9.2
+    },
+    {
+     "year": 1887,
+     "value": 8.7
+    },
+    {
+     "year": 1889,
+     "value": 9.1
+    },
+    {
+     "year": 1890,
+     "value": 9.0
+    },
+    {
+     "year": 1892,
+     "value": 9.2
+    },
+    {
+     "year": 1893,
+     "value": 9.0
+    },
+    {
+     "year": 1894,
+     "value": 8.6
+    },
+    {
+     "year": 1895,
+     "value": 8.9
+    },
+    {
+     "year": 1896,
+     "value": 9.0
+    },
+    {
+     "year": 1897,
+     "value": 8.9
+    },
+    {
+     "year": 1898,
+     "value": 8.8
+    },
+    {
+     "year": 1899,
+     "value": 9.0
+    },
+    {
+     "year": 1902,
+     "value": 9.8
+    },
+    {
+     "year": 1903,
+     "value": 10.1
+    },
+    {
+     "year": 1904,
+     "value": 9.9
+    },
+    {
+     "year": 1905,
+     "value": 10.0
+    },
+    {
+     "year": 1906,
+     "value": 10.5
+    },
+    {
+     "year": 1907,
+     "value": 10.8
+    },
+    {
+     "year": 1908,
+     "value": 9.7
+    },
+    {
+     "year": 1909,
+     "value": 9.9
+    },
+    {
+     "year": 1910,
+     "value": 10.3
+    },
+    {
+     "year": 1912,
+     "value": 10.5
+    },
+    {
+     "year": 1913,
+     "value": 10.5
+    },
+    {
+     "year": 1914,
+     "value": 10.3
+    },
+    {
+     "year": 1915,
+     "value": 10.0
+    },
+    {
+     "year": 1916,
+     "value": 10.6
+    },
+    {
+     "year": 1917,
+     "value": 11.1
+    },
+    {
+     "year": 1918,
+     "value": 9.7
+    },
+    {
+     "year": 1919,
+     "value": 11.0
+    },
+    {
+     "year": 1920,
+     "value": 12.0
+    },
+    {
+     "year": 1922,
+     "value": 10.3
+    },
+    {
+     "year": 1923,
+     "value": 11.0
+    },
+    {
+     "year": 1924,
+     "value": 10.4
+    },
+    {
+     "year": 1925,
+     "value": 10.3
+    },
+    {
+     "year": 1926,
+     "value": 10.2
+    },
+    {
+     "year": 1927,
+     "value": 10.1
+    },
+    {
+     "year": 1928,
+     "value": 9.8
+    },
+    {
+     "year": 1929,
+     "value": 10.1
+    },
+    {
+     "year": 1930,
+     "value": 9.2
+    },
+    {
+     "year": 1932,
+     "value": 7.9
+    },
+    {
+     "year": 1933,
+     "value": 8.7
+    },
+    {
+     "year": 1934,
+     "value": 10.3
+    },
+    {
+     "year": 1935,
+     "value": 10.4
+    },
+    {
+     "year": 1936,
+     "value": 10.7
+    },
+    {
+     "year": 1937,
+     "value": 11.3
+    },
+    {
+     "year": 1938,
+     "value": 10.3
+    },
+    {
+     "year": 1939,
+     "value": 10.7
+    },
+    {
+     "year": 1940,
+     "value": 12.1
+    },
+    {
+     "year": 1942,
+     "value": 13.2
+    },
+    {
+     "year": 1943,
+     "value": 11.8
+    },
+    {
+     "year": 1944,
+     "value": 11.0
+    },
+    {
+     "year": 1945,
+     "value": 12.1
+    },
+    {
+     "year": 1946,
+     "value": 16.4
+    },
+    {
+     "year": 1947,
+     "value": 13.9
+    },
+    {
+     "year": 1948,
+     "value": 12.4
+    },
+    {
+     "year": 1949,
+     "value": 10.6
+    },
+    {
+     "year": 1950,
+     "value": 11.1
+    },
+    {
+     "year": 1951,
+     "value": 10.4
+    },
+    {
+     "year": 1952,
+     "value": 9.9
+    },
+    {
+     "year": 1953,
+     "value": 9.8
+    },
+    {
+     "year": 1954,
+     "value": 9.2
+    },
+    {
+     "year": 1955,
+     "value": 9.3
+    },
+    {
+     "year": 1956,
+     "value": 9.5
+    },
+    {
+     "year": 1957,
+     "value": 8.9
+    },
+    {
+     "year": 1958,
+     "value": 8.4
+    },
+    {
+     "year": 1959,
+     "value": 8.5
+    },
+    {
+     "year": 1960,
+     "value": 8.5
+    },
+    {
+     "year": 1961,
+     "value": 8.5
+    },
+    {
+     "year": 1962,
+     "value": 8.5
+    },
+    {
+     "year": 1963,
+     "value": 8.8
+    },
+    {
+     "year": 1964,
+     "value": 9.0
+    },
+    {
+     "year": 1965,
+     "value": 9.3
+    },
+    {
+     "year": 1966,
+     "value": 9.5
+    },
+    {
+     "year": 1967,
+     "value": 9.7
+    },
+    {
+     "year": 1968,
+     "value": 10.4
+    },
+    {
+     "year": 1969,
+     "value": 10.6
+    },
+    {
+     "year": 1970,
+     "value": 10.6
+    },
+    {
+     "year": 1971,
+     "value": 10.6
+    },
+    {
+     "year": 1972,
+     "value": 10.9
+    },
+    {
+     "year": 1973,
+     "value": 10.8
+    },
+    {
+     "year": 1974,
+     "value": 10.5
+    },
+    {
+     "year": 1975,
+     "value": 10.0
+    },
+    {
+     "year": 1976,
+     "value": 9.9
+    },
+    {
+     "year": 1977,
+     "value": 9.9
+    },
+    {
+     "year": 1978,
+     "value": 10.3
+    },
+    {
+     "year": 1979,
+     "value": 10.4
+    },
+    {
+     "year": 1980,
+     "value": 10.6
+    },
+    {
+     "year": 1981,
+     "value": 10.6
+    },
+    {
+     "year": 1982,
+     "value": 10.6
+    },
+    {
+     "year": 1983,
+     "value": 10.5
+    },
+    {
+     "year": 1984,
+     "value": 10.5
+    },
+    {
+     "year": 1985,
+     "value": 10.1
+    },
+    {
+     "year": 1986,
+     "value": 10.0
+    },
+    {
+     "year": 1987,
+     "value": 9.9
+    },
+    {
+     "year": 1988,
+     "value": 9.8
+    },
+    {
+     "year": 1989,
+     "value": 9.7
+    },
+    {
+     "year": 1991,
+     "value": 9.2
+    },
+    {
+     "year": 1992,
+     "value": 9.0
+    },
+    {
+     "year": 1993,
+     "value": 9.1
+    },
+    {
+     "year": 1994,
+     "value": 8.9
+    },
+    {
+     "year": 1995,
+     "value": 8.9
+    },
+    {
+     "year": 1996,
+     "value": 8.8
+    },
+    {
+     "year": 1997,
+     "value": 8.9
+    },
+    {
+     "year": 1998,
+     "value": 8.3
+    },
+    {
+     "year": 1999,
+     "value": 8.6
+    },
+    {
+     "year": 2000,
+     "value": 8.2
+    },
+    {
+     "year": 2001,
+     "value": 8.2
+    },
+    {
+     "year": 2002,
+     "value": 8.0
+    },
+    {
+     "year": 2003,
+     "value": 7.7
+    },
+    {
+     "year": 2004,
+     "value": 7.8
+    },
+    {
+     "year": 2005,
+     "value": 7.6
+    },
+    {
+     "year": 2006,
+     "value": 7.5
+    },
+    {
+     "year": 2007,
+     "value": 7.3
+    },
+    {
+     "year": 2008,
+     "value": 7.1
+    },
+    {
+     "year": 2009,
+     "value": 6.8
+    },
+    {
+     "year": 2010,
+     "value": 6.8
+    },
+    {
+     "year": 2011,
+     "value": 6.8
+    },
+    {
+     "year": 2012,
+     "value": 6.8
+    },
+    {
+     "year": 2013,
+     "value": 6.8
+    },
+    {
+     "year": 2014,
+     "value": 6.9
+    },
+    {
+     "year": 2015,
+     "value": 6.9
+    },
+    {
+     "year": 2016,
+     "value": 7.0
+    },
+    {
+     "year": 2017,
+     "value": 6.9
+    },
+    {
+     "year": 2018,
+     "value": 6.5
+    },
+    {
+     "year": 2019,
+     "value": 6.1
+    },
+    {
+     "year": 2020,
+     "value": 5.1
+    },
+    {
+     "year": 2021,
+     "value": 6.0
+    },
+    {
+     "year": 2022,
+     "value": 6.2
+    },
+    {
+     "year": 2023,
+     "value": 6.1
+    }
+   ]
+  },
+  {
+   "id": "refined_divorce_rate_women",
+   "title_ru": "Уточнённый коэффициент разводимости (женщины)",
+   "unit": "разводов на 1000 замужних женщин 15+",
+   "source": "NCFMR FP-24-11 — 1900; NCHS MVSR 43(9)S, табл. 1 — 1940–1990; NCFMR «Charting Marriage & Divorce: Refined Divorce Rate» (ACS 1-year, B12503/B12001) — 2008–2024",
+   "url": "https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/NCFMR/documents/RBT/chart-mar-div-2024-div-ud-2025-09-19-kkp.pdf",
+   "note": "Разрыв 1991–2007: NCHS прекратила детальную статистику разводов после 1996 г., ACS спрашивает о разводах с 2008 г. 1940–1990 — административные данные (регистрация), 2008–2024 — самоотчёт в опросе ACS (женщины, разведшиеся за 12 мес.); Kennedy & Ruggles (2014) показывают, что ряды не вполне сопоставимы. 2020 — экспериментальные PUMS. Пик 22.6 в 1979–1981 гг. Доп. URL: https://www.cdc.gov/nchs/data/mvsr/supp/mv43_09s.pdf ; https://doi.org/10.25035/ncfmr/fp-24-11",
+   "points": [
+    {
+     "year": 1900,
+     "value": 4.1
+    },
+    {
+     "year": 1940,
+     "value": 8.8
+    },
+    {
+     "year": 1941,
+     "value": 9.4
+    },
+    {
+     "year": 1942,
+     "value": 10.1
+    },
+    {
+     "year": 1943,
+     "value": 11.0
+    },
+    {
+     "year": 1944,
+     "value": 12.0
+    },
+    {
+     "year": 1945,
+     "value": 14.4
+    },
+    {
+     "year": 1946,
+     "value": 17.9
+    },
+    {
+     "year": 1947,
+     "value": 13.6
+    },
+    {
+     "year": 1948,
+     "value": 11.2
+    },
+    {
+     "year": 1949,
+     "value": 10.6
+    },
+    {
+     "year": 1950,
+     "value": 10.3
+    },
+    {
+     "year": 1951,
+     "value": 9.9
+    },
+    {
+     "year": 1952,
+     "value": 10.1
+    },
+    {
+     "year": 1953,
+     "value": 9.9
+    },
+    {
+     "year": 1954,
+     "value": 9.5
+    },
+    {
+     "year": 1955,
+     "value": 9.3
+    },
+    {
+     "year": 1956,
+     "value": 9.4
+    },
+    {
+     "year": 1957,
+     "value": 9.2
+    },
+    {
+     "year": 1958,
+     "value": 8.9
+    },
+    {
+     "year": 1959,
+     "value": 9.3
+    },
+    {
+     "year": 1960,
+     "value": 9.2
+    },
+    {
+     "year": 1961,
+     "value": 9.6
+    },
+    {
+     "year": 1962,
+     "value": 9.4
+    },
+    {
+     "year": 1963,
+     "value": 9.6
+    },
+    {
+     "year": 1964,
+     "value": 10.0
+    },
+    {
+     "year": 1965,
+     "value": 10.6
+    },
+    {
+     "year": 1966,
+     "value": 10.9
+    },
+    {
+     "year": 1967,
+     "value": 11.2
+    },
+    {
+     "year": 1968,
+     "value": 12.5
+    },
+    {
+     "year": 1969,
+     "value": 13.4
+    },
+    {
+     "year": 1970,
+     "value": 14.9
+    },
+    {
+     "year": 1971,
+     "value": 15.8
+    },
+    {
+     "year": 1972,
+     "value": 17.0
+    },
+    {
+     "year": 1973,
+     "value": 18.2
+    },
+    {
+     "year": 1974,
+     "value": 19.3
+    },
+    {
+     "year": 1975,
+     "value": 20.3
+    },
+    {
+     "year": 1976,
+     "value": 21.1
+    },
+    {
+     "year": 1977,
+     "value": 21.1
+    },
+    {
+     "year": 1978,
+     "value": 21.9
+    },
+    {
+     "year": 1979,
+     "value": 22.6
+    },
+    {
+     "year": 1980,
+     "value": 22.6
+    },
+    {
+     "year": 1981,
+     "value": 22.6
+    },
+    {
+     "year": 1982,
+     "value": 21.7
+    },
+    {
+     "year": 1983,
+     "value": 21.3
+    },
+    {
+     "year": 1984,
+     "value": 21.5
+    },
+    {
+     "year": 1985,
+     "value": 21.7
+    },
+    {
+     "year": 1986,
+     "value": 21.2
+    },
+    {
+     "year": 1987,
+     "value": 20.8
+    },
+    {
+     "year": 1988,
+     "value": 20.7
+    },
+    {
+     "year": 1989,
+     "value": 20.4
+    },
+    {
+     "year": 1990,
+     "value": 20.9
+    },
+    {
+     "year": 2008,
+     "value": 20.5
+    },
+    {
+     "year": 2009,
+     "value": 19.1
+    },
+    {
+     "year": 2010,
+     "value": 19.4
+    },
+    {
+     "year": 2011,
+     "value": 19.4
+    },
+    {
+     "year": 2012,
+     "value": 19.6
+    },
+    {
+     "year": 2013,
+     "value": 18.5
+    },
+    {
+     "year": 2014,
+     "value": 17.6
+    },
+    {
+     "year": 2015,
+     "value": 16.9
+    },
+    {
+     "year": 2016,
+     "value": 16.7
+    },
+    {
+     "year": 2017,
+     "value": 16.1
+    },
+    {
+     "year": 2018,
+     "value": 15.7
+    },
+    {
+     "year": 2019,
+     "value": 15.5
+    },
+    {
+     "year": 2020,
+     "value": 14.0
+    },
+    {
+     "year": 2021,
+     "value": 14.0
+    },
+    {
+     "year": 2022,
+     "value": 14.6
+    },
+    {
+     "year": 2023,
+     "value": 14.1
+    },
+    {
+     "year": 2024,
+     "value": 14.2
+    }
+   ]
+  },
+  {
+   "id": "refined_divorce_rate_men_acs",
+   "title_ru": "Уточнённый коэффициент разводимости (мужчины), ACS",
+   "unit": "разводов на 1000 женатых мужчин 15+",
+   "source": "NCFMR «Charting Marriage & Divorce in the U.S.: The Refined Divorce Rate», табл. 1 (ACS 1-year, B12503/B12001)",
+   "url": "https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/NCFMR/documents/RBT/chart-mar-div-2024-div-ud-2025-09-19-kkp.pdf",
+   "note": "2020 — экспериментальные PUMS. Совокупно для мужчин и женщин: 19.4 (2008) → 13.3 (2024).",
+   "points": [
+    {
+     "year": 2008,
+     "value": 18.2
+    },
+    {
+     "year": 2009,
+     "value": 17.0
+    },
+    {
+     "year": 2010,
+     "value": 17.2
+    },
+    {
+     "year": 2011,
+     "value": 17.7
+    },
+    {
+     "year": 2012,
+     "value": 17.6
+    },
+    {
+     "year": 2013,
+     "value": 16.5
+    },
+    {
+     "year": 2014,
+     "value": 15.6
+    },
+    {
+     "year": 2015,
+     "value": 15.3
+    },
+    {
+     "year": 2016,
+     "value": 15.1
+    },
+    {
+     "year": 2017,
+     "value": 14.6
+    },
+    {
+     "year": 2018,
+     "value": 14.1
+    },
+    {
+     "year": 2019,
+     "value": 13.9
+    },
+    {
+     "year": 2020,
+     "value": 12.6
+    },
+    {
+     "year": 2021,
+     "value": 12.8
+    },
+    {
+     "year": 2022,
+     "value": 12.7
+    },
+    {
+     "year": 2023,
+     "value": 12.7
+    },
+    {
+     "year": 2024,
+     "value": 12.4
+    }
+   ]
+  },
+  {
+   "id": "divorces_per_1000_marriages",
+   "title_ru": "Разводов на 1000 браков того же года (по десятилетиям)",
+   "unit": "разводов на 1000 заключённых браков",
+   "source": "Расчёт по абсолютным числам NCHS Series 21 No. 24, табл. 1 (1870–1960) и Statistical Abstract 2012, табл. 78 (1970–1990)",
+   "url": "https://www.cdc.gov/nchs/data/series/sr_21/sr21_024.pdf",
+   "note": "Производный показатель (делим число разводов на число браков того же года), это не доля распавшихся браков. После 1990 г. не считается: с 1998 г. в числе разводов нет нескольких штатов. Для сравнения: в 2024 г. по ACS 2 390 482 брака женщин на 986 810 разводов (соотношение 2.42, т.е. ≈413 разводов на 1000 браков; NCFMR FP-25-32).",
+   "points": [
+    {
+     "year": 1870,
+     "value": 31
+    },
+    {
+     "year": 1880,
+     "value": 44
+    },
+    {
+     "year": 1890,
+     "value": 58
+    },
+    {
+     "year": 1900,
+     "value": 79
+    },
+    {
+     "year": 1910,
+     "value": 88
+    },
+    {
+     "year": 1920,
+     "value": 134
+    },
+    {
+     "year": 1930,
+     "value": 174
+    },
+    {
+     "year": 1940,
+     "value": 165
+    },
+    {
+     "year": 1950,
+     "value": 231
+    },
+    {
+     "year": 1960,
+     "value": 258
+    },
+    {
+     "year": 1970,
+     "value": 328
+    },
+    {
+     "year": 1980,
+     "value": 497
+    },
+    {
+     "year": 1990,
+     "value": 484
+    }
+   ]
+  },
+  {
+   "id": "median_age_first_marriage_men",
+   "title_ru": "Медианный возраст первого брака, мужчины",
+   "unit": "лет",
+   "source": "U.S. Census Bureau, Table MS-2 (переписи 1890–1940, CPS ASEC 1947–2025)",
+   "url": "https://www2.census.gov/programs-surveys/demo/tables/families/time-series/marital/ms2.xls",
+   "note": "Для 2011 и 2021 гг. взяты пересмотренные значения (r). С 2019 г. включены однополые пары. Контекст: откладывание брака — одно из объяснений снижения разводимости. ACS 2024 даёт 30.8 (м) / 28.8 (ж) — другой источник.",
+   "points": [
+    {
+     "year": 1890,
+     "value": 26.1
+    },
+    {
+     "year": 1900,
+     "value": 25.9
+    },
+    {
+     "year": 1910,
+     "value": 25.1
+    },
+    {
+     "year": 1920,
+     "value": 24.6
+    },
+    {
+     "year": 1930,
+     "value": 24.3
+    },
+    {
+     "year": 1940,
+     "value": 24.3
+    },
+    {
+     "year": 1947,
+     "value": 23.7
+    },
+    {
+     "year": 1948,
+     "value": 23.3
+    },
+    {
+     "year": 1949,
+     "value": 22.7
+    },
+    {
+     "year": 1950,
+     "value": 22.8
+    },
+    {
+     "year": 1951,
+     "value": 22.9
+    },
+    {
+     "year": 1952,
+     "value": 23.0
+    },
+    {
+     "year": 1953,
+     "value": 22.8
+    },
+    {
+     "year": 1954,
+     "value": 23.0
+    },
+    {
+     "year": 1955,
+     "value": 22.6
+    },
+    {
+     "year": 1956,
+     "value": 22.5
+    },
+    {
+     "year": 1957,
+     "value": 22.6
+    },
+    {
+     "year": 1958,
+     "value": 22.6
+    },
+    {
+     "year": 1959,
+     "value": 22.5
+    },
+    {
+     "year": 1960,
+     "value": 22.8
+    },
+    {
+     "year": 1961,
+     "value": 22.8
+    },
+    {
+     "year": 1962,
+     "value": 22.7
+    },
+    {
+     "year": 1963,
+     "value": 22.8
+    },
+    {
+     "year": 1964,
+     "value": 23.1
+    },
+    {
+     "year": 1965,
+     "value": 22.8
+    },
+    {
+     "year": 1966,
+     "value": 22.8
+    },
+    {
+     "year": 1967,
+     "value": 23.1
+    },
+    {
+     "year": 1968,
+     "value": 23.1
+    },
+    {
+     "year": 1969,
+     "value": 23.2
+    },
+    {
+     "year": 1970,
+     "value": 23.2
+    },
+    {
+     "year": 1971,
+     "value": 23.1
+    },
+    {
+     "year": 1972,
+     "value": 23.3
+    },
+    {
+     "year": 1973,
+     "value": 23.2
+    },
+    {
+     "year": 1974,
+     "value": 23.1
+    },
+    {
+     "year": 1975,
+     "value": 23.5
+    },
+    {
+     "year": 1976,
+     "value": 23.8
+    },
+    {
+     "year": 1977,
+     "value": 24.0
+    },
+    {
+     "year": 1978,
+     "value": 24.2
+    },
+    {
+     "year": 1979,
+     "value": 24.4
+    },
+    {
+     "year": 1980,
+     "value": 24.7
+    },
+    {
+     "year": 1981,
+     "value": 24.8
+    },
+    {
+     "year": 1982,
+     "value": 25.2
+    },
+    {
+     "year": 1983,
+     "value": 25.4
+    },
+    {
+     "year": 1984,
+     "value": 25.4
+    },
+    {
+     "year": 1985,
+     "value": 25.5
+    },
+    {
+     "year": 1986,
+     "value": 25.7
+    },
+    {
+     "year": 1987,
+     "value": 25.8
+    },
+    {
+     "year": 1988,
+     "value": 25.9
+    },
+    {
+     "year": 1989,
+     "value": 26.2
+    },
+    {
+     "year": 1990,
+     "value": 26.1
+    },
+    {
+     "year": 1991,
+     "value": 26.3
+    },
+    {
+     "year": 1992,
+     "value": 26.5
+    },
+    {
+     "year": 1993,
+     "value": 26.5
+    },
+    {
+     "year": 1994,
+     "value": 26.7
+    },
+    {
+     "year": 1995,
+     "value": 26.9
+    },
+    {
+     "year": 1996,
+     "value": 27.1
+    },
+    {
+     "year": 1997,
+     "value": 26.8
+    },
+    {
+     "year": 1998,
+     "value": 26.7
+    },
+    {
+     "year": 1999,
+     "value": 26.9
+    },
+    {
+     "year": 2000,
+     "value": 26.8
+    },
+    {
+     "year": 2001,
+     "value": 26.9
+    },
+    {
+     "year": 2002,
+     "value": 26.9
+    },
+    {
+     "year": 2003,
+     "value": 27.1
+    },
+    {
+     "year": 2004,
+     "value": 27.4
+    },
+    {
+     "year": 2005,
+     "value": 27.1
+    },
+    {
+     "year": 2006,
+     "value": 27.5
+    },
+    {
+     "year": 2007,
+     "value": 27.5
+    },
+    {
+     "year": 2008,
+     "value": 27.6
+    },
+    {
+     "year": 2009,
+     "value": 28.1
+    },
+    {
+     "year": 2010,
+     "value": 28.2
+    },
+    {
+     "year": 2011,
+     "value": 28.4
+    },
+    {
+     "year": 2012,
+     "value": 28.6
+    },
+    {
+     "year": 2013,
+     "value": 29.0
+    },
+    {
+     "year": 2014,
+     "value": 29.3
+    },
+    {
+     "year": 2015,
+     "value": 29.2
+    },
+    {
+     "year": 2016,
+     "value": 29.5
+    },
+    {
+     "year": 2017,
+     "value": 29.5
+    },
+    {
+     "year": 2018,
+     "value": 29.8
+    },
+    {
+     "year": 2019,
+     "value": 29.8
+    },
+    {
+     "year": 2020,
+     "value": 30.5
+    },
+    {
+     "year": 2021,
+     "value": 30.3
+    },
+    {
+     "year": 2022,
+     "value": 30.1
+    },
+    {
+     "year": 2023,
+     "value": 30.2
+    },
+    {
+     "year": 2024,
+     "value": 30.2
+    },
+    {
+     "year": 2025,
+     "value": 30.8
+    }
+   ]
+  },
+  {
+   "id": "median_age_first_marriage_women",
+   "title_ru": "Медианный возраст первого брака, женщины",
+   "unit": "лет",
+   "source": "U.S. Census Bureau, Table MS-2 (переписи 1890–1940, CPS ASEC 1947–2025)",
+   "url": "https://www2.census.gov/programs-surveys/demo/tables/families/time-series/marital/ms2.xls",
+   "note": "Для 2011 и 2021 гг. взяты пересмотренные значения (r). Минимум 20.1 в 1956 г.",
+   "points": [
+    {
+     "year": 1890,
+     "value": 22.0
+    },
+    {
+     "year": 1900,
+     "value": 21.9
+    },
+    {
+     "year": 1910,
+     "value": 21.6
+    },
+    {
+     "year": 1920,
+     "value": 21.2
+    },
+    {
+     "year": 1930,
+     "value": 21.3
+    },
+    {
+     "year": 1940,
+     "value": 21.5
+    },
+    {
+     "year": 1947,
+     "value": 20.5
+    },
+    {
+     "year": 1948,
+     "value": 20.4
+    },
+    {
+     "year": 1949,
+     "value": 20.3
+    },
+    {
+     "year": 1950,
+     "value": 20.3
+    },
+    {
+     "year": 1951,
+     "value": 20.4
+    },
+    {
+     "year": 1952,
+     "value": 20.2
+    },
+    {
+     "year": 1953,
+     "value": 20.2
+    },
+    {
+     "year": 1954,
+     "value": 20.3
+    },
+    {
+     "year": 1955,
+     "value": 20.2
+    },
+    {
+     "year": 1956,
+     "value": 20.1
+    },
+    {
+     "year": 1957,
+     "value": 20.3
+    },
+    {
+     "year": 1958,
+     "value": 20.2
+    },
+    {
+     "year": 1959,
+     "value": 20.2
+    },
+    {
+     "year": 1960,
+     "value": 20.3
+    },
+    {
+     "year": 1961,
+     "value": 20.3
+    },
+    {
+     "year": 1962,
+     "value": 20.3
+    },
+    {
+     "year": 1963,
+     "value": 20.5
+    },
+    {
+     "year": 1964,
+     "value": 20.5
+    },
+    {
+     "year": 1965,
+     "value": 20.6
+    },
+    {
+     "year": 1966,
+     "value": 20.5
+    },
+    {
+     "year": 1967,
+     "value": 20.6
+    },
+    {
+     "year": 1968,
+     "value": 20.8
+    },
+    {
+     "year": 1969,
+     "value": 20.8
+    },
+    {
+     "year": 1970,
+     "value": 20.8
+    },
+    {
+     "year": 1971,
+     "value": 20.9
+    },
+    {
+     "year": 1972,
+     "value": 20.9
+    },
+    {
+     "year": 1973,
+     "value": 21.0
+    },
+    {
+     "year": 1974,
+     "value": 21.1
+    },
+    {
+     "year": 1975,
+     "value": 21.1
+    },
+    {
+     "year": 1976,
+     "value": 21.3
+    },
+    {
+     "year": 1977,
+     "value": 21.6
+    },
+    {
+     "year": 1978,
+     "value": 21.8
+    },
+    {
+     "year": 1979,
+     "value": 22.1
+    },
+    {
+     "year": 1980,
+     "value": 22.0
+    },
+    {
+     "year": 1981,
+     "value": 22.3
+    },
+    {
+     "year": 1982,
+     "value": 22.5
+    },
+    {
+     "year": 1983,
+     "value": 22.8
+    },
+    {
+     "year": 1984,
+     "value": 23.0
+    },
+    {
+     "year": 1985,
+     "value": 23.3
+    },
+    {
+     "year": 1986,
+     "value": 23.1
+    },
+    {
+     "year": 1987,
+     "value": 23.6
+    },
+    {
+     "year": 1988,
+     "value": 23.6
+    },
+    {
+     "year": 1989,
+     "value": 23.8
+    },
+    {
+     "year": 1990,
+     "value": 23.9
+    },
+    {
+     "year": 1991,
+     "value": 24.1
+    },
+    {
+     "year": 1992,
+     "value": 24.4
+    },
+    {
+     "year": 1993,
+     "value": 24.5
+    },
+    {
+     "year": 1994,
+     "value": 24.5
+    },
+    {
+     "year": 1995,
+     "value": 24.5
+    },
+    {
+     "year": 1996,
+     "value": 24.8
+    },
+    {
+     "year": 1997,
+     "value": 25.0
+    },
+    {
+     "year": 1998,
+     "value": 25.0
+    },
+    {
+     "year": 1999,
+     "value": 25.1
+    },
+    {
+     "year": 2000,
+     "value": 25.1
+    },
+    {
+     "year": 2001,
+     "value": 25.1
+    },
+    {
+     "year": 2002,
+     "value": 25.3
+    },
+    {
+     "year": 2003,
+     "value": 25.3
+    },
+    {
+     "year": 2004,
+     "value": 25.3
+    },
+    {
+     "year": 2005,
+     "value": 25.3
+    },
+    {
+     "year": 2006,
+     "value": 25.5
+    },
+    {
+     "year": 2007,
+     "value": 25.6
+    },
+    {
+     "year": 2008,
+     "value": 25.9
+    },
+    {
+     "year": 2009,
+     "value": 25.9
+    },
+    {
+     "year": 2010,
+     "value": 26.1
+    },
+    {
+     "year": 2011,
+     "value": 26.4
+    },
+    {
+     "year": 2012,
+     "value": 26.6
+    },
+    {
+     "year": 2013,
+     "value": 26.6
+    },
+    {
+     "year": 2014,
+     "value": 27.0
+    },
+    {
+     "year": 2015,
+     "value": 27.1
+    },
+    {
+     "year": 2016,
+     "value": 27.4
+    },
+    {
+     "year": 2017,
+     "value": 27.4
+    },
+    {
+     "year": 2018,
+     "value": 27.8
+    },
+    {
+     "year": 2019,
+     "value": 28.0
+    },
+    {
+     "year": 2020,
+     "value": 28.1
+    },
+    {
+     "year": 2021,
+     "value": 28.6
+    },
+    {
+     "year": 2022,
+     "value": 28.2
+    },
+    {
+     "year": 2023,
+     "value": 28.4
+    },
+    {
+     "year": 2024,
+     "value": 28.6
+    },
+    {
+     "year": 2025,
+     "value": 28.4
+    }
+   ]
+  },
+  {
+   "id": "median_age_first_divorce_men",
+   "title_ru": "Медианный возраст при разводе из первого брака, мужчины",
+   "unit": "лет",
+   "source": "NCHS MVSR 43(9)S, табл. 7 (зона регистрации разводов, 1970–1990); NCFMR FP-25-23 (ACS 2023)",
+   "url": "https://www.cdc.gov/nchs/data/mvsr/supp/mv43_09s.pdf",
+   "note": "1970–1990 — возраст на момент решения суда по первым бракам в штатах зоны регистрации (DRA); 2023 — ACS, первые разводы за 12 мес. Промежуточные годы ACS (2008–2020) есть лишь на графике NCFMR без однозначных подписей, поэтому не включены. Доп. URL: https://doi.org/10.25035/ncfmr/fp-25-23",
+   "points": [
+    {
+     "year": 1970,
+     "value": 30.5
+    },
+    {
+     "year": 1971,
+     "value": 30.5
+    },
+    {
+     "year": 1972,
+     "value": 30.4
+    },
+    {
+     "year": 1973,
+     "value": 30.4
+    },
+    {
+     "year": 1974,
+     "value": 30.2
+    },
+    {
+     "year": 1975,
+     "value": 30.1
+    },
+    {
+     "year": 1976,
+     "value": 30.2
+    },
+    {
+     "year": 1977,
+     "value": 30.5
+    },
+    {
+     "year": 1978,
+     "value": 30.5
+    },
+    {
+     "year": 1979,
+     "value": 30.8
+    },
+    {
+     "year": 1980,
+     "value": 31.0
+    },
+    {
+     "year": 1981,
+     "value": 31.4
+    },
+    {
+     "year": 1982,
+     "value": 31.7
+    },
+    {
+     "year": 1983,
+     "value": 32.1
+    },
+    {
+     "year": 1984,
+     "value": 32.2
+    },
+    {
+     "year": 1985,
+     "value": 32.2
+    },
+    {
+     "year": 1986,
+     "value": 32.4
+    },
+    {
+     "year": 1987,
+     "value": 32.6
+    },
+    {
+     "year": 1988,
+     "value": 32.7
+    },
+    {
+     "year": 1989,
+     "value": 32.9
+    },
+    {
+     "year": 1990,
+     "value": 33.2
+    },
+    {
+     "year": 2023,
+     "value": 43.3
+    }
+   ]
+  },
+  {
+   "id": "median_age_first_divorce_women",
+   "title_ru": "Медианный возраст при разводе из первого брака, женщины",
+   "unit": "лет",
+   "source": "NCHS MVSR 43(9)S, табл. 7 (1970–1990); NCFMR FP-25-23 (ACS 2023)",
+   "url": "https://www.cdc.gov/nchs/data/mvsr/supp/mv43_09s.pdf",
+   "note": "См. примечание к ряду для мужчин. Доп. URL: https://doi.org/10.25035/ncfmr/fp-25-23",
+   "points": [
+    {
+     "year": 1970,
+     "value": 27.7
+    },
+    {
+     "year": 1971,
+     "value": 27.7
+    },
+    {
+     "year": 1972,
+     "value": 27.9
+    },
+    {
+     "year": 1973,
+     "value": 27.8
+    },
+    {
+     "year": 1974,
+     "value": 27.7
+    },
+    {
+     "year": 1975,
+     "value": 27.9
+    },
+    {
+     "year": 1976,
+     "value": 28.1
+    },
+    {
+     "year": 1977,
+     "value": 28.2
+    },
+    {
+     "year": 1978,
+     "value": 28.3
+    },
+    {
+     "year": 1979,
+     "value": 28.6
+    },
+    {
+     "year": 1980,
+     "value": 28.8
+    },
+    {
+     "year": 1981,
+     "value": 29.1
+    },
+    {
+     "year": 1982,
+     "value": 29.5
+    },
+    {
+     "year": 1983,
+     "value": 29.8
+    },
+    {
+     "year": 1984,
+     "value": 30.0
+    },
+    {
+     "year": 1985,
+     "value": 30.0
+    },
+    {
+     "year": 1986,
+     "value": 30.2
+    },
+    {
+     "year": 1987,
+     "value": 30.5
+    },
+    {
+     "year": 1988,
+     "value": 30.6
+    },
+    {
+     "year": 1989,
+     "value": 30.9
+    },
+    {
+     "year": 1990,
+     "value": 31.1
+    },
+    {
+     "year": 2023,
+     "value": 41.9
+    }
+   ]
+  }
+ ],
+ "breakdowns": [
+  {
+   "title_ru": "Уточнённый коэффициент разводимости по возрасту, 1990",
+   "year": 1990,
+   "unit": "разводов на 1000 состоящих в браке (оба пола)",
+   "items": [
+    {
+     "label": "Всего",
+     "value": 19.0
+    },
+    {
+     "label": "15–24",
+     "value": 47.2
+    },
+    {
+     "label": "25–34",
+     "value": 33.3
+    },
+    {
+     "label": "35–44",
+     "value": 22.6
+    },
+    {
+     "label": "45–54",
+     "value": 13.1
+    },
+    {
+     "label": "55–64",
+     "value": 5.1
+    },
+    {
+     "label": "65+",
+     "value": 1.8
+    }
+   ],
+   "source": "NCFMR FP-25-24 (Westrick-Payne 2025), по данным NCHS 1990",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-24",
+   "note": null
+  },
+  {
+   "title_ru": "Уточнённый коэффициент разводимости по возрасту, 2023",
+   "year": 2023,
+   "unit": "разводов на 1000 состоящих в браке (оба пола)",
+   "items": [
+    {
+     "label": "Всего",
+     "value": 13.7
+    },
+    {
+     "label": "15–24",
+     "value": 19.2
+    },
+    {
+     "label": "25–34",
+     "value": 18.7
+    },
+    {
+     "label": "35–44",
+     "value": 18.3
+    },
+    {
+     "label": "45–54",
+     "value": 16.7
+    },
+    {
+     "label": "55–64",
+     "value": 11.4
+    },
+    {
+     "label": "65+",
+     "value": 6.1
+    }
+   ],
+   "source": "NCFMR FP-25-24 (ACS 2023, IPUMS)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-24",
+   "note": "С 1990 г. разводимость снизилась в 15–44 и выросла в 45+; в 65+ более чем утроилась. Разрыв между 15–24 и 65+ сократился с 45.4 до 13.1."
+  },
+  {
+   "title_ru": "Коэффициент развода из первого брака по полу и возрасту, 2023",
+   "year": 2023,
+   "unit": "первых разводов на 1000 состоящих в первом браке",
+   "items": [
+    {
+     "label": "Мужчины 18–29",
+     "value": 17.6
+    },
+    {
+     "label": "Мужчины 30–44",
+     "value": 15.7
+    },
+    {
+     "label": "Мужчины 45–54",
+     "value": 13.9
+    },
+    {
+     "label": "Мужчины 55–64",
+     "value": 8.6
+    },
+    {
+     "label": "Мужчины 65–74",
+     "value": 4.5
+    },
+    {
+     "label": "Мужчины 75+",
+     "value": 2.8
+    },
+    {
+     "label": "Женщины 18–29",
+     "value": 19.3
+    },
+    {
+     "label": "Женщины 30–44",
+     "value": 18.2
+    },
+    {
+     "label": "Женщины 45–54",
+     "value": 14.7
+    },
+    {
+     "label": "Женщины 55–64",
+     "value": 9.1
+    },
+    {
+     "label": "Женщины 65–74",
+     "value": 5.2
+    },
+    {
+     "label": "Женщины 75+",
+     "value": 5.1
+    }
+   ],
+   "source": "NCFMR FP-25-02 (Bankey 2025), ACS 2023",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-02",
+   "note": "Всего: мужчины 11.5, женщины 13.4 (2008: 16.9 и 18.7)."
+  },
+  {
+   "title_ru": "Коэффициент развода из первого брака по расе/этничности, 2023",
+   "year": 2023,
+   "unit": "первых разводов на 1000 состоящих в первом браке",
+   "items": [
+    {
+     "label": "Белые (нелат.), мужчины",
+     "value": 10.2
+    },
+    {
+     "label": "Чернокожие (нелат.), мужчины",
+     "value": 21.3
+    },
+    {
+     "label": "Азиаты (нелат.), мужчины",
+     "value": 6.4
+    },
+    {
+     "label": "Латиноамериканцы, мужчины",
+     "value": 13.3
+    },
+    {
+     "label": "Другие (нелат.), мужчины",
+     "value": 14.4
+    },
+    {
+     "label": "Две и более рас, мужчины",
+     "value": 15.3
+    },
+    {
+     "label": "Белые (нелат.), женщины",
+     "value": 11.5
+    },
+    {
+     "label": "Чернокожие (нелат.), женщины",
+     "value": 25.7
+    },
+    {
+     "label": "Азиаты (нелат.), женщины",
+     "value": 7.9
+    },
+    {
+     "label": "Латиноамериканки, женщины",
+     "value": 15.7
+    },
+    {
+     "label": "Другие (нелат.), женщины",
+     "value": 18.1
+    },
+    {
+     "label": "Две и более рас, женщины",
+     "value": 23.0
+    }
+   ],
+   "source": "NCFMR FP-25-02 (Bankey 2025), ACS 2023",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-02",
+   "note": "В тексте профиля явно названы только значения для чернокожих (21.3/25.7) и азиатов (6.4/7.9); остальные считаны с подписей столбцов диаграммы по их порядку. Рождённые в США разводятся чаще иммигрантов: мужчины 11.9 против 10.2, женщины 13.8 против 12.1 (тоже с диаграммы)."
+  },
+  {
+   "title_ru": "Коэффициент развода из первого брака по образованию, 2023",
+   "year": 2023,
+   "unit": "первых разводов на 1000 состоящих в первом браке",
+   "items": [
+    {
+     "label": "Мужчины: без аттестата",
+     "value": 11.9
+    },
+    {
+     "label": "Мужчины: школа/GED",
+     "value": 15.0
+    },
+    {
+     "label": "Мужчины: колледж без степени",
+     "value": 13.4
+    },
+    {
+     "label": "Мужчины: associate",
+     "value": 12.4
+    },
+    {
+     "label": "Мужчины: бакалавр",
+     "value": 8.8
+    },
+    {
+     "label": "Мужчины: магистр+",
+     "value": 8.2
+    },
+    {
+     "label": "Женщины: без аттестата",
+     "value": 13.2
+    },
+    {
+     "label": "Женщины: школа/GED",
+     "value": 14.6
+    },
+    {
+     "label": "Женщины: колледж без степени",
+     "value": 17.0
+    },
+    {
+     "label": "Женщины: associate",
+     "value": 15.6
+    },
+    {
+     "label": "Женщины: бакалавр",
+     "value": 11.6
+    },
+    {
+     "label": "Женщины: магистр+",
+     "value": 10.3
+    }
+   ],
+   "source": "NCFMR FP-25-02 (Bankey 2025), ACS 2023",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-02",
+   "note": "Максимумы (15.0 у мужчин со школой, 17.0 у женщин с незаконченным колледжем) и минимумы (магистр+: 8.2 и 10.3) названы в тексте; остальные значения считаны с диаграммы. Зависимость не монотонная: без аттестата разводятся реже, чем со школой/колледжем."
+  },
+  {
+   "title_ru": "Уточнённый коэффициент разводимости женщин по регионам, 2024",
+   "year": 2024,
+   "unit": "разводов на 1000 замужних женщин 15+",
+   "items": [
+    {
+     "label": "Северо-Восток",
+     "value": 12.7
+    },
+    {
+     "label": "Средний Запад",
+     "value": 13.2
+    },
+    {
+     "label": "Юг",
+     "value": 15.3
+    },
+    {
+     "label": "Запад",
+     "value": 14.2
+    },
+    {
+     "label": "США в целом",
+     "value": 14.2
+    }
+   ],
+   "source": "Расчёт по Census Reporter (ACS 2024 1-year, B12503 и B12001) по методике NCFMR",
+   "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B12001,B12503&geo_ids=020|01000US,01000US",
+   "note": "Знаменатель = замужние (now married) + разведшиеся за 12 мес.; при этом национальное значение 14.2 совпадает с NCFMR FP-25-31. Регионы — по Census Bureau. По NCFMR, 76% южных штатов находятся в двух верхних квартилях; ни один штат Среднего Запада — в верхнем."
+  },
+  {
+   "title_ru": "Коэффициент повторных браков по возрасту, 1990",
+   "year": 1990,
+   "unit": "повторных браков на 1000 ранее состоявших в браке (разведённых или вдовых)",
+   "items": [
+    {
+     "label": "Всего",
+     "value": 50.0
+    },
+    {
+     "label": "20–24",
+     "value": 237.5
+    },
+    {
+     "label": "25–34",
+     "value": 171.9
+    },
+    {
+     "label": "35–44",
+     "value": 94.0
+    },
+    {
+     "label": "45–54",
+     "value": 52.1
+    },
+    {
+     "label": "55–64",
+     "value": 20.5
+    },
+    {
+     "label": "65+",
+     "value": 4.6
+    }
+   ],
+   "source": "NCFMR FP-24-09 (Loo 2024), U.S. Vital Statistics 1990",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-09",
+   "note": null
+  },
+  {
+   "title_ru": "Коэффициент повторных браков по возрасту, 2022",
+   "year": 2022,
+   "unit": "повторных браков на 1000 ранее состоявших в браке",
+   "items": [
+    {
+     "label": "Всего",
+     "value": 24.1
+    },
+    {
+     "label": "20–24",
+     "value": 101.8
+    },
+    {
+     "label": "25–34",
+     "value": 93.4
+    },
+    {
+     "label": "35–44",
+     "value": 62.3
+    },
+    {
+     "label": "45–54",
+     "value": 40.4
+    },
+    {
+     "label": "55–64",
+     "value": 19.0
+    },
+    {
+     "label": "65+",
+     "value": 5.1
+    }
+   ],
+   "source": "NCFMR FP-24-09 (Loo 2024), ACS 2022",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-09",
+   "note": "23% всех браков 2022 г. — повторные. Вырос только коэффициент в 65+."
+  },
+  {
+   "title_ru": "Коэффициент повторных браков по образованию и полу, 2023",
+   "year": 2023,
+   "unit": "повторных браков на 1000 ранее состоявших в браке (18+)",
+   "items": [
+    {
+     "label": "Мужчины: без аттестата",
+     "value": 25.6
+    },
+    {
+     "label": "Мужчины: школа/GED",
+     "value": 30.9
+    },
+    {
+     "label": "Мужчины: колледж без степени",
+     "value": 33.6
+    },
+    {
+     "label": "Мужчины: associate",
+     "value": 40.9
+    },
+    {
+     "label": "Мужчины: бакалавр",
+     "value": 39.0
+    },
+    {
+     "label": "Мужчины: магистр+",
+     "value": 47.0
+    },
+    {
+     "label": "Женщины: без аттестата",
+     "value": 10.6
+    },
+    {
+     "label": "Женщины: школа/GED",
+     "value": 14.0
+    },
+    {
+     "label": "Женщины: колледж без степени",
+     "value": 20.2
+    },
+    {
+     "label": "Женщины: associate",
+     "value": 23.6
+    },
+    {
+     "label": "Женщины: бакалавр",
+     "value": 23.4
+    },
+    {
+     "label": "Женщины: магистр+",
+     "value": 24.6
+    }
+   ],
+   "source": "NCFMR FP-25-03 (Bankey 2025), ACS 2023",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-03",
+   "note": "Крайние значения названы в тексте, промежуточные считаны с диаграммы. Всего: мужчины 34.4, женщины 18.5."
+  },
+  {
+   "title_ru": "Медианная длительность брака при первом разводе по образованию, 2023",
+   "year": 2023,
+   "unit": "лет",
+   "items": [
+    {
+     "label": "Женщины: школа/GED и ниже",
+     "value": 15
+    },
+    {
+     "label": "Женщины: колледж без степени",
+     "value": 12
+    },
+    {
+     "label": "Женщины: associate",
+     "value": 13
+    },
+    {
+     "label": "Женщины: бакалавр",
+     "value": 12
+    },
+    {
+     "label": "Женщины: магистр/проф.",
+     "value": 14
+    },
+    {
+     "label": "Мужчины: школа/GED и ниже",
+     "value": 13
+    },
+    {
+     "label": "Мужчины: колледж без степени",
+     "value": 11
+    },
+    {
+     "label": "Мужчины: associate",
+     "value": 13
+    },
+    {
+     "label": "Мужчины: бакалавр",
+     "value": 12
+    },
+    {
+     "label": "Мужчины: магистр/проф.",
+     "value": 15
+    }
+   ],
+   "source": "NCFMR FP-25-22 (Bankey 2025), ACS 2023",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-22",
+   "note": "Общая медиана — 13 лет и у мужчин, и у женщин; межквартильный размах 17 лет (женщины 7–24, мужчины 6–23)."
+  },
+  {
+   "title_ru": "Медианная длительность брака при первом разводе по расе/этничности, 2023",
+   "year": 2023,
+   "unit": "лет",
+   "items": [
+    {
+     "label": "Женщины: белые",
+     "value": 14
+    },
+    {
+     "label": "Женщины: чернокожие",
+     "value": 12
+    },
+    {
+     "label": "Женщины: азиатки",
+     "value": 15
+    },
+    {
+     "label": "Женщины: латиноамериканки-иммигрантки",
+     "value": 16
+    },
+    {
+     "label": "Женщины: латиноамериканки, рожд. в США",
+     "value": 11
+    },
+    {
+     "label": "Женщины: другие/мультирасовые",
+     "value": 11
+    },
+    {
+     "label": "Мужчины: белые",
+     "value": 13
+    },
+    {
+     "label": "Мужчины: чернокожие",
+     "value": 11
+    },
+    {
+     "label": "Мужчины: азиаты",
+     "value": 15
+    },
+    {
+     "label": "Мужчины: латиноамериканцы-иммигранты",
+     "value": 15
+    },
+    {
+     "label": "Мужчины: латиноамериканцы, рожд. в США",
+     "value": 10
+    },
+    {
+     "label": "Мужчины: другие/мультирасовые",
+     "value": 11
+    }
+   ],
+   "source": "NCFMR FP-25-22 (Bankey 2025), ACS 2023",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-22",
+   "note": "Порядок категорий на диаграмме реконструирован по тексту (максимумы и минимумы совпадают с текстом); значения для белых и чернокожих — с диаграммы, считать ориентировочными."
+  },
+  {
+   "title_ru": "Медианный возраст при первом разводе по расе/этничности, 2023",
+   "year": 2023,
+   "unit": "лет",
+   "items": [
+    {
+     "label": "Женщины: белые",
+     "value": 41.5
+    },
+    {
+     "label": "Женщины: чернокожие",
+     "value": 44.1
+    },
+    {
+     "label": "Женщины: латиноамериканки-иммигрантки",
+     "value": 45.2
+    },
+    {
+     "label": "Женщины: латиноамериканки, рожд. в США",
+     "value": 37.6
+    },
+    {
+     "label": "Женщины: азиатки",
+     "value": 43.1
+    },
+    {
+     "label": "Женщины: другие/мультирасовые",
+     "value": 43.3
+    },
+    {
+     "label": "Мужчины: белые",
+     "value": 42.9
+    },
+    {
+     "label": "Мужчины: чернокожие",
+     "value": 44.9
+    },
+    {
+     "label": "Мужчины: латиноамериканцы-иммигранты",
+     "value": 46.5
+    },
+    {
+     "label": "Мужчины: латиноамериканцы, рожд. в США",
+     "value": 39.7
+    },
+    {
+     "label": "Мужчины: азиаты",
+     "value": 47.3
+    },
+    {
+     "label": "Мужчины: другие/мультирасовые",
+     "value": 40.8
+    }
+   ],
+   "source": "NCFMR FP-25-23 (Westrick-Payne 2025), ACS 2023",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-23",
+   "note": "Максимумы и минимумы (45.2 и 37.6 у женщин, 47.3 и 39.7 у мужчин; разброс 7.6 года) названы в тексте, остальные значения считаны с диаграммы. Всего: мужчины 43.3, женщины 41.9."
+  },
+  {
+   "title_ru": "Семейное положение американцев 65+, 1990",
+   "year": 1990,
+   "unit": "% населения 65+",
+   "items": [
+    {
+     "label": "В браке",
+     "value": 54.3
+    },
+    {
+     "label": "Вдовые",
+     "value": 35.3
+    },
+    {
+     "label": "Разведённые",
+     "value": 5.2
+    },
+    {
+     "label": "Никогда не состоявшие в браке",
+     "value": 5.2
+    }
+   ],
+   "source": "NCFMR FP-24-04 (Loo & Brown 2024), перепись 1990",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-04",
+   "note": null
+  },
+  {
+   "title_ru": "Семейное положение американцев 65+, 2022",
+   "year": 2022,
+   "unit": "% населения 65+",
+   "items": [
+    {
+     "label": "В браке",
+     "value": 57.4
+    },
+    {
+     "label": "Вдовые",
+     "value": 20.9
+    },
+    {
+     "label": "Разведённые",
+     "value": 15.2
+    },
+    {
+     "label": "Никогда не состоявшие в браке",
+     "value": 6.6
+    }
+   ],
+   "source": "NCFMR FP-24-04 (Loo & Brown 2024), ACS 2022",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-04",
+   "note": "Доля разведённых среди 65+ почти утроилась (5.2% → 15.2%); у женщин 16.8%, у мужчин 13.1% (с 2015 г. разведённых мужчин 65+ больше, чем вдовцов)."
+  },
+  {
+   "title_ru": "Доля разведённых/живущих раздельно среди когда-либо замужних женщин, по расе, 2022",
+   "year": 2022,
+   "unit": "%",
+   "items": [
+    {
+     "label": "Белые (нелат.)",
+     "value": 17
+    },
+    {
+     "label": "Чернокожие (нелат.)",
+     "value": 32
+    },
+    {
+     "label": "Азиатки (нелат.)",
+     "value": 10
+    },
+    {
+     "label": "Латиноамериканки",
+     "value": 21
+    },
+    {
+     "label": "Другие (нелат.)",
+     "value": 23
+    }
+   ],
+   "source": "NCFMR FP-24-11 (Loo 2024), ACS 2022",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-11",
+   "note": "Не включает находящихся в повторном браке. У чернокожих женщин пик 35% в 2010 г. Для всех когда-либо замужних: <1% в 1900 г. → 20% в 2022 г."
+  },
+  {
+   "title_ru": "Доля разведённых/живущих раздельно среди когда-либо замужних женщин, по образованию, 2022",
+   "year": 2022,
+   "unit": "%",
+   "items": [
+    {
+     "label": "Без аттестата",
+     "value": 21
+    },
+    {
+     "label": "Школа",
+     "value": 22
+    },
+    {
+     "label": "Колледж без степени",
+     "value": 23
+    },
+    {
+     "label": "Бакалавр и выше",
+     "value": 16
+    }
+   ],
+   "source": "NCFMR FP-24-11 (Loo 2024), ACS 2022",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-11",
+   "note": "В 1940 г. около 3% во всех образовательных группах."
+  },
+  {
+   "title_ru": "Кому присуждена опека над детьми при разводе, 1990",
+   "year": 1990,
+   "unit": "% разводов, где опека присуждалась (19 отчитавшихся штатов)",
+   "items": [
+    {
+     "label": "Мать",
+     "value": 72
+    },
+    {
+     "label": "Совместная опека",
+     "value": 16
+    },
+    {
+     "label": "Отец",
+     "value": 9
+    },
+    {
+     "label": "Разные дети разным родителям",
+     "value": 2
+    },
+    {
+     "label": "Третье лицо",
+     "value": 1
+    }
+   ],
+   "source": "NCHS, Monthly Vital Statistics Report 43(9)S (1995), разд. «Physical custody of children»",
+   "url": "https://www.cdc.gov/nchs/data/mvsr/supp/mv43_09s.pdf",
+   "note": "Опека присуждалась в 46% разводов (в остальных в основном не было несовершеннолетних детей). Доля опеки матери варьировала от 45% (Монтана) до 81% (Алабама), совместной — от 4% до 44%. По детям: мать 73%, совместно 16%, отец 10%."
+  },
+  {
+   "title_ru": "Сколько раз был в браке (когда-либо состоявшие в браке 15+), 2024",
+   "year": 2024,
+   "unit": "% когда-либо состоявших в браке",
+   "items": [
+    {
+     "label": "Женщины: один раз",
+     "value": 76.4
+    },
+    {
+     "label": "Женщины: дважды",
+     "value": 18.5
+    },
+    {
+     "label": "Женщины: три и более",
+     "value": 5.1
+    },
+    {
+     "label": "Мужчины: один раз",
+     "value": 76.7
+    },
+    {
+     "label": "Мужчины: дважды",
+     "value": 18.3
+    },
+    {
+     "label": "Мужчины: три и более",
+     "value": 5.0
+    }
+   ],
+   "source": "Расчёт по Census Reporter, ACS 2024 1-year, таблица B12505",
+   "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B12503,B12505,B12504,B12007&geo_ids=01000US",
+   "note": "Абсолютные числа: женщины 74.1 млн / 18.0 млн / 4.9 млн; мужчины 65.9 млн / 15.7 млн / 4.3 млн."
+  },
+  {
+   "title_ru": "Разведённые за год родители с несовершеннолетними детьми в доме, по расе, 2022",
+   "year": 2022,
+   "unit": "% недавно разведённых 18–55 лет",
+   "items": [
+    {
+     "label": "Белые",
+     "value": 42
+    },
+    {
+     "label": "Чернокожие",
+     "value": 40
+    },
+    {
+     "label": "Латиноамериканцы",
+     "value": 43
+    },
+    {
+     "label": "Азиаты",
+     "value": 36
+    },
+    {
+     "label": "Другие",
+     "value": 41
+    }
+   ],
+   "source": "NCFMR FP-24-13 (Wiborg 2024), ACS 2022",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-13",
+   "note": "В среднем 41% (женщины 52%, мужчины 30%). Занижено: ACS не учитывает детей, живущих отдельно."
+  }
+ ],
+ "facts": [
+  {
+   "group": "закон и процедура",
+   "factor": "Развод без вины: Калифорния → Нью-Йорк",
+   "finding": "Калифорния первой ввела развод без вины (Family Law Act 1969, вступил 1 января 1970 г., подписан губернатором Р. Рейганом): основанием стали «непримиримые разногласия», которые можно заявить в одностороннем порядке. К 1977 г. такие законы были в 9 штатах, к концу 1983 г. — во всех, кроме Южной Дакоты (1985) и Нью-Йорка; Нью-Йорк стал последним 15 августа 2010 г.",
+   "numbers": "1969/1970 — CA; 9 штатов к 1977; 48 к концу 1983; SD 1985; NY 2010",
+   "where": "США",
+   "years": "1969–2010",
+   "evidence": "закон",
+   "strength": "сильная",
+   "source": "Wikipedia: No-fault divorce",
+   "url": "https://en.wikipedia.org/wiki/No-fault_divorce"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "Эффект no-fault на число разводов",
+   "finding": "С учётом динамики и политической эндогенности законов переход к одностороннему разводу поднял разводимость примерно на десятилетие, но в следующее десятилетие рост в основном сошёл на нет; реформа объясняет очень малую часть роста разводов за полвека.",
+   "numbers": null,
+   "where": "США, панель штатов",
+   "years": "1956–1998",
+   "evidence": "исследование",
+   "strength": "умеренная",
+   "source": "Wolfers J. (2006). Did Unilateral Divorce Laws Raise Divorce Rates? American Economic Review 96(5)",
+   "url": "https://www.nber.org/papers/w10014"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "No-fault и насилие в семье",
+   "finding": "В штатах, принявших односторонний развод, зафиксировано крупное и устойчивое снижение числа самоубийств женщин (для мужчин эффекта нет) и снижение домашнего насилия; в долгосрочной перспективе женские самоубийства снизились примерно на 20%.",
+   "numbers": "≈ −20% женских самоубийств в долгосрочной перспективе",
+   "where": "США, панель штатов",
+   "years": "1970-е – 1990-е",
+   "evidence": "исследование",
+   "strength": "умеренная",
+   "source": "Stevenson B., Wolfers J. (2006). Bargaining in the Shadow of the Law. Quarterly Journal of Economics 121(1)",
+   "url": "https://www.nber.org/papers/w10175"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "Ковенантный брак",
+   "finding": "Особый брак с обязательной добрачной консультацией и ограниченными основаниями для развода (измена, тяжкое преступление, насилие, зависимость или раздельное проживание 1–2 года) есть в трёх штатах: Луизиана (первой, 1997), Арканзас, Аризона. Его выбирает ничтожное меньшинство: в Луизиане в 2000–2010 гг. около 1% пар, в Аризоне от 0.25% до 1%.",
+   "numbers": "3 штата; ≈1% пар в Луизиане",
+   "where": "Луизиана, Арканзас, Аризона",
+   "years": "1997–2010",
+   "evidence": "закон",
+   "strength": "сильная",
+   "source": "Wikipedia: Covenant marriage",
+   "url": "https://en.wikipedia.org/wiki/Covenant_marriage"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "Ценз оседлости и период ожидания",
+   "finding": "Развод регулируется законами штата проживания, а не штата заключения брака. Для подачи большинство штатов требуют полгода проживания, некоторые — 12 месяцев, Невада и Айдахо — всего 6 недель. В Калифорнии решение о расторжении вступает в силу не раньше чем через 6 месяцев после вручения иска (Family Code §2339).",
+   "numbers": "6 мес. (большинство); 12 мес. (некоторые); 6 недель (NV, ID); CA — 6 мес. ожидания",
+   "where": "США",
+   "years": "действующее право",
+   "evidence": "закон",
+   "strength": "сильная",
+   "source": "Wikipedia: Divorce in the United States; California Family Code §2339",
+   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=2339"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "Рено — «мировая столица разводов»",
+   "finding": "До реформ no-fault пары обходили строгие законы через «forum shopping»: Невада снизила ценз оседлости до 3 месяцев в 1927 г. и до 6 недель в 1931 г.; в 1942 г. Верховный суд (Williams v. North Carolina) обязал другие штаты признавать такие разводы. В Нью-Йорке практиковали «сговорную измену», а в Сан-Франциско в 1950 г. 70% жён ссылались на «жестокость».",
+   "numbers": "6 недель (NV, 1931); 70% исков — «жестокость» (SF, 1950)",
+   "where": "Невада, Нью-Йорк, Калифорния",
+   "years": "1909–1960-е",
+   "evidence": "обзор",
+   "strength": "умеренная",
+   "source": "Wikipedia: Divorce in the United States; No-fault divorce",
+   "url": "https://en.wikipedia.org/wiki/Divorce_in_the_United_States"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "Опека над детьми: от матери к совместной",
+   "finding": "В 1990 г. (19 штатов) при присуждении опеки мать получала её в 72% случаев, совместная опека — 16%, отец — 9%. К 2010–2014 гг. доля совместного физического проживания детей после развода выросла по стране с 13% (разводы до 1985 г.) до 34%; в Висконсине она стала самым частым вариантом — 50.3% в последней когорте.",
+   "numbers": "72/16/9% (1990); 13% → 34% (до 1985 → 2010–2014); Висконсин 50.3%",
+   "where": "США; Висконсин",
+   "years": "1990–2014",
+   "evidence": "исследование",
+   "strength": "сильная",
+   "source": "NCHS MVSR 43(9)S; Meyer, Carlson & Alam (2022) Demographic Research 46(38); Meyer, Cancian & Cook (2017) Family Court Review",
+   "url": "https://www.demographic-research.org/volumes/vol46/38/"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "Кто подаёт на развод",
+   "finding": "Женщины подают большинство исков: по данным NCHS для семей с детьми — 71.4% в 1975 г. и 65% в 1988 г. В опросе HCMST (разводы 2009–2015 гг.) 60% разводов были в первую очередь решением женщины, 20% — мужчины, 20% — обоюдными; разрывы незарегистрированных пар делятся примерно поровну.",
+   "numbers": "71.4% (1975), 65% (1988); 60/20/20%",
+   "where": "США",
+   "years": "1975–2015",
+   "evidence": "опрос",
+   "strength": "умеренная",
+   "source": "Wikipedia: Divorce in the United States (NCHS; Rosenfeld 2018, doi:10.1007/978-3-319-71544-5_11)",
+   "url": "https://en.wikipedia.org/wiki/Divorce_in_the_United_States"
+  },
+  {
+   "group": "закон и процедура",
+   "factor": "Дети, затронутые разводом",
+   "finding": "В 1990 г. развод родителей затронул 1 075 000 детей — 16.8 на 1000 детей до 18 лет. Среднее число детей на один развод упало с 1.20 в 1972 г. до минимума 0.89 в 1987–1988 гг. (0.90 в 1990 г.).",
+   "numbers": "1 075 000 детей; 16.8‰; 1.20 → 0.90 детей на развод",
+   "where": "США",
+   "years": "1972–1990",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "NCHS, Monthly Vital Statistics Report 43(9)S, табл. 3",
+   "url": "https://www.cdc.gov/nchs/data/mvsr/supp/mv43_09s.pdf"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Возраст при разводе растёт",
+   "finding": "Медианный возраст при разводе из первого брака вырос с 30.5 (мужчины) и 27.7 (женщины) в 1970 г. до исторических максимумов 43.3 и 41.9 в 2023 г. Возраст при разводе растёт быстрее длительности брака: браки не стали намного прочнее, их просто заключают позже.",
+   "numbers": "м: 30.5 → 43.3; ж: 27.7 → 41.9",
+   "where": "США",
+   "years": "1970–2023",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "NCFMR FP-25-23 (NCHS 1970–1990; ACS 2008–2023)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-23"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Длительность брака до развода",
+   "finding": "В 1990 г. медианная длительность брака при разводе составляла 7.2 года (максимум за 1970–1990 гг.; для первых браков около 8 лет, для повторных — 5–6). В 2023 г. медиана для первых браков — 13 лет (в 2010 г. — 11): у половины разводящихся стаж меньше 13 лет, у четверти — меньше 6–7 лет.",
+   "numbers": "7.2 года (1990, все разводы); 11 → 13 лет (первые браки, 2010 → 2020–2023)",
+   "where": "США",
+   "years": "1990–2023",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "NCHS MVSR 43(9)S; NCFMR FP-25-22",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-22"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "«Серый развод» (50+)",
+   "finding": "Разводимость среди людей 50+ удвоилась с 1990 по 2010 г.: в 2015 г. — 10 на 1000 состоящих в браке против 5 в 1990 г.; среди 65+ примерно утроилась, до 6 на 1000. В 1990 г. на людей 50+ приходилось 8% разводящихся, в 2010 г. — около четверти, в 2019 г. — 36%.",
+   "numbers": "5 → 10‰ (50+, 1990 → 2015); 65+: 1.8‰ (1990, NCFMR) → 6‰ (2015, Pew); 8% → 36% разводящихся",
+   "where": "США",
+   "years": "1990–2019",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "Brown & Lin (2012, 2022) J Gerontol B; Pew Research Center (2017); NCFMR FP-24-12",
+   "url": "https://doi.org/10.1093/geronb/gbac057"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Серый развод: плато и бэби-бумеры",
+   "finding": "После 2010 г. уровень серых разводов перестал расти (снижение незначимо); среди 50–64 он стагнирует, а 65+ — единственная возрастная группа, где разводимость продолжает расти. Это во многом эффект бэби-бумеров: 48% разведшихся в возрасте 50+ в 2015 г. были в повторном браке, где риск вдвое выше (16 против 8 на 1000).",
+   "numbers": "16 vs 8‰ (повторный vs первый брак, 50+, 2015); 48% — повторные браки",
+   "where": "США",
+   "years": "2010–2019",
+   "evidence": "исследование",
+   "strength": "сильная",
+   "source": "Brown & Lin (2022) J Gerontol B 77(9); Pew Research Center (2017)",
+   "url": "https://www.pewresearch.org/short-reads/2017/03/09/led-by-baby-boomers-divorce-rates-climb-for-americas-50-population/"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Серый развод после долгого брака",
+   "finding": "Медианный стаж первого брака при сером разводе (2022) — 29 лет, для повторного брака — 18 лет. Среди разведшихся в возрасте 50+ 34% прожили в браке 30+ лет, 12% — 40+ лет (2015). Лишь 2.9% из них снова вступили в брак в тот же год.",
+   "numbers": "29 лет (первый брак), 18 лет (повторный); 34% стаж 30+",
+   "where": "США",
+   "years": "2015–2022",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-24-12 (ACS 2022); Pew Research Center (2017)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-12"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Многократные серые разводы",
+   "finding": "Среди переживших серый развод 8.5% мужчин и 6.5% женщин разводились после 50 лет больше одного раза; максимум — у латиноамериканцев-мужчин (12.7%) и у людей без школьного аттестата (10.1% мужчин, 8.5% женщин).",
+   "numbers": "8.5% м / 6.5% ж",
+   "where": "США (HRS)",
+   "years": "1998–2018",
+   "evidence": "опрос",
+   "strength": "умеренная",
+   "source": "NCFMR FP-24-22 (Williams & Marino 2024)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-22"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Раса и этничность",
+   "finding": "В 2023 г. чернокожие имели самый высокий коэффициент развода из первого брака (21.3 у мужчин, 25.7 у женщин на 1000), азиаты — самый низкий (6.4 и 7.9). Среди когда-либо замужних женщин разведены или живут раздельно 32% чернокожих, 17% белых и 10% азиаток.",
+   "numbers": "21.3/25.7 vs 6.4/7.9‰; 32% vs 17% vs 10%",
+   "where": "США",
+   "years": "2022–2023",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-25-02; FP-24-11 (ACS)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-02"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Женщины и мужчины",
+   "finding": "По ACS 2024 за год развелись 986 810 женщин и 881 775 мужчин; уточнённый коэффициент 14.2 у женщин и 12.4 у мужчин. Среди всех женщин 15+ разведены 11.7% (16.7 млн), среди мужчин — 8.8% (12.2 млн): мужчины чаще вступают в повторный брак.",
+   "numbers": "14.2 vs 12.4‰; 11.7% vs 8.8%",
+   "where": "США",
+   "years": "2024",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "Census Reporter, ACS 2024 B12503/B12001; NCFMR RBT",
+   "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B12001,B12503&geo_ids=020|01000US,01000US"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Повторные браки уходят",
+   "finding": "Коэффициент повторных браков упал с 50.0 (1990) до 24.1 на 1000 ранее состоявших в браке (2022), сильнее всего в молодых группах (20–24: 237.5 → 101.8). С 2008 по 2023 г. у мужчин 48.9 → 34.4, у женщин 25.2 → 18.5. При этом 57% разведённых и вдовых когда-либо снова вступали в брак (2013); 54% разведённых/вдовых женщин против 30% мужчин не хотят повторного брака.",
+   "numbers": "50.0 → 24.1‰; м 48.9 → 34.4; ж 25.2 → 18.5; 57% вступали повторно",
+   "where": "США",
+   "years": "1990–2023",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-24-09, FP-25-03; Pew Research Center (2014) «Four-in-Ten Couples are Saying I Do, Again»",
+   "url": "https://www.pewresearch.org/social-trends/2014/11/14/four-in-ten-couples-are-saying-i-do-again/"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Разведённые беднее",
+   "finding": "В бедности живут 19% разведённых взрослых против 7% тех, кто в повторном браке; медианный личный доход повторно женатых примерно на 5000 $ выше, собственное жильё у 79% против 58% (2013).",
+   "numbers": "бедность 19% vs 7%; жильё 58% vs 79%",
+   "where": "США",
+   "years": "2013",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "Pew Research Center (2014)",
+   "url": "https://www.pewresearch.org/social-trends/2014/11/14/four-in-ten-couples-are-saying-i-do-again/"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Экономика после развода: спор Вайцман",
+   "finding": "По подсчётам Л. Вайцман («The Divorce Revolution», 1985; данные Калифорнии 1977–78 гг.), через год после развода уровень жизни женщин падал на 73%, а мужчин рос на 42%; Р. Петерсон при повторном анализе тех же данных получил −27% и +10%.",
+   "numbers": "−73%/+42% (Вайцман) vs −27%/+10% (Петерсон)",
+   "where": "Калифорния",
+   "years": "1977–1978",
+   "evidence": "исследование",
+   "strength": "спорная",
+   "source": "Wikipedia: Divorce in the United States",
+   "url": "https://en.wikipedia.org/wiki/Divorce_in_the_United_States"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Межрасовые браки",
+   "finding": "По NSFG 2002 межрасовые пары разводятся чаще, но разница зависит от пола: брак белой жены и чернокожего мужа вдвое чаще распадается к 10-му году, чем брак двух белых, а брак чернокожей жены и белого мужа — на 44% реже.",
+   "numbers": "×2 (белая жена + чернокожий муж); −44% (чернокожая жена + белый муж)",
+   "where": "США",
+   "years": "2002",
+   "evidence": "исследование",
+   "strength": "умеренная",
+   "source": "Bratter & King (2008), по Wikipedia: Divorce in the United States",
+   "url": "https://en.wikipedia.org/wiki/Divorce_in_the_United_States"
+  },
+  {
+   "group": "факторы",
+   "factor": "Образование",
+   "finding": "Связь образования с разводом не монотонна: в 2023 г. реже всего разводились обладатели степени магистра и выше (8.2 у мужчин, 10.3 у женщин на 1000), чаще всего — мужчины со школьным аттестатом (15.0) и женщины с незаконченным колледжем (17.0). Среди когда-либо замужних женщин с дипломом бакалавра разведены 16%, с незаконченным колледжем — 23%.",
+   "numbers": "8.2–10.3 vs 15–17‰; 16% vs 23%",
+   "where": "США",
+   "years": "2022–2023",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-25-02; FP-24-11",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-02"
+  },
+  {
+   "group": "факторы",
+   "factor": "«Библейский пояс» и консервативный протестантизм",
+   "finding": "Штаты и округа с большей долей консервативных протестантов имеют более высокую разводимость. На индивидуальном уровне связь целиком объясняется более ранним браком и рождением детей и более низкими доходами; доля консервативных протестантов в округе повышает риск развода и для соседей, но во многом через ранние браки, низкое образование и доход.",
+   "numbers": null,
+   "where": "США, округа (NSFG)",
+   "years": "1990-е – 2000-е",
+   "evidence": "исследование",
+   "strength": "умеренная",
+   "source": "Glass J., Levchak P. (2014). Red States, Blue States, and Divorce. American Journal of Sociology 119(4)",
+   "url": "https://doi.org/10.1086/674703"
+  },
+  {
+   "group": "регионы",
+   "factor": "Юг и Невада — лидеры",
+   "finding": "В 2024 г. самый высокий уточнённый коэффициент разводимости — в Оклахоме (20.7), затем Невада (19.9), Миссисипи (19.2), Вайоминг (18.7), Алабама (18.0); самый низкий — в Мэне (10.0), Висконсине (10.8), Нью-Джерси (11.0), Айдахо (11.2). 76% южных штатов — в двух верхних квартилях; ни одного штата Среднего Запада в верхнем квартиле нет.",
+   "numbers": "OK 20.7 … ME 10.0; США 14.2",
+   "where": "штаты США",
+   "years": "2024",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-25-31 (ACS 2024)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-31"
+  },
+  {
+   "group": "регионы",
+   "factor": "Соотношение браков и разводов по штатам",
+   "finding": "В 2024 г. на один развод женщины приходилось 2.42 брака — максимум с начала наблюдений ACS в 2008 г. (2015–2021: 2.10–2.16). Выше всего соотношение в округе Колумбия (3.77), Айдахо (3.48), Юте (3.21); ниже всего — в Делавэре (1.44), Вермонте (1.50), Род-Айленде (1.68). Южные штаты чаще в нижнем квартиле (41%).",
+   "numbers": "США 2.42; DC 3.77; DE 1.44",
+   "where": "штаты США",
+   "years": "2024",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-25-32",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-32"
+  },
+  {
+   "group": "регионы",
+   "factor": "Общий коэффициент развода женщин по штатам",
+   "finding": "Число разведшихся за год женщин на 1000 женщин 15+ снизилось с 9.8 (2012) до 7.1 (2022) при стабильной брачности (16.6 и 16.7). Высокие значения — в Арканзасе (11.9) и Вайоминге (11.0), низкие — в Вермонте (4.6); в Пуэрто-Рико 5.1.",
+   "numbers": "9.8 → 7.1‰; AR 11.9, WY 11.0, VT 4.6",
+   "where": "штаты США",
+   "years": "2012–2022",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "U.S. Census Bureau (Buck, Hemez, Anderson 2024)",
+   "url": "https://www.census.gov/library/stories/2024/10/marriage-and-divorce.html"
+  },
+  {
+   "group": "факторы",
+   "factor": "Военная служба и командировки",
+   "finding": "RAND (1996–2005): после 2001 г. распад браков военных вырос, но до 2001 г. он снижался, и в 2005 г. уровень был близок к 1996 г.; дольше находившиеся в командировках разводились даже реже. По армейским данным после 2003 г., длительность командировок повышает риск развода у рядового и сержантского состава, а симптомы ПТСР (около 14% солдат) повышают его дальше.",
+   "numbers": "≈14% солдат с ПТСР после командировок",
+   "where": "Вооружённые силы США",
+   "years": "1996–2010-е",
+   "evidence": "исследование",
+   "strength": "спорная",
+   "source": "Karney & Crown (2007) RAND MG-599; Negrusa & Negrusa (2014) Demography, doi:10.1007/s13524-014-0294-9",
+   "url": "https://www.rand.org/pubs/monographs/MG599.html"
+  },
+  {
+   "group": "факторы",
+   "factor": "Развод у военных и здоровье",
+   "finding": "В Millennium Cohort (29 314 военнослужащих, женатых в 2001–2003 гг.) недавно разведённые чаще получали новый диагноз ПТСР и депрессии, начинали курить, злоупотребляли алкоголем и набирали вес по сравнению с оставшимися в браке.",
+   "numbers": "N = 29 314",
+   "where": "Вооружённые силы США",
+   "years": "2001–2006",
+   "evidence": "исследование",
+   "strength": "умеренная",
+   "source": "BMC Psychiatry (2015) 15:128, doi:10.1186/s12888-015-0517-7",
+   "url": "https://doi.org/10.1186/s12888-015-0517-7"
+  },
+  {
+   "group": "факторы",
+   "factor": "Профессия: врачи",
+   "finding": "По переписям 1970 и 1980 гг. и мужчины, и женщины — врачи разводились реже других профессиональных групп, включая прочих специалистов; представление о «хрупких браках врачей» не подтверждается.",
+   "numbers": null,
+   "where": "США",
+   "years": "1970, 1980",
+   "evidence": "исследование",
+   "strength": "слабая",
+   "source": "Doherty W.J., Burge S.K. (1989). Divorce among physicians. JAMA 261(16)",
+   "url": "https://doi.org/10.1001/jama.261.16.2374"
+  },
+  {
+   "group": "тренды",
+   "factor": "Столетний рост и пик 1980 г.",
+   "finding": "Общий коэффициент разводимости вырос с 0.3 на 1000 в 1867 г. до пика 5.3 в 1979 и 1981 гг. и затем снизился до 2.4 в 2022–2023 гг. (без нескольких штатов). Уточнённый коэффициент (на 1000 замужних женщин) вырос с 4.1 в 1900 г. до 22.6 в 1979–1981 гг.; в 2020–2021 гг. он опустился до 40-летнего минимума 14.0 (14.2 в 2024 г.).",
+   "numbers": "0.3 → 5.3 → 2.4‰; 4.1 → 22.6 → 14.2",
+   "where": "США",
+   "years": "1867–2024",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "NCHS Series 21 No. 24; NCHS MVSR 43(9)S; CDC NVSS; NCFMR FP-24-11, FP-25-31",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-11"
+  },
+  {
+   "group": "тренды",
+   "factor": "Послевоенный всплеск 1946 г.",
+   "finding": "В 1946 г. общий коэффициент разводимости подскочил до 4.3 (610 000 разводов), а уточнённый — до 17.9 на 1000 замужних женщин; тогда же был пик брачности (16.4 на 1000). К 1950-м оба показателя вернулись к довоенным значениям.",
+   "numbers": "4.3‰; 17.9‰; брачность 16.4‰",
+   "where": "США",
+   "years": "1945–1950",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "NCHS MVSR 43(9)S, табл. 1; NCHS Series 21 No. 24",
+   "url": "https://www.cdc.gov/nchs/data/mvsr/supp/mv43_09s.pdf"
+  },
+  {
+   "group": "тренды",
+   "factor": "Спад разводов после 1980 г. и миллениалы",
+   "finding": "Модели по ACS 2008–2017 показывают снижение разводимости с поправкой на демографию и без неё; спад задают молодые женщины, а для недавно заключённых браков прогнозный риск развода ниже. Автор делает вывод, что США движутся к системе, где брак реже, но устойчивее.",
+   "numbers": null,
+   "where": "США",
+   "years": "2008–2017",
+   "evidence": "исследование",
+   "strength": "сильная",
+   "source": "Cohen P.N. (2019). The Coming Divorce Decline. Socius 5",
+   "url": "https://doi.org/10.1177/2378023119873497"
+  },
+  {
+   "group": "тренды",
+   "factor": "Спор о статистике: рост или спад?",
+   "finding": "Kennedy и Ruggles утверждают, что данные регистрации и ретроспективные опросы после 1990 г. занижают разводы; при стандартизации по возрасту (ACS) разводимость в 1990–2008 гг. выросла, среди людей старше 35 лет — удвоилась. Снижение у молодых они связывают с растущей избирательностью брака.",
+   "numbers": null,
+   "where": "США",
+   "years": "1980–2010",
+   "evidence": "исследование",
+   "strength": "спорная",
+   "source": "Kennedy S., Ruggles S. (2014). Breaking up is hard to count. Demography 51(2)",
+   "url": "https://doi.org/10.1007/s13524-013-0270-9"
+  },
+  {
+   "group": "тренды",
+   "factor": "Возраст сглаживается",
+   "finding": "Возрастной градиент разводимости резко сузился: в 1990 г. разница между 15–24 (47.2) и 65+ (1.8) составляла 45.4 развода на 1000, в 2023 г. — лишь 13.1 (19.2 против 6.1). В 15–54 лет коэффициенты почти сошлись (16.7–19.2).",
+   "numbers": "разрыв 45.4 → 13.1",
+   "where": "США",
+   "years": "1990–2023",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "NCFMR FP-25-24",
+   "url": "https://doi.org/10.25035/ncfmr/fp-25-24"
+  },
+  {
+   "group": "тренды",
+   "factor": "COVID-19: недобор разводов",
+   "finding": "В 2020 г. зарегистрировано 630 505 разводов при ожидаемых 714 997 — на 12% меньше (браков — тоже на 12% меньше); скорректированный коэффициент упал до 11.0 на 1000 замужних женщин (13.5 в 2019 г.). Сильнее всего разводы упали в Луизиане (−56.5%) и Мэриленде (−43.3%), тогда как в Иллинойсе (+41.9%) и Миссисипи (+30.1%) их было больше ожидаемого. Серых разводов после начала пандемии тоже стало меньше, особенно в 50–64.",
+   "numbers": "−12% (630 505 vs 714 997); 11.0‰",
+   "where": "США, штаты",
+   "years": "2019–2021",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "NCFMR FP-22-12 (Westrick-Payne & Manning 2022); Manning & Payne (2021) Socius; Brown, Lin & Julian (2024) J Gerontol B",
+   "url": "https://doi.org/10.25035/ncfmr/fp-22-12"
+  },
+  {
+   "group": "тренды",
+   "factor": "«Половина браков распадается» — миф или нет",
+   "finding": "Популярная цифра «50% браков заканчиваются разводом», вероятно, происходит из того, что браков в год примерно вдвое больше, чем разводов. По NSFG 2002 г. 29% первых браков женщин 15–44 распадались за 10 лет; оценки пожизненной вероятности развода — 43–46% (Amato) и 40–50% (PolitiFact, 2012).",
+   "numbers": "29% за 10 лет; 40–50% за жизнь",
+   "where": "США",
+   "years": "1995–2012",
+   "evidence": "обзор",
+   "strength": "спорная",
+   "source": "Wikipedia: Divorce in the United States",
+   "url": "https://en.wikipedia.org/wiki/Divorce_in_the_United_States"
+  },
+  {
+   "group": "тренды",
+   "factor": "Позднее вступление в брак",
+   "finding": "Медианный возраст первого брака вырос с исторического минимума 22.5 (мужчины) и 20.1 (женщины) в 1956 г. до 30.2 и 28.6 в 2024 г. (CPS). Более позднее и избирательное вступление в брак — один из основных механизмов снижения разводимости молодых.",
+   "numbers": "22.5/20.1 (1956) → 30.2/28.6 (2024)",
+   "where": "США",
+   "years": "1956–2024",
+   "evidence": "админ. данные",
+   "strength": "сильная",
+   "source": "U.S. Census Bureau, Table MS-2; Kennedy & Ruggles (2014); Cohen (2019)",
+   "url": "https://www2.census.gov/programs-surveys/demo/tables/families/time-series/marital/ms2.xls"
+  },
+  {
+   "group": "тренды",
+   "factor": "Бэби-бумеры 65+: разведённых больше, чем вдовцов",
+   "finding": "Доля разведённых среди американцев 65+ выросла с 5.2% в 1990 г. до 15.2% в 2022 г., а доля вдовых упала с 35.3% до 20.9%. С 2015 г. среди мужчин 65+ разведённых (13.1% в 2022 г.) больше, чем вдовцов (10.3%).",
+   "numbers": "5.2% → 15.2%",
+   "where": "США",
+   "years": "1990–2022",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-24-04 (Loo & Brown 2024)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-04"
+  },
+  {
+   "group": "кто разводится",
+   "factor": "Развод и дети в доме",
+   "finding": "В 2022 г. 41% недавно (в течение года) разведённых 18–55 лет жили с несовершеннолетними детьми (женщины — 52%, мужчины — 30%) против 61% среди состоящих в браке; доля стабильна с 2012 г. (40%). У 63% таких разведённых родителей дети только 6–17 лет.",
+   "numbers": "41% (ж 52%, м 30%)",
+   "where": "США",
+   "years": "2012–2022",
+   "evidence": "опрос",
+   "strength": "сильная",
+   "source": "NCFMR FP-24-13 (Wiborg 2024)",
+   "url": "https://doi.org/10.25035/ncfmr/fp-24-13"
+  }
+ ]
+}
