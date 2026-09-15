@@ -3,7 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Почему люди разводятся: где, из-за чего и когда — коротко и с источниками.">
+<meta name="description" content="Где разводятся чаще, что к этому ведёт и когда браки распадаются — коротко и с источниками.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Почему люди разводятся">
+<meta property="og:description" content="Где разводятся чаще, что к этому ведёт и когда браки распадаются — коротко и с источниками.">
+<meta property="og:url" content="https://rozzhalovetsolga.github.io/divorce-atlas/">
+<meta property="og:image" content="https://rozzhalovetsolga.github.io/divorce-atlas/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <title>Почему люди разводятся</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -289,10 +297,11 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 
-.blk{display:grid;gap:14px;padding-top:40px}
+.blk{display:grid;gap:14px;padding-top:44px}
 .blk h2{font-size:clamp(24px,3.6vw,34px);line-height:1.12;max-width:28ch}
 .sub{color:var(--muted);font-size:15px}
 .card{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:clamp(12px,2vw,20px);min-width:0}
+.card-h{font-size:16px;margin-bottom:8px}
 .map-card{padding:0;overflow:hidden}
 .legend-row{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;padding:10px 14px;font:400 11.5px var(--mono);color:var(--muted)}
 .legend-row i{display:inline-block;width:22px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
@@ -302,23 +311,25 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
 .two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px;align-items:start}
 .nums{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;align-content:start}
 .nums .fact b{font-size:22px}
-.stack{display:grid;gap:12px}
+.fact i a{color:var(--muted)}
+#map .hl-by{fill:none;stroke:var(--ink);stroke-width:1.8;pointer-events:none}
 #bymap{display:block;width:100%;height:auto}
 .bylab{text-anchor:middle;pointer-events:none}
-.bylab .bn{font:600 11px var(--sans);fill:var(--ink);stroke:var(--sheet);stroke-width:3px;paint-order:stroke;stroke-linejoin:round}
-.bylab .bv{font:500 12px var(--mono);fill:var(--ink);stroke:var(--sheet);stroke-width:3px;paint-order:stroke;stroke-linejoin:round}
+.bylab .bn{font:600 13px var(--sans);fill:var(--ink);stroke:var(--sheet);stroke-width:3px;paint-order:stroke;stroke-linejoin:round}
+.bylab .bv{font:500 14px var(--mono);fill:var(--ink);stroke:var(--sheet);stroke-width:3px;paint-order:stroke;stroke-linejoin:round}
 .lc{margin:0;display:grid;gap:6px}
-.lc figcaption{display:flex;justify-content:space-between;gap:10px;font:600 14px/1.3 var(--sans);color:var(--ink)}
-.lc figcaption span{font:400 11px var(--mono);color:var(--muted);text-align:right}
+.lc figcaption{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font:600 14px/1.3 var(--sans);color:var(--ink)}
+.lc figcaption span{font:400 11px var(--mono);color:var(--muted)}
+.lc figcaption i{display:inline-block;width:16px;height:3px;border-radius:2px;vertical-align:3px;margin:0 5px 0 10px}
 .lc svg{width:100%;height:auto;display:block}
 .lc .grid{stroke:var(--rule);stroke-width:1}
 .lc .tk{font:400 10px var(--mono);fill:var(--muted)}
-.lc .ln{fill:none;stroke:var(--accent);stroke-width:2.2}
-.lc .ar{fill:var(--accent-tint)}
-.lc .band{fill:var(--accent-tint)}
+.lc .ln{fill:none;stroke:var(--accent);stroke-width:2.4}
+.lc .ln2{fill:none;stroke:var(--ink2);stroke-width:1.8}
 .lc .dot{fill:var(--accent);stroke:var(--sheet);stroke-width:1.5}
+.lc .dot2{fill:var(--ink2);stroke:var(--sheet);stroke-width:1.5}
 .lc .lab2{font:500 11px var(--mono);fill:var(--ink);stroke:var(--sheet);stroke-width:3px;paint-order:stroke}
-.lc .vline{stroke:var(--ink2);stroke-width:1;stroke-dasharray:3 3}
+.lc .cross{stroke:var(--ink2);stroke-width:1;stroke-dasharray:3 3}
 .src{font:400 10.5px/1.5 var(--mono);color:var(--muted)}
 .src a{color:var(--muted)}
 .src a:hover{color:var(--accent)}
@@ -339,17 +350,41 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
 .chain-total{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;font-size:13px;color:var(--ink2);border-top:1px solid var(--rule);padding-top:10px}
 .chain-total b{font:500 16px var(--mono);color:var(--accent)}
 .kinds{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:12px;color:var(--muted)}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:12px;margin-top:10px}
+.tldr-card{display:grid;gap:12px;align-content:start}
+.tldr{margin:0;padding:0;list-style:none;display:grid;gap:12px;counter-reset:tl}
+.tldr li{display:grid;grid-template-columns:26px minmax(0,1fr);gap:8px;font-size:16px;line-height:1.45;color:var(--ink);counter-increment:tl}
+.tldr li::before{content:counter(tl);font:500 13px/1.7 var(--mono);color:var(--accent)}
+.icons{margin:0;display:grid;gap:12px;align-content:start}
+.icongrid{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:6px;max-width:280px}
+.icongrid i{display:block;aspect-ratio:1;border-radius:50%;border:2px solid var(--accent);opacity:.3}
+.icongrid i.on{background:var(--accent);opacity:1}
+.icons figcaption{display:grid;gap:4px;font-size:14px;line-height:1.45;color:var(--ink2)}
+.icons figcaption b{font:500 22px/1.2 var(--mono);color:var(--accent)}
+.icons figcaption a{font-size:13px}
+.survival{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+.sv{display:grid;gap:10px;align-content:start}
+.sv .icongrid{gap:4px;max-width:none}
+.sv .icongrid i{border-width:1.5px}
+.sv b{font:500 20px/1.2 var(--mono);color:var(--accent)}
+.sv span{font-size:13px;color:var(--ink2)}
 .myths{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:10px}
 .myth{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:16px 18px;display:grid;gap:8px;align-content:start}
 .myth s{color:var(--muted);font-size:15px}
 .myth b{font:500 22px var(--mono);color:var(--accent)}
 .myth p{font-size:14px;line-height:1.5;color:var(--ink2)}
-.foot{padding-top:44px;display:grid;gap:12px;justify-items:start}
-@media (max-width:820px){.two{grid-template-columns:minmax(0,1fr)}}
+.foot{padding-top:48px;display:grid;gap:12px;justify-items:start}
+@media (max-width:820px){
+  .hero-grid,.two{grid-template-columns:minmax(0,1fr)}
+  .survival{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
 @media (max-width:760px){
   .chain-row{flex-direction:column}
   .clink{flex:none;padding:8px 0}
   .clink::after{content:"\2193"}
+}
+@media (max-width:420px){
+  .nums{grid-template-columns:minmax(0,1fr)}
 }
 </style>
 <style>body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>
@@ -362,33 +397,32 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
     <span class="eyebrow">Анализ данных · сентябрь 2026</span>
     <h1>Почему люди разводятся</h1>
     <p class="lead">Где разводятся чаще, что к этому ведёт и на каком году брака риск выше всего. Каждая цифра — с источником.</p>
+    <div class="hero-grid">
+      <div class="card tldr-card">
+        <span class="eyebrow">Главное за 10 секунд</span>
+        <ol class="tldr" id="tldr"></ol>
+      </div>
+      <figure class="card icons" id="icons"></figure>
+    </div>
     <div class="hero-facts" id="facts"></div>
-    <p class="small">«67 на 100» — это разводы на 100 свадеб того же года, а не доля распавшихся браков. <a href="#myths">Почему это важно</a></p>
   </header>
 
   <section class="blk" aria-labelledby="where-h">
     <span class="eyebrow">Где</span>
     <h2 id="where-h">Больше всего разводов — в бывшем СССР</h2>
-    <p class="sub">Разводов на 100 свадеб, последний доступный год. Наведите на страну.</p>
+    <p class="sub">Разводов на 100 свадеб, последний доступный год. Беларусь обведена. Наведите на страну.</p>
     <div class="card map-card">
       <svg id="map" viewBox="0 0 960 470" role="img" aria-label="Карта мира: разводы на 100 свадеб"></svg>
       <div class="legend-row" id="legend"></div>
     </div>
     <div class="top5" id="top5"></div>
-  </section>
-
-  <section class="blk" aria-labelledby="by-h" id="by-block">
-    <span class="eyebrow">Беларусь</span>
-    <h2 id="by-h">Беларусь</h2>
-    <div class="two">
+    <div class="two" id="by-block">
       <div class="card">
+        <h3 class="card-h" id="by-h">Беларусь по областям</h3>
         <svg id="bymap" viewBox="0 0 520 440" role="img" aria-label="Разводы по областям Беларуси"></svg>
         <div class="legend-row" id="by-legend" style="padding:6px 0 0"></div>
       </div>
-      <div class="stack">
-        <div class="card" id="by-trend"></div>
-        <div class="nums" id="by-nums"></div>
-      </div>
+      <div class="nums" id="by-nums"></div>
     </div>
   </section>
 
@@ -407,18 +441,20 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
   <section class="blk" aria-labelledby="when-h">
     <span class="eyebrow">Когда</span>
     <h2 id="when-h">Когда распадаются браки</h2>
-    <div class="two">
-      <div class="card" id="hazard"></div>
-      <div class="nums" id="when-nums"></div>
+    <p class="sub">Из 100 пар, поженившихся сегодня, столько останутся вместе, если риск развода на каждом году брака будет как сейчас в типичной стране Европы.</p>
+    <div class="card">
+      <div class="survival" id="survival"></div>
+      <div class="src" id="survival-src" style="margin-top:12px"></div>
     </div>
+    <div class="hero-facts" id="when-nums"></div>
   </section>
 
-  <section class="blk" aria-labelledby="us-h">
-    <span class="eyebrow">США</span>
-    <h2 id="us-h">США</h2>
+  <section class="blk" aria-labelledby="hist-h">
+    <span class="eyebrow">Как менялось</span>
+    <h2 id="hist-h">Как менялось</h2>
     <div class="two">
-      <div class="card" id="us-trend"></div>
-      <div class="nums" id="us-nums"></div>
+      <div class="card" id="hist-chart"></div>
+      <div class="nums" id="hist-nums"></div>
     </div>
   </section>
 
@@ -478,6 +514,12 @@ function link(label, url) {
   const safe = safeUrl(url);
   return safe ? `<a href="${esc(safe)}" target="_blank" rel="noopener">${esc(label)}</a>` : esc(label);
 }
+function chartWidth(target) {
+  const style = getComputedStyle(target);
+  const inner = target.clientWidth - parseFloat(style.paddingLeft || 0) - parseFloat(style.paddingRight || 0);
+  return Math.round(Math.max(300, Math.min(720, inner || 560)));
+}
+const factCard = ([value, text, source]) => `<div class="fact"><b>${value}</b><span>${text}</span>${source ? `<i>${source}</i>` : ''}</div>`;
 
 const tip = document.getElementById('tip');
 function placeTip(event) {
@@ -503,26 +545,39 @@ const BINS = [20, 30, 40, 50, 60];
 const BIN_LABELS = ['меньше 20', '20–30', '30–40', '40–50', '50–60', '60+'];
 
 const bySeries = id => (BY_DATA.timeseries || []).find(series => series.id === id);
+const usSeries = id => (US_DEEP.timeseries || []).find(series => series.id === id);
 const sortedPoints = series => (series?.points || []).filter(point => point.value != null).sort((a, b) => a.year - b.year);
-const byRatioSeries = sortedPoints(bySeries('divorces_per_1000_marriages')).map(point => ({year: point.year, value: point.value / 10}));
-const byLatest = byRatioSeries[byRatioSeries.length - 1] || (byIso.get('BY') ? {year: byIso.get('BY').year, value: byIso.get('BY').ratio} : null);
+const lastOf = points => points[points.length - 1];
+const byRatioPoints = sortedPoints(bySeries('divorces_per_1000_marriages'));
+const byLatest = byRatioPoints.length
+  ? {year: lastOf(byRatioPoints).year, value: lastOf(byRatioPoints).value / 10}
+  : (byIso.get('BY') ? {year: byIso.get('BY').year, value: byIso.get('BY').ratio} : null);
 const usNation = (US.acs || []).find(row => row.fips === 'US');
 const durRows = DUR_ES.filter(row => row.rates.length >= 25);
 const peaks = durRows.map(row => row.peak_duration).sort((a, b) => a - b);
 const medians = DUR_ES.filter(row => row.median != null).map(row => row.median).sort((a, b) => a - b);
 const peakRange = `${quantile(peaks, 0.1)}–${quantile(peaks, 0.9)}`;
+const medianAll = d3.median(medians);
 
-/* hero numbers */
-const russia = byIso.get('RU');
-const heroFacts = [
-  [fmt0(byLatest?.value), `разводов на 100 свадеб в Беларуси, ${byLatest?.year}`],
-  [fmt0(russia.ratio), `в России, ${russia.year}`],
-  [fmt0(usNation.ratio), 'в США, 2024'],
-  [`${peakRange} лет`, 'стаж брака, когда риск развода выше всего'],
-];
-document.getElementById('facts').innerHTML = heroFacts.map(([value, text]) => `<div class="fact"><b>${value}</b><span>${text}</span></div>`).join('');
+/* 1. hero: TL;DR, 100 rings, key numbers */
+(function hero() {
+  const russia = byIso.get('RU');
+  document.getElementById('tldr').innerHTML = [
+    'В Беларуси и России на 3 свадьбы приходится около 2 разводов — это одни из самых высоких цифр в мире.',
+    'Сильнее всего с разводом связаны ранний брак, нехватка денег и образования, алкоголь и развод родителей.',
+    `Опаснее всего ${peakRange}-й год брака, но половина разводов случается позже ${fmt0(medianAll)} лет.`,
+  ].map(line => `<li>${esc(line)}</li>`).join('');
+  const onCount = Math.round(byLatest?.value ?? 0);
+  document.getElementById('icons').innerHTML = `<div class="icongrid" role="img" aria-label="${onCount} из 100">${Array.from({length: 100}, (_, index) => `<i class="${index < onCount ? 'on' : ''}"></i>`).join('')}</div>
+    <figcaption><b>${onCount} из 100</b><span>На каждые 100 свадеб в Беларуси — ${onCount} разводов в том же году (${byLatest?.year}).</span><a href="#myths">Это не значит, что распадётся ${onCount}% браков</a></figcaption>`;
+  document.getElementById('facts').innerHTML = [
+    [fmt0(russia.ratio), `разводов на 100 свадеб в России, ${russia.year}`],
+    [fmt0(usNation.ratio), 'разводов на 100 свадеб в США, 2024'],
+    [`${peakRange} лет`, 'стаж брака, когда риск развода выше всего'],
+  ].map(factCard).join('');
+})();
 
-/* where: world map */
+/* 2. where: world map with Belarus outlined, then Belarus by region */
 (function worldMap() {
   const svg = d3.select('#map');
   const features = topojson.feature(TOPO110, TOPO110.objects.countries).features.filter(feature => feature.properties.name !== 'Antarctica');
@@ -548,6 +603,8 @@ document.getElementById('facts').innerHTML = heroFacts.map(([value, text]) => `<
     })
     .on('pointermove', placeTip)
     .on('pointerleave', hideTip);
+  const belarus = features.find(feature => isoOf(feature) === 'BY');
+  if (belarus) svg.append('path').attr('class', 'hl-by').attr('d', path(belarus));
   const mainPart = feature => {
     if (feature.geometry.type !== 'MultiPolygon') return feature;
     let best = null, bestArea = -1;
@@ -574,53 +631,9 @@ document.getElementById('facts').innerHTML = heroFacts.map(([value, text]) => `<
   document.getElementById('top5').innerHTML = top.map(row => `<span>${esc(row.display)} <b>${fmt0(row.ratio)}</b></span>`).join('');
 })();
 
-/* generic line chart */
-function lineChart(target, points, {title, unit, source, url, format = fmt1, markPeak = false}) {
-  const data = points.filter(point => point.value != null).sort((a, b) => a.year - b.year);
-  if (data.length < 2) return;
-  const W = 560, H = 230, m = {l: 40, r: 46, t: 18, b: 26};
-  const x = d3.scaleLinear().domain(d3.extent(data, point => point.year)).range([m.l, W - m.r]);
-  const y = d3.scaleLinear().domain([0, d3.max(data, point => point.value)]).nice(4).range([H - m.b, m.t]);
-  const figure = d3.select(target).append('figure').attr('class', 'lc');
-  figure.append('figcaption').html(`${esc(title)}<span>${esc(unit || '')}</span>`);
-  const svg = figure.append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', title);
-  for (const tick of y.ticks(4)) {
-    svg.append('line').attr('class', 'grid').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y(tick)).attr('y2', y(tick));
-    svg.append('text').attr('class', 'tk').attr('x', m.l - 5).attr('y', y(tick)).attr('text-anchor', 'end').attr('dominant-baseline', 'central').text(format(tick));
-  }
-  const [x0, x1] = x.domain();
-  for (const tick of d3.ticks(x0, x1, 5).filter(Number.isInteger)) {
-    svg.append('text').attr('class', 'tk').attr('x', x(tick)).attr('y', H - 7).attr('text-anchor', 'middle').text(tick);
-  }
-  svg.append('path').attr('class', 'ar').attr('d', d3.area().x(point => x(point.year)).y0(y(0)).y1(point => y(point.value)).curve(d3.curveMonotoneX)(data));
-  svg.append('path').attr('class', 'ln').attr('d', d3.line().x(point => x(point.year)).y(point => y(point.value)).curve(d3.curveMonotoneX)(data));
-  const marks = [data[data.length - 1]];
-  if (markPeak) {
-    const peak = data.reduce((best, point) => point.value > best.value ? point : best, data[0]);
-    if (peak !== marks[0]) marks.push(peak);
-  }
-  for (const point of marks) {
-    const isLast = point === data[data.length - 1];
-    svg.append('circle').attr('class', 'dot').attr('cx', x(point.year)).attr('cy', y(point.value)).attr('r', 3.6);
-    svg.append('text').attr('class', 'lab2').attr('x', x(point.year) + (isLast ? 6 : 0)).attr('y', y(point.value) - (isLast ? 0 : 10))
-      .attr('text-anchor', isLast ? 'start' : 'middle').attr('dominant-baseline', isLast ? 'central' : 'auto')
-      .text(isLast ? format(point.value) : `${point.year}: ${format(point.value)}`);
-  }
-  svg.append('rect').attr('x', m.l).attr('y', m.t).attr('width', W - m.l - m.r).attr('height', H - m.t - m.b).attr('fill', 'transparent')
-    .on('pointermove', function (event) {
-      const year = x.invert(d3.pointer(event, this)[0]);
-      const nearest = data.reduce((best, point) => Math.abs(point.year - year) < Math.abs(best.year - year) ? point : best, data[0]);
-      showTip(event, `<div class="tip-name">${nearest.year}</div><div class="tip-row"><b class="num">${format(nearest.value)}</b> ${esc(unit || '')}</div>`);
-    })
-    .on('pointerleave', hideTip);
-  figure.append('div').attr('class', 'src').html(link(source || 'источник', url));
-}
-
-/* Belarus */
-(function belarus() {
+(function belarusRegions() {
   const block = document.getElementById('by-block');
-  if (!BY_DATA.regions && !byRatioSeries.length) { block.hidden = true; return; }
-  document.getElementById('by-h').textContent = `Беларусь: ${fmt0(byLatest.value)} разводов на 100 свадеб`;
+  if (!(BY_DATA.regions || []).length || !BY_GEO.features) { block.hidden = true; return; }
   const NAMES = {'BY-HM': 'Минск', 'BY-MI': 'Минская', 'BY-BR': 'Брестская', 'BY-VI': 'Витебская', 'BY-HO': 'Гомельская', 'BY-HR': 'Гродненская', 'BY-MA': 'Могилёвская'};
   const KEYS = [['Минская', 'BY-MI'], ['Брест', 'BY-BR'], ['Витеб', 'BY-VI'], ['Гомел', 'BY-HO'], ['Гродн', 'BY-HR'], ['Могил', 'BY-MA']];
   const isoOf = name => {
@@ -630,7 +643,7 @@ function lineChart(target, points, {title, unit, source, url, format = fmt1, mar
     return null;
   };
   const latest = new Map();
-  for (const row of BY_DATA.regions || []) {
+  for (const row of BY_DATA.regions) {
     const iso = isoOf(row.region);
     const ratio = row.ratio_pct ?? (row.divorces && row.marriages ? row.divorces / row.marriages * 100 : null);
     if (!iso || ratio == null) continue;
@@ -641,6 +654,8 @@ function lineChart(target, points, {title, unit, source, url, format = fmt1, mar
   const values = rows.map(row => row.ratio);
   const lo = d3.min(values), hi = d3.max(values), step = (hi - lo) / 6;
   const bins = [1, 2, 3, 4, 5].map(i => lo + step * i);
+  const years = [...new Set(rows.map(row => row.year))].join(', ');
+  document.getElementById('by-h').textContent = `Беларусь: ${fmt0(byLatest.value)} разводов на 100 свадеб, по областям`;
   const projection = d3.geoAzimuthalEqualArea().rotate([-28, -53.6]).fitExtent([[14, 14], [506, 426]], BY_GEO);
   const path = d3.geoPath(projection);
   const svg = d3.select('#bymap');
@@ -665,35 +680,34 @@ function lineChart(target, points, {title, unit, source, url, format = fmt1, mar
     });
   labels.append('tspan').attr('class', 'bn').attr('x', 0).attr('dy', '-0.45em').text(feature => NAMES[feature.properties.shapeISO]);
   labels.append('tspan').attr('class', 'bv').attr('x', 0).attr('dy', '1.3em').text(feature => latest.has(feature.properties.shapeISO) ? fmt0(latest.get(feature.properties.shapeISO).ratio) : '');
-  const years = [...new Set(rows.map(row => row.year))].join(', ');
-  document.getElementById('by-legend').innerHTML = `<span>разводов на 100 свадеб, ${years}</span>` +
-    [lo, ...bins].map((edge, index) => `<span><i style="background:var(--q${index})"></i>${fmt0(edge)}+</span>`).join('');
-  const series = bySeries('divorces_per_1000_marriages');
-  lineChart(document.getElementById('by-trend'), byRatioSeries, {title: 'Разводов на 100 свадеб', unit: `${byRatioSeries[0]?.year}–${byLatest.year}`, source: series?.source, url: series?.url, format: fmt0, markPeak: true});
+  document.getElementById('by-legend').innerHTML = `<span>${years}</span>` + [lo, ...bins].map((edge, index) => `<span><i style="background:var(--q${index})"></i>${fmt0(edge)}+</span>`).join('');
+
   const breakdown = title => (BY_DATA.breakdowns || []).find(item => (item.title_ru || '').startsWith(title));
   const reasons = breakdown('Основные причины разводов');
   const initiator = breakdown('Инициатор развода');
-  const under5 = sortedPoints(bySeries('divorces_under_5y_share'));
+  const urban = lastOf(sortedPoints(bySeries('divorce_rate_urban')));
+  const rural = lastOf(sortedPoints(bySeries('divorce_rate_rural')));
   const minsk = latest.get('BY-HM');
+  const minskRegion = latest.get('BY-MI');
+  const src = item => item ? link(String(item.source || 'источник').slice(0, 40), item.url) : '';
   const nums = [];
-  if (reasons?.items?.length) nums.push([`${fmt0(reasons.items[0].value)}%`, `назвали главной причиной алкоголь; измену — ${fmt0(reasons.items[1]?.value)}%`, reasons]);
-  if (initiator?.items?.length) nums.push([`${fmt0(initiator.items[0].value)}%`, 'разводов начинает жена; вместе — ' + fmt0(initiator.items[1]?.value) + '%, муж — ' + fmt0(initiator.items[2]?.value) + '%', initiator]);
-  if (minsk) nums.push([fmt0(minsk.ratio), `в Минске — меньше всех; в Минской области — ${fmt0(latest.get('BY-MI')?.ratio)}`, {source: minsk.source, url: minsk.url}]);
-  if (under5.length > 1) nums.push([`${fmt0(under5[under5.length - 1].value)}%`, `разводов в первые 5 лет брака; в ${under5[0].year} было ${fmt0(under5[0].value)}%`, bySeries('divorces_under_5y_share')]);
-  document.getElementById('by-nums').innerHTML = nums.map(([value, text, source]) =>
-    `<div class="fact"><b>${value}</b><span>${text}</span><i>${link(String(source?.source || 'источник').slice(0, 42), source?.url)}</i></div>`).join('');
+  if (minsk && minskRegion) nums.push([fmt0(minsk.ratio), `в Минске — меньше всех; в Минской области — ${fmt0(minskRegion.ratio)}, больше всех`, src(minsk)]);
+  if (urban && rural) nums.push([`${fmt1(urban.value)} и ${fmt1(rural.value)}`, `разводов на 1000 жителей в городах и сёлах (${urban.year}): в городах вдвое чаще`, src(bySeries('divorce_rate_urban'))]);
+  if (reasons?.items?.length) nums.push([`${fmt0(reasons.items[0].value)}%`, `назвали главной причиной алкоголь; измену — ${fmt0(reasons.items[1]?.value)}%`, src(reasons)]);
+  if (initiator?.items?.length) nums.push([`${fmt0(initiator.items[0].value)}%`, `разводов начинает жена; вместе — ${fmt0(initiator.items[1]?.value)}%, муж — ${fmt0(initiator.items[2]?.value)}%`, src(initiator)]);
+  document.getElementById('by-nums').innerHTML = nums.map(factCard).join('');
 })();
 
-/* why: causal chains */
+/* 3. why: causal chains in natural frequencies */
 const CHAINS = [
   {
     title: 'Образование и деньги',
     nodes: ['Мало образования и денег', 'Ранний брак, ребёнок до свадьбы', 'Развод'],
     links: [
-      {value: 'r = +0,65', text: 'штаты США: больше дипломов — позже свадьбы', kind: 'corr'},
-      {value: '37% и 55%', text: 'браков живут 20 лет: свадьба до 20 и в 20–24', kind: 'data'},
+      {value: 'сильная связь', text: 'штаты США: чем больше людей с дипломом, тем позже свадьбы', kind: 'corr'},
+      {value: '6 из 10 против 4–5', text: 'браков распадутся за 20 лет: свадьба до 20 лет и в 20–24', kind: 'data'},
     ],
-    total: ['78% и 41%', 'браков живут 20 лет у женщин с дипломом вуза и со школьным образованием'],
+    total: ['2 из 10 против 6 из 10', 'браков распадутся за 20 лет у женщин с дипломом вуза и со школьным образованием'],
     sources: [['Наш расчёт, ACS 2024', ''], ['Copen et al., 2012, CDC', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf']],
   },
   {
@@ -711,28 +725,28 @@ const CHAINS = [
     nodes: ['Родители развелись', 'Слабее вера в брак «навсегда»', 'Развод'],
     links: [
       {value: 'установка', text: 'сильнее всего, если родители почти не ссорились до развода', kind: 'data'},
-      {value: '×2', text: 'шансы развода; эффект в 17 из 18 стран', kind: 'data'},
+      {value: '6 из 10 против 4', text: 'браков распадутся за 20 лет: выросли не с обоими родителями и с обоими', kind: 'data'},
     ],
-    total: ['×1,3', 'в России; гены объясняют лишь небольшую часть'],
-    sources: [['Amato & DeBoer, 2001', 'https://doi.org/10.1111/j.1741-3737.2001.01038.x'], ['Dronkers & Härkönen, 2008', 'https://doi.org/10.1080/00324720802320475'], ['Muszyńska, 2008', 'https://doi.org/10.4054/DemRes.2008.18.6'], ['Salvatore et al., 2018', 'https://doi.org/10.1177/0956797617734864']],
+    total: ['в 17 из 18 стран', 'эффект найден почти везде; в России он слабее — риск выше примерно на треть'],
+    sources: [['Copen et al., 2012, CDC', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf'], ['Amato & DeBoer, 2001', 'https://doi.org/10.1111/j.1741-3737.2001.01038.x'], ['Dronkers & Härkönen, 2008', 'https://doi.org/10.1080/00324720802320475'], ['Muszyńska, 2008', 'https://doi.org/10.4054/DemRes.2008.18.6']],
   },
   {
     title: 'Алкоголь',
     nodes: ['Пьёт один из супругов', 'Развод'],
     links: [
-      {value: '×3,1 и ×1,5', text: 'риск, если много пьёт только жена или только муж (Норвегия)', kind: 'data'},
+      {value: 'в 3 раза чаще', text: 'разводятся, если много пьёт только жена; если только муж — в 1,5 раза', kind: 'data'},
     ],
-    total: ['×2,9', 'Россия: шансы развода, если жена пьёт чаще мужа'],
+    total: ['почти в 3 раза', 'чаще разводятся в России, если жена пьёт чаще мужа'],
     sources: [['Torvik et al., 2013', 'https://doi.org/10.1111/acer.12029'], ['Keenan et al., 2013', 'https://doi.org/10.1093/alcalc/agt068']],
   },
   {
     title: 'Закон',
     nodes: ['Разрешили развод без вины', 'Разводов больше', 'Через ~10 лет — как раньше'],
     links: [
-      {value: '+0,6 на 1000', text: 'Европа: около 20% роста разводов', kind: 'exp'},
+      {value: '+0,6 на 1000', text: 'Европа: реформы объясняют около 20% роста разводов', kind: 'exp'},
       {value: '~10 лет', text: 'США: всплеск рассасывается', kind: 'exp'},
     ],
-    total: ['−8…16%', 'женских самоубийств и около −30% домашнего насилия после реформы'],
+    total: ['на 8–16% меньше', 'женских самоубийств и примерно на 30% меньше домашнего насилия после реформы'],
     sources: [['González & Viitanen, 2009', 'https://doi.org/10.1016/j.euroecorev.2008.05.005'], ['Wolfers, 2006', 'https://doi.org/10.1257/aer.96.5.1802'], ['Stevenson & Wolfers, 2006', 'https://doi.org/10.1093/qje/121.1.267']],
   },
 ];
@@ -750,83 +764,101 @@ document.getElementById('chains').innerHTML = CHAINS.map(chain => {
     <div class="src">${chain.sources.map(([label, url]) => link(label, url)).join(' · ')}</div></div>`;
 }).join('');
 
-/* when: aggregated divorce risk by marriage duration */
+/* 4. when: out of 100 couples */
 (function whenBlock() {
-  const medianAll = d3.median(medians);
-  document.getElementById('when-h').textContent = `Опаснее всего ${peakRange}-й год брака, но половина разводов — после ${fmt0(medianAll)} лет`;
-  const durations = d3.range(0, 30);
-  const stats = durations.map(d => {
-    const values = durRows.map(row => row.rates[d]).filter(v => v != null).sort((a, b) => a - b);
-    return {d, median: d3.quantileSorted(values, 0.5), q1: d3.quantileSorted(values, 0.25), q3: d3.quantileSorted(values, 0.75)};
-  });
-  const W = 560, H = 250, m = {l: 40, r: 16, t: 18, b: 30};
-  const x = d3.scaleLinear().domain([0, 29]).range([m.l, W - m.r]);
-  const y = d3.scaleLinear().domain([0, d3.max(stats, s => s.q3)]).nice(4).range([H - m.b, m.t]);
-  const figure = d3.select('#hazard').append('figure').attr('class', 'lc');
-  figure.append('figcaption').html(`Риск развода по стажу брака<span>разводов на 1000 браков, ${durRows.length} стран Европы</span>`);
-  const svg = figure.append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Риск развода по стажу брака');
+  document.getElementById('when-h').textContent = `Опаснее всего ${peakRange}-й год брака, но половина разводов — позже ${fmt0(medianAll)} лет`;
+  const hazard = d3.range(0, 30).map(d => d3.median(durRows.map(row => row.rates[d]).filter(v => v != null)));
+  const togetherAfter = years => {
+    let share = 1;
+    for (let d = 0; d < years; d++) share *= 1 - hazard[d] / 1000;
+    return Math.round(share * 100);
+  };
+  document.getElementById('survival').innerHTML = [5, 10, 20, 30].map(years => {
+    const together = togetherAfter(years);
+    const rings = Array.from({length: 100}, (_, index) => `<i class="${index < together ? 'on' : ''}"></i>`).join('');
+    return `<div class="sv"><div class="icongrid" role="img" aria-label="${together} из 100 вместе через ${years} лет">${rings}</div><b>${together} из 100</b><span>вместе через ${years} лет</span></div>`;
+  }).join('');
+  document.getElementById('survival-src').innerHTML = `Наш расчёт по ${link('Eurostat', 'https://ec.europa.eu/eurostat/databrowser/view/demo_ndivdur/default/table')}: медианный риск развода на каждом году брака в ${durRows.length} странах Европы; без учёта смертности`;
+  const under5 = sortedPoints(bySeries('divorces_under_5y_share'));
+  const over20 = sortedPoints(bySeries('divorces_20plus_y_share'));
+  const nums = [[`${peakRange} лет`, 'стаж брака с самым высоким риском развода']];
+  if (under5.length > 1) nums.push([`${fmt0(lastOf(under5).value)}%`, `разводов в Беларуси — в первые 5 лет брака; в ${under5[0].year} было ${fmt0(under5[0].value)}%`]);
+  if (over20.length) nums.push([`${fmt0(lastOf(over20).value)}%`, `разводов в Беларуси — после 20+ лет брака (${lastOf(over20).year})`]);
+  nums.push(['37%', 'разводов в Корее — после 20+ лет вместе; в 2000 году было 14%']);
+  document.getElementById('when-nums').innerHTML = nums.map(factCard).join('');
+})();
+
+/* 5. how it changed: Belarus vs USA, divorces per 1000 people */
+(function history() {
+  const by = sortedPoints(bySeries('divorce_rate'));
+  const us = sortedPoints(usSeries('crude_divorce_rate')).filter(point => point.year >= 1900);
+  if (!by.length || !us.length) { document.getElementById('hist-h').closest('section').hidden = true; return; }
+  const usByYear = new Map(us.map(point => [point.year, point.value]));
+  const common = by.filter(point => usByYear.has(point.year));
+  let crossYear = null;
+  for (let i = common.length - 1; i >= 0 && common[i].value > usByYear.get(common[i].year); i--) crossYear = common[i].year;
+  document.getElementById('hist-h').textContent = crossYear
+    ? `Беларусь разводится чаще США с ${crossYear} года`
+    : 'Беларусь и США: разводы за сто лет';
+  const target = document.getElementById('hist-chart');
+  const W = chartWidth(target), H = Math.round(Math.max(230, W * 0.5)), m = {l: 36, r: 70, t: 22, b: 26};
+  const x = d3.scaleLinear().domain([1900, Math.max(lastOf(by).year, lastOf(us).year)]).range([m.l, W - m.r]);
+  const y = d3.scaleLinear().domain([0, d3.max([...by, ...us], point => point.value)]).nice(4).range([H - m.b, m.t]);
+  const figure = d3.select(target).append('figure').attr('class', 'lc');
+  figure.append('figcaption').html(`Разводов на 1000 жителей<span><i style="background:var(--accent)"></i>Беларусь<i style="background:var(--ink2)"></i>США</span>`);
+  const svg = figure.append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Разводы на 1000 жителей в Беларуси и США');
   for (const tick of y.ticks(4)) {
     svg.append('line').attr('class', 'grid').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y(tick)).attr('y2', y(tick));
     svg.append('text').attr('class', 'tk').attr('x', m.l - 5).attr('y', y(tick)).attr('text-anchor', 'end').attr('dominant-baseline', 'central').text(fmt0(tick));
   }
-  for (const tick of [0, 5, 10, 15, 20, 25, 29]) {
-    svg.append('text').attr('class', 'tk').attr('x', x(tick)).attr('y', H - 12).attr('text-anchor', 'middle').text(tick);
+  for (const tick of [1900, 1925, 1950, 1975, 2000, 2025]) {
+    svg.append('text').attr('class', 'tk').attr('x', x(tick)).attr('y', H - 7).attr('text-anchor', 'middle').text(tick);
   }
-  svg.append('text').attr('class', 'tk').attr('x', W - m.r).attr('y', H - 1).attr('text-anchor', 'end').text('стаж брака, лет');
-  svg.append('path').attr('class', 'band').attr('d', d3.area().x(s => x(s.d)).y0(s => y(s.q1)).y1(s => y(s.q3)).curve(d3.curveMonotoneX)(stats));
-  svg.append('path').attr('class', 'ln').attr('d', d3.line().x(s => x(s.d)).y(s => y(s.median)).curve(d3.curveMonotoneX)(stats));
-  const peak = stats.reduce((best, s) => s.median > best.median ? s : best, stats[0]);
-  svg.append('circle').attr('class', 'dot').attr('cx', x(peak.d)).attr('cy', y(peak.median)).attr('r', 4);
-  svg.append('text').attr('class', 'lab2').attr('x', x(peak.d) + 8).attr('y', y(peak.median) - 8).text(`пик: стаж ${peak.d} лет`);
-  svg.append('line').attr('class', 'vline').attr('x1', x(medianAll)).attr('x2', x(medianAll)).attr('y1', m.t).attr('y2', H - m.b);
-  svg.append('text').attr('class', 'lab2').attr('x', x(medianAll) + 6).attr('y', H - m.b - 10).text(`половина разводов — позже ${fmt0(medianAll)} лет`);
+  if (crossYear) svg.append('line').attr('class', 'cross').attr('x1', x(crossYear)).attr('x2', x(crossYear)).attr('y1', m.t).attr('y2', H - m.b);
+  const line = d3.line().x(point => x(point.year)).y(point => y(point.value)).curve(d3.curveMonotoneX);
+  svg.append('path').attr('class', 'ln2').attr('d', line(us));
+  svg.append('path').attr('class', 'ln').attr('d', line(by));
+  const peakOf = points => points.reduce((best, point) => point.value > best.value ? point : best, points[0]);
+  const marks = [
+    [lastOf(by), 'dot', `Беларусь ${fmt1(lastOf(by).value)}`, true],
+    [lastOf(us), 'dot2', `США ${fmt1(lastOf(us).value)}`, true],
+    [peakOf(us), 'dot2', `${peakOf(us).year}: ${fmt1(peakOf(us).value)}`, false],
+  ];
+  for (const [point, cls, text, end] of marks) {
+    svg.append('circle').attr('class', cls).attr('cx', x(point.year)).attr('cy', y(point.value)).attr('r', 3.6);
+    svg.append('text').attr('class', 'lab2').attr('x', x(point.year) + (end ? 6 : 0)).attr('y', y(point.value) - (end ? 0 : 10))
+      .attr('text-anchor', end ? 'start' : 'middle').attr('dominant-baseline', end ? 'central' : 'auto').text(text);
+  }
+  const byByYear = new Map(by.map(point => [point.year, point.value]));
   svg.append('rect').attr('x', m.l).attr('y', m.t).attr('width', W - m.l - m.r).attr('height', H - m.t - m.b).attr('fill', 'transparent')
     .on('pointermove', function (event) {
-      const d = Math.max(0, Math.min(29, Math.round(x.invert(d3.pointer(event, this)[0]))));
-      const s = stats[d];
-      showTip(event, `<div class="tip-name">Стаж ${d} лет</div><div class="tip-row">медиана: <b class="num">${fmt1(s.median)}</b> разводов на 1000 браков</div><div class="tip-note">половина стран: ${fmt1(s.q1)}–${fmt1(s.q3)}</div>`);
+      const year = Math.round(x.invert(d3.pointer(event, this)[0]));
+      const nearest = points => points.reduce((best, point) => Math.abs(point.year - year) < Math.abs(best.year - year) ? point : best, points[0]);
+      const b = nearest(by), u = nearest(us);
+      showTip(event, `<div class="tip-name">${year}</div><div class="tip-row">Беларусь (${b.year}): <b class="num">${fmt1(b.value)}</b></div><div class="tip-row">США (${u.year}): <b class="num">${fmt1(u.value)}</b></div><div class="tip-note">разводов на 1000 жителей</div>`);
     })
     .on('pointerleave', hideTip);
-  figure.append('div').attr('class', 'src').html(`Наш расчёт по ${link('Eurostat', 'https://ec.europa.eu/eurostat/databrowser/view/demo_ndivdur/default/table')}: разводы по стажу ÷ браки того года заключения; полоса — половина стран`);
-  const under5 = sortedPoints(bySeries('divorces_under_5y_share'));
-  const over20 = sortedPoints(bySeries('divorces_20plus_y_share'));
+  const bySrc = bySeries('divorce_rate');
+  figure.append('div').attr('class', 'src').html(`${link('Белстат', bySrc?.url)} · ${link('NCHS / CDC', usSeries('crude_divorce_rate')?.url)}`);
+
+  const byPeak = peakOf(by), usPeak = peakOf(us);
+  const marriages = sortedPoints(bySeries('marriage_rate'));
   const nums = [
-    [`${peakRange} лет`, 'стаж, на который приходится пик риска'],
-    [`${fmt0(quantile(medians, 0.1))}–${fmt0(quantile(medians, 0.9))} лет`, 'медианный стаж при разводе в Европе'],
-    ['37%', 'разводов в Корее — после 20+ лет брака; в 2000 году было 14%'],
+    [`${fmt1(usPeak.value)} → ${fmt1(lastOf(us).value)}`, `США: пик в ${usPeak.year}, сейчас (${lastOf(us).year})`],
+    [`${fmt1(byPeak.value)} → ${fmt1(lastOf(by).value)}`, `Беларусь: пик в ${byPeak.year}, сейчас (${lastOf(by).year})`],
+    [`в ${fmt0(lastOf(by).value / by[0].value)} раз`, `больше разводов в Беларуси, чем в ${by[0].year}`],
   ];
-  if (over20.length) nums.push([`${fmt0(over20[over20.length - 1].value)}%`, `разводов в Беларуси — после 20+ лет брака (${over20[over20.length - 1].year})`]);
-  document.getElementById('when-nums').innerHTML = nums.map(([value, text]) => `<div class="fact"><b>${value}</b><span>${text}</span></div>`).join('');
+  if (marriages.length) nums.push([`${fmt1(marriages[0].value)} → ${fmt1(lastOf(marriages).value)}`, `свадеб на 1000 жителей в Беларуси: ${marriages[0].year} → ${lastOf(marriages).year}`]);
+  document.getElementById('hist-nums').innerHTML = nums.map(factCard).join('');
 })();
 
-/* USA */
-(function usa() {
-  const series = (US_DEEP.timeseries || []).find(item => item.id === 'crude_divorce_rate');
-  const points = sortedPoints(series);
-  if (!points.length) { document.getElementById('us-h').textContent = 'США'; return; }
-  const peak = points.reduce((best, point) => point.value > best.value ? point : best, points[0]);
-  document.getElementById('us-h').textContent = `В США пик разводов пройден ещё в ${peak.year} году`;
-  lineChart(document.getElementById('us-trend'), points, {title: 'Разводов на 1000 жителей', unit: `${points[0].year}–${points[points.length - 1].year}`, source: 'NCHS / CDC', url: series.url, format: fmt1, markPeak: true});
-  const NAMES = {'10': 'Делавэр', '50': 'Вермонт', '44': 'Род-Айленд', '33': 'Нью-Гэмпшир', '16': 'Айдахо', '49': 'Юта', '20': 'Канзас', '34': 'Нью-Джерси'};
-  const states = (US.acs || []).filter(row => row.fips !== 'US' && row.fips !== '11').sort((a, b) => b.ratio - a.ratio);
-  const name = row => NAMES[row.fips] || row.name;
-  const last = points[points.length - 1];
-  const nums = [
-    [`${fmt1(peak.value)} → ${fmt1(last.value)}`, `разводов на 1000 жителей: ${peak.year} → ${last.year}`],
-    [fmt0(usNation.ratio), 'разводов на 100 свадеб в США, опрос ACS 2024'],
-    [fmt0(states[0].ratio), `${name(states[0])} — больше всех штатов`],
-    [fmt0(states[states.length - 1].ratio), `${name(states[states.length - 1])} — меньше всех штатов`],
-  ];
-  document.getElementById('us-nums').innerHTML = nums.map(([value, text]) => `<div class="fact"><b>${value}</b><span>${text}</span></div>`).join('');
-})();
-
-/* myths */
+/* 6. myths */
 (function myths() {
   const tdr = DUR_ES.filter(row => row.tdr != null && !row.tdr_note).map(row => row.tdr).sort((a, b) => a - b);
   const items = [
-    ['«Половина браков распадается»', `${fmt0(tdr[0])}–${fmt0(tdr[tdr.length - 1])}%`, 'Столько браков распадётся в разных странах Европы при нынешних темпах. «67 на 100» — это разводы на 100 свадеб одного года, а не доля распавшихся браков. В США за 20 лет распадается 44–48% первых браков.', [['Eurostat, наш расчёт', ''], ['CDC NSFG', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf']]],
-    ['«Протестантизм сохраняет брак»', '2,1 и 1,5', 'Разводов на 1000 жителей в протестантской Скандинавии и в католических странах Европы. Защищает личная религиозность, а не конфессия страны: где религия важна людям, разводов меньше (r = −0,65).', [['Наш расчёт: Eurostat, Gallup', '']]],
-    ['«Развод родителей — приговор»', '×1,3', 'Во столько раз выше риск в России (в мире — примерно ×2). Передаётся в основном установка «брак не навсегда»; гены объясняют небольшую часть.', [['Muszyńska, 2008', 'https://doi.org/10.4054/DemRes.2008.18.6'], ['Salvatore et al., 2018', 'https://doi.org/10.1177/0956797617734864']]],
+    ['«Половина браков распадается»', `${fmt0(tdr[0])}–${fmt0(lastOf(tdr))}%`, 'Столько браков распадётся в разных странах Европы при нынешних темпах. «67 на 100» — это разводы на 100 свадеб одного года, а не доля распавшихся браков. В США за 20 лет распадается 4–5 первых браков из 10.', [['Eurostat, наш расчёт', ''], ['CDC NSFG', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf']]],
+    ['«Протестантизм сохраняет брак»', '2,1 и 1,5', 'Разводов на 1000 жителей в протестантской Скандинавии и в католических странах Европы. Защищает личная религиозность, а не конфессия страны: где религия важна людям, разводов заметно меньше.', [['Наш расчёт: Eurostat, Gallup', '']]],
+    ['«Развод родителей — приговор»', '6 из 10 против 4', 'Столько браков распадается за 20 лет у выросших без обоих родителей и с обоими. Риск выше, но это не судьба: передаётся в основном установка «брак не навсегда», а в России эффект слабее.', [['Copen et al., 2012', 'https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf'], ['Muszyńska, 2008', 'https://doi.org/10.4054/DemRes.2008.18.6']]],
   ];
   document.getElementById('myths-list').innerHTML = items.map(([myth, value, text, sources]) =>
     `<div class="myth"><s>${esc(myth)}</s><b>${esc(value)}</b><p>${esc(text)}</p><div class="src">${sources.map(([label, url]) => link(label, url)).join(' · ')}</div></div>`).join('');
