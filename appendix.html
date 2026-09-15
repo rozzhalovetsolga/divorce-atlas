@@ -769,12 +769,13 @@ td .sw{width:12px;height:12px;vertical-align:-1px;margin-right:8px}
         <p id="corr-intro"></p>
         <div class="corr" id="why-corr"></div>
         <p class="corr-note">Коэффициент ранговой корреляции Спирмена: +1 — полная прямая связь, 0 — связи нет, −1 — полная обратная. Бледные полосы — связь статистически незначима. Корреляция не доказывает причину.</p>
-        <div class="scatters" id="why-scatters"></div>
+        <details class="src-details more"><summary><h3>Диаграммы рассеяния: страны и штаты</h3></summary><div class="scatters" id="why-scatters"></div></details>
         <div class="factor-groups" id="why-macro"></div>
         <div class="block" style="gap:12px">
           <h3 style="font-size:1.1rem">Религия и развод: что показывают данные</h3>
           <p id="why-religion-text" style="font-size:.9rem;color:var(--ink2);max-width:82ch"></p>
           <div class="scatters" id="why-religion-scatters"></div>
+          <details class="src-details more"><summary><h3>Ещё 2 графика по религии</h3></summary><div class="scatters" id="why-religion-more"></div></details>
         </div>
       </section>
 
@@ -1849,8 +1850,8 @@ function renderReligion() {
     `На уровне отдельных пар исследования, наоборот, обычно находят, что религиозность и регулярное посещение церкви связаны с меньшим риском развода. Защищает вера, которую практикуют, а не конфессия страны.`;
   const europe = AN_WORLD.points.filter(point => point.region === 'Europe');
   scatterPanel({title: 'Европа: важность религии', points: europe, xKey: 'importance', yKey: 'dr', xLabel: 'религия важна, %', yLabel: 'разводов на 1000 жителей', bins: METRICS.cdr.bins, labelSet: ['SE', 'DK', 'FI', 'IT', 'PL', 'RU', 'GR', 'MT'], idKey: 'iso2', nameOf: point => ruName(point.iso2, point.name), xFormat: v => fmt0(v), into: '#why-religion-scatters'});
-  scatterPanel({title: 'Европа: доля протестантов', points: europe, xKey: 'prot', yKey: 'dr', xLabel: '% протестантов', yLabel: 'разводов на 1000 жителей', bins: METRICS.cdr.bins, labelSet: ['SE', 'DK', 'FI', 'NO', 'DE', 'GB', 'RU'], idKey: 'iso2', nameOf: point => ruName(point.iso2, point.name), xFormat: v => fmt0(v), into: '#why-religion-scatters'});
-  scatterPanel({title: 'Штаты: доля евангелистов', points: AN_US.points, xKey: 'evangelical', yKey: 'refined', xLabel: '% евангелистов', yLabel: 'на 1000 замужних', bins: US_METRICS.refined.bins, labelSet: ['05', '40', '49', '23', '25', '28'], idKey: 'fips', nameOf: point => US_STATES[point.fips][1], xFormat: v => fmt0(v), into: '#why-religion-scatters'});
+  scatterPanel({title: 'Европа: доля протестантов', points: europe, xKey: 'prot', yKey: 'dr', xLabel: '% протестантов', yLabel: 'разводов на 1000 жителей', bins: METRICS.cdr.bins, labelSet: ['SE', 'DK', 'FI', 'NO', 'DE', 'GB', 'RU'], idKey: 'iso2', nameOf: point => ruName(point.iso2, point.name), xFormat: v => fmt0(v), into: '#why-religion-more'});
+  scatterPanel({title: 'Штаты: доля евангелистов', points: AN_US.points, xKey: 'evangelical', yKey: 'refined', xLabel: '% евангелистов', yLabel: 'на 1000 замужних', bins: US_METRICS.refined.bins, labelSet: ['05', '40', '49', '23', '25', '28'], idKey: 'fips', nameOf: point => US_STATES[point.fips][1], xFormat: v => fmt0(v), into: '#why-religion-more'});
 }
 renderReligion();
 
@@ -1874,8 +1875,13 @@ function renderHazards() {
   const y = d3.scaleLinear().domain([0, yMax]).range([H - m.b, m.t]);
   const area = d3.area().x((value, index) => x(index)).y0(y(0)).y1(value => y(value)).curve(d3.curveMonotoneX);
   const line = d3.line().x((value, index) => x(index)).y(value => y(value)).curve(d3.curveMonotoneX);
-  const container = d3.select('#dur-hazards');
+  const KEEP = ['ES', 'EE', 'SE', 'IT', 'PL', 'RO'];
+  const hidden = rows.filter(row => !KEEP.includes(row.iso2)).length;
+  document.getElementById('dur-hazards').insertAdjacentHTML('afterend', `<details class="src-details more"><summary><h3>Ещё ${hidden} стран</h3></summary><div class="minis" id="dur-hazards-more"></div></details>`);
+  const main = d3.select('#dur-hazards');
+  const more = d3.select('#dur-hazards-more');
   for (const row of rows) {
+    const container = KEEP.includes(row.iso2) ? main : more;
     const figure = container.append('figure').attr('class', 'mini');
     figure.append('figcaption').html(`<span>${esc(durName(row))}</span><span class="num">${fmt0(row.tdr)}%${row.tdr_note ? '*' : ''}</span>`);
     const svg = figure.append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', `${durName(row)}: риск развода по стажу брака`);
@@ -2256,13 +2262,13 @@ function renderBelarusMap() {
 }
 
 renderProfile('by', BY_DATA, {
-  ts: ['divorces_per_1000_marriages', 'divorce_rate', 'marriage_rate', 'age_first_marriage_women', 'divorce_rate_urban', 'remarriage_share_women'],
-  bd: ['Разводы по продолжительности расторгнутого брака', 'Разводы по возрасту женщины', 'Разводы по числу общих детей'],
+  ts: ['divorces_per_1000_marriages', 'divorce_rate', 'age_first_marriage_women', 'divorce_rate_urban'],
+  bd: ['Разводы по продолжительности расторгнутого брака', 'Разводы по числу общих детей'],
 });
 if (!document.getElementById('by-sheet').hidden) renderBelarusMap();
 renderProfile('usd', US_DEEP, {
-  ts: ['crude_divorce_rate', 'refined_divorce_rate_women', 'divorces_per_1000_marriages', 'median_age_first_marriage_women'],
-  bd: ['Уточнённый коэффициент разводимости по возрасту, 2023', 'Коэффициент развода из первого брака по расе', 'Коэффициент развода из первого брака по образованию', 'Уточнённый коэффициент разводимости женщин по регионам', 'Медианная длительность брака при первом разводе по образованию', 'Сколько раз был в браке'],
+  ts: ['crude_divorce_rate', 'refined_divorce_rate_women', 'median_age_first_marriage_women'],
+  bd: ['Уточнённый коэффициент разводимости по возрасту, 2023', 'Коэффициент развода из первого брака по образованию', 'Уточнённый коэффициент разводимости женщин по регионам'],
 });
 
 /* causal chains */
